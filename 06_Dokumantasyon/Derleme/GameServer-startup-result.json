@@ -1,0 +1,16 @@
+{
+  "Server": "GameServer",
+  "StartedUtc": "2026-11-04T20:44:47.7125261Z",
+  "Seconds": 26.0011001,
+  "StartupSucceeded": true,
+  "LoopbackBindings": [
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15001
+    }
+  ],
+  "ExitCode": null,
+  "StoppedAfterBoundedTest": true,
+  "ClientLoginTested": false,
+  "Published": false
+}

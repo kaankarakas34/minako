@@ -1,0 +1,84 @@
+{
+    "notices": [
+        "Gamesoft servers!",
+        "Gamesoft coming soon."
+    ],
+    "files": [
+        {
+            "file": "UI/gamesoft/black.dxt",
+            "size": 1143
+        },
+        {
+            "file": "UI/gamesoft/chance.dxt",
+            "size": 349528
+        },
+        {
+            "file": "UI/gamesoft/droplist.dxt",
+            "size": 1048661
+        },
+        {
+            "file": "UI/gamesoft/itemicon_group.dxt",
+            "size": 16475
+        },
+        {
+            "file": "UI/gamesoft/pus_item.dxt",
+            "size": 262229
+        },
+        {
+            "file": "UI/gamesoft/pus_main.dxt",
+            "size": 4194389
+        },
+        {
+            "file": "UI/re_clan_window.uif",
+            "size": 40748
+        },
+        {
+            "file": "UI/re_login_intro.uif",
+            "size": 27282
+        },
+        {
+            "file": "UI/re_minimenu.uif",
+            "size": 11754
+        },
+        {
+            "file": "UI/re_page_state.uif",
+            "size": 12423
+        },
+        {
+            "file": "UI/re_piecechange.uif",
+            "size": 11007
+        },
+        {
+            "file": "UI/re_seed_helper.uif",
+            "size": 118567
+        },
+        {
+            "file": "UI/re_skill.uif",
+            "size": 21711
+        },
+        {
+            "file": "UI/re_target_framebar.uif",
+            "size": 13619
+        },
+        {
+            "file": "UI/re_taskbar_main.uif",
+            "size": 20640
+        },
+        {
+            "file": "UI/re_tradeinventory.uif",
+            "size": 11414
+        },
+        {
+            "file": "UI/re_tradeprice.uif",
+            "size": 2852
+        },
+        {
+            "file": "gamesoft.xasm",
+            "size": 6794240
+        },
+        {
+            "file": "Option.exe",
+            "size": 356384
+        }
+    ]
+}

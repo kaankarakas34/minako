@@ -1,0 +1,30 @@
+{
+  "Applied": true,
+  "RuntimeOnly": true,
+  "Settings": {
+    "PM_EVENT": {
+      "ENABLED": "0",
+      "KC MIKTARI": "0"
+    },
+    "ONLINE_SYSTEM": {
+      "Moradon KC": "0",
+      "Moradon NP": "0",
+      "PK KC": "0",
+      "PK NP": "0"
+    },
+    "WANTED_EVENT": {
+      "STATUS": "0"
+    },
+    "GAME": {
+      "AutoRoyalG1": "0"
+    },
+    "BONUS": {
+      "EXP": "0",
+      "MONEY": "0",
+      "NP": "0"
+    }
+  },
+  "CanonicalEventSchedulesChanged": false,
+  "UnknownUpgradeBaseRatesChanged": false,
+  "MonsterDropsChanged": false
+}

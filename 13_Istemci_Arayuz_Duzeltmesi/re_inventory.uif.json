@@ -1,0 +1,5498 @@
+{
+  "type": "base",
+  "width": 601,
+  "height": 617,
+  "tail": [
+    0,
+    0,
+    1
+  ],
+  "children": [
+    {
+      "type": "button",
+      "id": "Btn_search",
+      "x": 390,
+      "y": 282,
+      "width": 24,
+      "height": 24,
+      "style": 65536,
+      "tooltip": "Search Item",
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 390,
+      "click_y": 282,
+      "click_width": 24,
+      "click_height": 24,
+      "children": [
+        {
+          "type": "image",
+          "x": 390,
+          "y": 282,
+          "width": 24,
+          "height": 24,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_01.dxt",
+          "crop": {
+            "left": 0.693359375,
+            "top": 0.7109375,
+            "right": 0.740234375,
+            "bottom": 0.7578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 390,
+          "y": 282,
+          "width": 24,
+          "height": 24,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_01.dxt",
+          "crop": {
+            "left": 0.7421875,
+            "top": 0.7109375,
+            "right": 0.7890625,
+            "bottom": 0.7578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 390,
+          "y": 282,
+          "width": 24,
+          "height": 24,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_01.dxt",
+          "crop": {
+            "left": 0.791015625,
+            "top": 0.7109375,
+            "right": 0.837890625,
+            "bottom": 0.7578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 390,
+          "y": 282,
+          "width": 24,
+          "height": 24,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_01.dxt",
+          "crop": {
+            "left": 0.83984375,
+            "top": 0.7109375,
+            "right": 0.88671875,
+            "bottom": 0.7578125
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "base",
+      "id": "base_LockImg",
+      "x": 231,
+      "y": 420,
+      "width": 346,
+      "height": 149,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "image",
+          "x": 530,
+          "y": 422,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 481,
+          "y": 422,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 432,
+          "y": 422,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 383,
+          "y": 422,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 334,
+          "y": 471,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 530,
+          "y": 521,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 481,
+          "y": 521,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 432,
+          "y": 521,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 383,
+          "y": 521,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 334,
+          "y": 521,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 236,
+          "y": 521,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 285,
+          "y": 521,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 531,
+          "y": 471,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 481,
+          "y": 471,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 432,
+          "y": 471,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 383,
+          "y": 471,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 334,
+          "y": 422,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 285,
+          "y": 471,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 236,
+          "y": 471,
+          "width": 43,
+          "height": 44,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_cash_warehouse.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.904296875,
+            "right": 0.8125,
+            "bottom": 0.9921875
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "Btn_VipVault",
+      "x": 242,
+      "y": 276,
+      "width": 29,
+      "height": 29,
+      "style": 65536,
+      "tooltip": "VIP Storage",
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 242,
+      "click_y": 276,
+      "click_width": 29,
+      "click_height": 29,
+      "children": [
+        {
+          "type": "image",
+          "x": 242,
+          "y": 276,
+          "width": 29,
+          "height": 29,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\icon_vault.dxt",
+          "crop": {
+            "left": 0.3828125,
+            "top": 0.0390625,
+            "right": 0.6875,
+            "bottom": 0.328125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 242,
+          "y": 276,
+          "width": 29,
+          "height": 29,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\icon_vault.dxt",
+          "crop": {
+            "left": 0.3828125,
+            "top": 0.6796875,
+            "right": 0.6875,
+            "bottom": 0.96875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 242,
+          "y": 276,
+          "width": 29,
+          "height": 29,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\icon_vault.dxt",
+          "crop": {
+            "left": 0.3828125,
+            "top": 0.359375,
+            "right": 0.6875,
+            "bottom": 0.6484375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 242,
+          "y": 276,
+          "width": 29,
+          "height": 29,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\icon_vault.dxt",
+          "crop": {
+            "left": 0.3828125,
+            "top": 0.0390625,
+            "right": 0.6875,
+            "bottom": 0.328125
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_item_arrangement",
+      "x": 373,
+      "y": 310,
+      "width": 39,
+      "height": 37,
+      "style": 65536,
+      "tooltip": "Auto-arranging inventory items. May be used every 30 secs.",
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 373,
+      "click_y": 310,
+      "click_width": 39,
+      "click_height": 37,
+      "children": [
+        {
+          "type": "image",
+          "x": 373,
+          "y": 310,
+          "width": 39,
+          "height": 37,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.80859375,
+            "top": 0.01171875,
+            "right": 0.884765625,
+            "bottom": 0.083984375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 373,
+          "y": 310,
+          "width": 39,
+          "height": 37,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.80859375,
+            "top": 0.1640625,
+            "right": 0.884765625,
+            "bottom": 0.236328125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 373,
+          "y": 310,
+          "width": 39,
+          "height": 37,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.80859375,
+            "top": 0.087890625,
+            "right": 0.884765625,
+            "bottom": 0.16015625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 373,
+          "y": 310,
+          "width": 39,
+          "height": 37,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.80859375,
+            "top": 0.01171875,
+            "right": 0.884765625,
+            "bottom": 0.083984375
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "base",
+      "id": "base_inven_notice",
+      "x": 237,
+      "y": 227,
+      "width": 286,
+      "height": 132,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "string",
+          "id": "string_inven_notice",
+          "x": 264,
+          "y": 258,
+          "width": 236,
+          "height": 39,
+          "style": 76546048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "text": "Would you like to re-arrange?"
+        },
+        {
+          "type": "button",
+          "id": "btn_inven_notice_ok",
+          "x": 294,
+          "y": 311,
+          "width": 82,
+          "height": 30,
+          "style": 65536,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 294,
+          "click_y": 311,
+          "click_width": 82,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 294,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.48046875,
+                "right": 0.845703125,
+                "bottom": 0.5390625
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 294,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.6015625,
+                "right": 0.845703125,
+                "bottom": 0.66015625
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 294,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.541015625,
+                "right": 0.845703125,
+                "bottom": 0.599609375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 294,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.662109375,
+                "right": 0.845703125,
+                "bottom": 0.720703125
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_inven_notice_cancel",
+          "x": 381,
+          "y": 311,
+          "width": 82,
+          "height": 30,
+          "style": 65536,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 381,
+          "click_y": 311,
+          "click_width": 82,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 381,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.72265625,
+                "right": 0.845703125,
+                "bottom": 0.78125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 381,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.84375,
+                "right": 0.845703125,
+                "bottom": 0.90234375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 381,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.783203125,
+                "right": 0.845703125,
+                "bottom": 0.841796875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 381,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.904296875,
+                "right": 0.845703125,
+                "bottom": 0.962890625
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "id": "img_inven_notice_top",
+          "x": 238,
+          "y": 227,
+          "width": 287,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.001953125,
+            "right": 0.5625,
+            "bottom": 0.037109375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_inven_notice_middle",
+          "x": 238,
+          "y": 245,
+          "width": 287,
+          "height": 98,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.0390625,
+            "right": 0.5625,
+            "bottom": 0.07421875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_inven_notice_bottom",
+          "x": 238,
+          "y": 343,
+          "width": 287,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.076171875,
+            "right": 0.5625,
+            "bottom": 0.111328125
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_trashlock",
+      "x": 561,
+      "y": 301,
+      "width": 18,
+      "height": 18,
+      "style": 131072,
+      "tooltip": "Trash bins may be closed/open, once closed items cannot be destroyed.",
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 561,
+      "click_y": 301,
+      "click_width": 18,
+      "click_height": 18,
+      "children": [
+        {
+          "type": "image",
+          "x": 561,
+          "y": 301,
+          "width": 18,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.845703125,
+            "top": 0.962890625,
+            "right": 0.880859375,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 561,
+          "y": 301,
+          "width": 18,
+          "height": 18,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.919921875,
+            "top": 0.962890625,
+            "right": 0.955078125,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 561,
+          "y": 301,
+          "width": 18,
+          "height": 18,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.8828125,
+            "top": 0.962890625,
+            "right": 0.91796875,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 561,
+          "y": 301,
+          "width": 18,
+          "height": 18,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.95703125,
+            "top": 0.962890625,
+            "right": 0.9921875,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_open_cos",
+      "x": 216,
+      "y": 147,
+      "width": 12,
+      "height": 159,
+      "style": 65536,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 216,
+      "click_y": 147,
+      "click_width": 12,
+      "click_height": 159,
+      "children": [
+        {
+          "type": "image",
+          "x": 216,
+          "y": 147,
+          "width": 12,
+          "height": 159,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill02.dxt",
+          "crop": {
+            "left": 0.078125,
+            "top": 0.41015625,
+            "right": 0.1015625,
+            "bottom": 0.720703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 216,
+          "y": 147,
+          "width": 12,
+          "height": 159,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill02.dxt",
+          "crop": {
+            "left": 0.02734375,
+            "top": 0.41015625,
+            "right": 0.05078125,
+            "bottom": 0.720703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 216,
+          "y": 147,
+          "width": 12,
+          "height": 159,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill02.dxt",
+          "crop": {
+            "left": 0.052734375,
+            "top": 0.41015625,
+            "right": 0.076171875,
+            "bottom": 0.720703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 216,
+          "y": 147,
+          "width": 12,
+          "height": 159,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.41015625,
+            "right": 0.025390625,
+            "bottom": 0.720703125
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_close",
+      "x": 550,
+      "y": 38,
+      "width": 34,
+      "height": 33,
+      "style": 65536,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 550,
+      "click_y": 38,
+      "click_width": 34,
+      "click_height": 33,
+      "children": [
+        {
+          "type": "image",
+          "x": 550,
+          "y": 38,
+          "width": 34,
+          "height": 33,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_page_state.dxt",
+          "crop": {
+            "left": 0.728515625,
+            "top": 0.791015625,
+            "right": 0.794921875,
+            "bottom": 0.85546875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 550,
+          "y": 38,
+          "width": 34,
+          "height": 33,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_page_state.dxt",
+          "crop": {
+            "left": 0.591796875,
+            "top": 0.791015625,
+            "right": 0.658203125,
+            "bottom": 0.85546875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 550,
+          "y": 38,
+          "width": 34,
+          "height": 33,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_page_state.dxt",
+          "crop": {
+            "left": 0.66015625,
+            "top": 0.791015625,
+            "right": 0.7265625,
+            "bottom": 0.85546875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 550,
+          "y": 38,
+          "width": 34,
+          "height": 33,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_page_state.dxt",
+          "crop": {
+            "left": 0.5234375,
+            "top": 0.791015625,
+            "right": 0.58984375,
+            "bottom": 0.85546875
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_helmetview",
+      "x": 508,
+      "y": 88,
+      "width": 18,
+      "height": 18,
+      "style": 131072,
+      "tooltip": "Set up to show/hide Helmets.",
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 508,
+      "click_y": 88,
+      "click_width": 18,
+      "click_height": 18,
+      "children": [
+        {
+          "type": "image",
+          "x": 508,
+          "y": 88,
+          "width": 18,
+          "height": 18,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.95703125,
+            "top": 0.962890625,
+            "right": 0.9921875,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 508,
+          "y": 88,
+          "width": 18,
+          "height": 18,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.8828125,
+            "top": 0.962890625,
+            "right": 0.91796875,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 508,
+          "y": 88,
+          "width": 18,
+          "height": 18,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.919921875,
+            "top": 0.962890625,
+            "right": 0.955078125,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 508,
+          "y": 88,
+          "width": 18,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.845703125,
+            "top": 0.962890625,
+            "right": 0.880859375,
+            "bottom": 0.998046875
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "base",
+      "id": "base_bag",
+      "x": 171,
+      "y": 227,
+      "width": 286,
+      "height": 132,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "string",
+          "id": "string_Bag",
+          "x": 198,
+          "y": 258,
+          "width": 236,
+          "height": 39,
+          "style": 75497472,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "text": "Equipping bag, once equipped it cannot be        reverted. Would you like to continue?"
+        },
+        {
+          "type": "button",
+          "id": "btn_bag_ok",
+          "x": 228,
+          "y": 311,
+          "width": 82,
+          "height": 30,
+          "style": 65536,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 228,
+          "click_y": 311,
+          "click_width": 82,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 228,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.48046875,
+                "right": 0.845703125,
+                "bottom": 0.5390625
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 228,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.6015625,
+                "right": 0.845703125,
+                "bottom": 0.66015625
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 228,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.541015625,
+                "right": 0.845703125,
+                "bottom": 0.599609375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 228,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.662109375,
+                "right": 0.845703125,
+                "bottom": 0.720703125
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_bag_cancel",
+          "x": 315,
+          "y": 311,
+          "width": 82,
+          "height": 30,
+          "style": 65536,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 315,
+          "click_y": 311,
+          "click_width": 82,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 315,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.72265625,
+                "right": 0.845703125,
+                "bottom": 0.78125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 315,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.84375,
+                "right": 0.845703125,
+                "bottom": 0.90234375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 315,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.783203125,
+                "right": 0.845703125,
+                "bottom": 0.841796875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 315,
+              "y": 311,
+              "width": 82,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.904296875,
+                "right": 0.845703125,
+                "bottom": 0.962890625
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "id": "img_bag_top",
+          "x": 172,
+          "y": 227,
+          "width": 287,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.001953125,
+            "right": 0.5625,
+            "bottom": 0.037109375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_bag_middle",
+          "x": 172,
+          "y": 245,
+          "width": 287,
+          "height": 98,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.0390625,
+            "right": 0.5625,
+            "bottom": 0.07421875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_bag_bottom",
+          "x": 172,
+          "y": 343,
+          "width": 287,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.076171875,
+            "right": 0.5625,
+            "bottom": 0.111328125
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "area",
+      "id": "area_samma",
+      "x": 529,
+      "y": 308,
+      "width": 44,
+      "height": 44,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "string",
+          "id": "string_Destroy2",
+          "x": 262,
+          "y": 293,
+          "width": 233,
+          "height": 37,
+          "style": 75497472,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            128,
+            255
+          ],
+          "text": "Items that are destroyed may be repurchased from Moradon Kaishan within 3 days.                 (Exception: destroying Magic Bag in use)"
+        },
+        {
+          "type": "string",
+          "id": "string_Destroy",
+          "x": 290,
+          "y": 279,
+          "width": 183,
+          "height": 21,
+          "style": 75497472,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "text": "Would you like to destroy this item?"
+        },
+        {
+          "type": "button",
+          "id": "btn_Destroy_cancel",
+          "x": 379,
+          "y": 334,
+          "width": 82,
+          "height": 30,
+          "style": 65536,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 379,
+          "click_y": 334,
+          "click_width": 82,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 379,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.904296875,
+                "right": 0.845703125,
+                "bottom": 0.962890625
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 379,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.783203125,
+                "right": 0.845703125,
+                "bottom": 0.841796875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 379,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.84375,
+                "right": 0.845703125,
+                "bottom": 0.90234375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 379,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.72265625,
+                "right": 0.845703125,
+                "bottom": 0.78125
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_Destroy_ok",
+          "x": 292,
+          "y": 334,
+          "width": 82,
+          "height": 30,
+          "style": 65536,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 292,
+          "click_y": 334,
+          "click_width": 82,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 292,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.662109375,
+                "right": 0.845703125,
+                "bottom": 0.720703125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 292,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.541015625,
+                "right": 0.845703125,
+                "bottom": 0.599609375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 292,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.6015625,
+                "right": 0.845703125,
+                "bottom": 0.66015625
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 292,
+              "y": 334,
+              "width": 82,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_partyboard02.dxt",
+              "crop": {
+                "left": 0.685546875,
+                "top": 0.48046875,
+                "right": 0.845703125,
+                "bottom": 0.5390625
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "id": "img_Destroy_top",
+          "x": 236,
+          "y": 250,
+          "width": 285,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.001953125,
+            "right": 0.5625,
+            "bottom": 0.037109375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_Destroy_middle",
+          "x": 236,
+          "y": 268,
+          "width": 285,
+          "height": 98,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.0390625,
+            "right": 0.5625,
+            "bottom": 0.07421875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_Destroy_bottom",
+          "x": 236,
+          "y": 366,
+          "width": 285,
+          "height": 18,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_main_ui_02.dxt",
+          "crop": {
+            "left": 0.001953125,
+            "top": 0.076171875,
+            "right": 0.5625,
+            "bottom": 0.111328125
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_gold",
+      "x": 244,
+      "y": 327,
+      "width": 24,
+      "height": 27,
+      "style": 65536,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "click_x": 244,
+      "click_y": 327,
+      "click_width": 24,
+      "click_height": 27,
+      "children": [
+        {
+          "type": "image",
+          "x": 244,
+          "y": 327,
+          "width": 24,
+          "height": 27,
+          "reserved": 3,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.681640625,
+            "top": 0.76953125,
+            "right": 0.728515625,
+            "bottom": 0.822265625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 244,
+          "y": 327,
+          "width": 24,
+          "height": 27,
+          "reserved": 2,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.583984375,
+            "top": 0.76953125,
+            "right": 0.630859375,
+            "bottom": 0.822265625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 244,
+          "y": 327,
+          "width": 24,
+          "height": 27,
+          "reserved": 1,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.6328125,
+            "top": 0.76953125,
+            "right": 0.6796875,
+            "bottom": 0.822265625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 244,
+          "y": 327,
+          "width": 24,
+          "height": 27,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.53515625,
+            "top": 0.76953125,
+            "right": 0.58203125,
+            "bottom": 0.822265625
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "string",
+      "x": 240,
+      "y": 309,
+      "width": 35,
+      "height": 21,
+      "style": 607125504,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        235,
+        251,
+        145,
+        255
+      ],
+      "text": "Weight"
+    },
+    {
+      "type": "string",
+      "id": "27",
+      "x": 531,
+      "y": 550,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "26",
+      "x": 482,
+      "y": 550,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "25",
+      "x": 433,
+      "y": 550,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "24",
+      "x": 384,
+      "y": 550,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "23",
+      "x": 335,
+      "y": 550,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "22",
+      "x": 286,
+      "y": 550,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "21",
+      "x": 236,
+      "y": 550,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "20",
+      "x": 531,
+      "y": 501,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "19",
+      "x": 482,
+      "y": 501,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "18",
+      "x": 433,
+      "y": 504,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "17",
+      "x": 384,
+      "y": 501,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "16",
+      "x": 335,
+      "y": 501,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "15",
+      "x": 286,
+      "y": 501,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "14",
+      "x": 236,
+      "y": 502,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "13",
+      "x": 531,
+      "y": 452,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "12",
+      "x": 482,
+      "y": 452,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "11",
+      "x": 433,
+      "y": 452,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "10",
+      "x": 384,
+      "y": 452,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "9",
+      "x": 335,
+      "y": 452,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "8",
+      "x": 286,
+      "y": 452,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "7",
+      "x": 236,
+      "y": 453,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "6",
+      "x": 531,
+      "y": 404,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "5",
+      "x": 482,
+      "y": 404,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "4",
+      "x": 433,
+      "y": 403,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "3",
+      "x": 384,
+      "y": 403,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "2",
+      "x": 335,
+      "y": 404,
+      "width": 40,
+      "height": 12,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "1",
+      "x": 286,
+      "y": 403,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "0",
+      "x": 236,
+      "y": 404,
+      "width": 40,
+      "height": 13,
+      "style": 338690048,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "text_weight",
+      "x": 274,
+      "y": 311,
+      "width": 89,
+      "height": 18,
+      "style": 72351744,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "text": "9999.9/9999.9"
+    },
+    {
+      "type": "string",
+      "id": "text_gold",
+      "x": 273,
+      "y": 334,
+      "width": 90,
+      "height": 13,
+      "style": 72351744,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "font": "Verdana",
+      "fontSize": 9,
+      "color": [
+        235,
+        199,
+        56,
+        255
+      ],
+      "text": "2100000000"
+    },
+    {
+      "type": "area",
+      "id": "26",
+      "x": 481,
+      "y": 520,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "25",
+      "x": 432,
+      "y": 520,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "base",
+      "id": "base_cos",
+      "x": 10,
+      "y": 54,
+      "width": 218,
+      "height": 522,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "button",
+          "id": "btn_FacePreView",
+          "x": 62,
+          "y": 249,
+          "width": 18,
+          "height": 18,
+          "style": 131072,
+          "tooltip": "Set up to show/hide Face.",
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 62,
+          "click_y": 249,
+          "click_width": 18,
+          "click_height": 18,
+          "children": [
+            {
+              "type": "image",
+              "x": 62,
+              "y": 249,
+              "width": 18,
+              "height": 18,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.95703125,
+                "top": 0.962890625,
+                "right": 0.9921875,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 62,
+              "y": 249,
+              "width": 18,
+              "height": 18,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.8828125,
+                "top": 0.962890625,
+                "right": 0.91796875,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 62,
+              "y": 249,
+              "width": 18,
+              "height": 18,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.919921875,
+                "top": 0.962890625,
+                "right": 0.955078125,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 62,
+              "y": 249,
+              "width": 18,
+              "height": 18,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.845703125,
+                "top": 0.962890625,
+                "right": 0.880859375,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "area",
+          "id": "9",
+          "x": 32,
+          "y": 260,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "image",
+          "x": 27,
+          "y": 255,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "button",
+          "id": "btn_WingPreView",
+          "x": 121,
+          "y": 119,
+          "width": 18,
+          "height": 18,
+          "style": 131072,
+          "tooltip": "Set up to show/hide Minerva.",
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 121,
+          "click_y": 119,
+          "click_width": 18,
+          "click_height": 18,
+          "children": [
+            {
+              "type": "image",
+              "x": 121,
+              "y": 119,
+              "width": 18,
+              "height": 18,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.95703125,
+                "top": 0.962890625,
+                "right": 0.9921875,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 121,
+              "y": 119,
+              "width": 18,
+              "height": 18,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.8828125,
+                "top": 0.962890625,
+                "right": 0.91796875,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 121,
+              "y": 119,
+              "width": 18,
+              "height": 18,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.919921875,
+                "top": 0.962890625,
+                "right": 0.955078125,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 121,
+              "y": 119,
+              "width": 18,
+              "height": 18,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.845703125,
+                "top": 0.962890625,
+                "right": 0.880859375,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_close_cos",
+          "x": 216,
+          "y": 147,
+          "width": 12,
+          "height": 159,
+          "style": 65536,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 216,
+          "click_y": 147,
+          "click_width": 12,
+          "click_height": 159,
+          "children": [
+            {
+              "type": "image",
+              "x": 216,
+              "y": 147,
+              "width": 12,
+              "height": 159,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill02.dxt",
+              "crop": {
+                "left": 0.1796875,
+                "top": 0.41015625,
+                "right": 0.203125,
+                "bottom": 0.720703125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 216,
+              "y": 147,
+              "width": 12,
+              "height": 159,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill02.dxt",
+              "crop": {
+                "left": 0.12890625,
+                "top": 0.41015625,
+                "right": 0.15234375,
+                "bottom": 0.720703125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 216,
+              "y": 147,
+              "width": 12,
+              "height": 159,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill02.dxt",
+              "crop": {
+                "left": 0.154296875,
+                "top": 0.41015625,
+                "right": 0.177734375,
+                "bottom": 0.720703125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 216,
+              "y": 147,
+              "width": 12,
+              "height": 159,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill02.dxt",
+              "crop": {
+                "left": 0.103515625,
+                "top": 0.41015625,
+                "right": 0.126953125,
+                "bottom": 0.720703125
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "id": "img_hide",
+          "x": 40,
+          "y": 352,
+          "width": 145,
+          "height": 197,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.109375,
+            "top": 0.076171875,
+            "right": 0.15625,
+            "bottom": 0.115234375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "button",
+          "id": "btn_CosPreView",
+          "x": 121,
+          "y": 68,
+          "width": 18,
+          "height": 18,
+          "style": 131072,
+          "tooltip": "Set up to show/hide Minerva.",
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 121,
+          "click_y": 68,
+          "click_width": 18,
+          "click_height": 18,
+          "children": [
+            {
+              "type": "image",
+              "x": 121,
+              "y": 68,
+              "width": 18,
+              "height": 18,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.845703125,
+                "top": 0.962890625,
+                "right": 0.880859375,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 121,
+              "y": 68,
+              "width": 18,
+              "height": 18,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.919921875,
+                "top": 0.962890625,
+                "right": 0.955078125,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 121,
+              "y": 68,
+              "width": 18,
+              "height": 18,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.8828125,
+                "top": 0.962890625,
+                "right": 0.91796875,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 121,
+              "y": 68,
+              "width": 18,
+              "height": 18,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.95703125,
+                "top": 0.962890625,
+                "right": 0.9921875,
+                "bottom": 0.998046875
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "area",
+          "id": "8",
+          "x": 39,
+          "y": 79,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "7",
+          "x": 143,
+          "y": 79,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "4",
+          "x": 91,
+          "y": 183,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "3",
+          "x": 143,
+          "y": 131,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "2",
+          "x": 39,
+          "y": 131,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "1",
+          "x": 91,
+          "y": 79,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "0",
+          "x": 91,
+          "y": 131,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "6",
+          "x": 150,
+          "y": 260,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "5",
+          "x": 91,
+          "y": 260,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "button",
+          "id": "btn_bag2",
+          "x": 96,
+          "y": 315,
+          "width": 63,
+          "height": 30,
+          "style": 131072,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 96,
+          "click_y": 315,
+          "click_width": 63,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 96,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.37890625,
+                "top": 0.9375,
+                "right": 0.501953125,
+                "bottom": 0.99609375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 96,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.12890625,
+                "top": 0.9375,
+                "right": 0.251953125,
+                "bottom": 0.99609375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 96,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.25390625,
+                "top": 0.9375,
+                "right": 0.376953125,
+                "bottom": 0.99609375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 96,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.00390625,
+                "top": 0.9375,
+                "right": 0.126953125,
+                "bottom": 0.99609375
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_bag1",
+          "x": 33,
+          "y": 315,
+          "width": 63,
+          "height": 30,
+          "style": 131072,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "click_x": 33,
+          "click_y": 315,
+          "click_width": 63,
+          "click_height": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 33,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "reserved": 3,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.37890625,
+                "top": 0.876953125,
+                "right": 0.501953125,
+                "bottom": 0.935546875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 33,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "reserved": 2,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.12890625,
+                "top": 0.876953125,
+                "right": 0.251953125,
+                "bottom": 0.935546875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 33,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "reserved": 1,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.25390625,
+                "top": 0.876953125,
+                "right": 0.376953125,
+                "bottom": 0.935546875
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 33,
+              "y": 315,
+              "width": 63,
+              "height": 30,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_skill01.dxt",
+              "crop": {
+                "left": 0.00390625,
+                "top": 0.876953125,
+                "right": 0.126953125,
+                "bottom": 0.935546875
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "id": "39",
+          "x": 144,
+          "y": 536,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "38",
+          "x": 93,
+          "y": 536,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "37",
+          "x": 42,
+          "y": 536,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "36",
+          "x": 144,
+          "y": 485,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "35",
+          "x": 93,
+          "y": 485,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "34",
+          "x": 42,
+          "y": 485,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "33",
+          "x": 144,
+          "y": 434,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "32",
+          "x": 93,
+          "y": 434,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "31",
+          "x": 42,
+          "y": 434,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "30",
+          "x": 144,
+          "y": 383,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "29",
+          "x": 93,
+          "y": 383,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "28",
+          "x": 42,
+          "y": 383,
+          "width": 40,
+          "height": 13,
+          "style": 338690048,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "font": "Verdana",
+          "fontSize": 9,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "area",
+          "id": "11",
+          "x": 142,
+          "y": 505,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "10",
+          "x": 91,
+          "y": 505,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "9",
+          "x": 40,
+          "y": 505,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "8",
+          "x": 142,
+          "y": 454,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "7",
+          "x": 91,
+          "y": 454,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "6",
+          "x": 40,
+          "y": 454,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "5",
+          "x": 142,
+          "y": 403,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "4",
+          "x": 91,
+          "y": 403,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "3",
+          "x": 40,
+          "y": 403,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "2",
+          "x": 142,
+          "y": 352,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "1",
+          "x": 91,
+          "y": 352,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "0",
+          "x": 40,
+          "y": 352,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "image",
+          "x": 138,
+          "y": 126,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 145,
+          "y": 255,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 86,
+          "y": 255,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 138,
+          "y": 74,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 86,
+          "y": 178,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 86,
+          "y": 126,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 34,
+          "y": 126,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 86,
+          "y": 74,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 34,
+          "y": 74,
+          "width": 53,
+          "height": 53,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_skill01.dxt",
+          "crop": {
+            "left": 0.89453125,
+            "top": 0.853515625,
+            "right": 0.998046875,
+            "bottom": 0.95703125
+          },
+          "animFrame": 30,
+          "children": [
+            {
+              "type": "image",
+              "x": 38,
+              "y": 79,
+              "width": 45,
+              "height": 43,
+              "tail": [
+                0,
+                0,
+                0
+              ],
+              "texture": "ui\\re_main_ui_01.dxt",
+              "crop": {
+                "left": 0.037109375,
+                "top": 0.224609375,
+                "right": 0.083984375,
+                "bottom": 0.2734375
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "x": 10,
+          "y": 57,
+          "width": 205,
+          "height": 125,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.00390625,
+            "top": 0.345703125,
+            "right": 0.404296875,
+            "bottom": 0.58984375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 10,
+          "y": 182,
+          "width": 205,
+          "height": 139,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.40625,
+            "top": 0.34375,
+            "right": 0.806640625,
+            "bottom": 0.615234375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 10,
+          "y": 57,
+          "width": 205,
+          "height": 125,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.00390625,
+            "top": 0.345703125,
+            "right": 0.404296875,
+            "bottom": 0.58984375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 10,
+          "y": 460,
+          "width": 205,
+          "height": 116,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.40625,
+            "top": 0.6171875,
+            "right": 0.806640625,
+            "bottom": 0.84375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 10,
+          "y": 321,
+          "width": 205,
+          "height": 140,
+          "tail": [
+            0,
+            0,
+            0
+          ],
+          "texture": "ui\\re_inventory02.dxt",
+          "crop": {
+            "left": 0.00390625,
+            "top": 0.591796875,
+            "right": 0.404296875,
+            "bottom": 0.865234375
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "area",
+      "id": "24",
+      "x": 383,
+      "y": 520,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "23",
+      "x": 334,
+      "y": 520,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "22",
+      "x": 285,
+      "y": 520,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "21",
+      "x": 236,
+      "y": 520,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "20",
+      "x": 530,
+      "y": 471,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "19",
+      "x": 481,
+      "y": 471,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "18",
+      "x": 432,
+      "y": 471,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "17",
+      "x": 384,
+      "y": 471,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "16",
+      "x": 334,
+      "y": 471,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "15",
+      "x": 285,
+      "y": 471,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "14",
+      "x": 236,
+      "y": 471,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "13",
+      "x": 530,
+      "y": 422,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "12",
+      "x": 481,
+      "y": 422,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "11",
+      "x": 432,
+      "y": 422,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "10",
+      "x": 383,
+      "y": 422,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "9",
+      "x": 334,
+      "y": 422,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "8",
+      "x": 285,
+      "y": 422,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "7",
+      "x": 236,
+      "y": 422,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "27",
+      "x": 530,
+      "y": 520,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "5",
+      "x": 481,
+      "y": 373,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "4",
+      "x": 432,
+      "y": 373,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "3",
+      "x": 383,
+      "y": 373,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "2",
+      "x": 335,
+      "y": 373,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "1",
+      "x": 285,
+      "y": 373,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "0",
+      "x": 236,
+      "y": 373,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "14",
+      "x": 529,
+      "y": 308,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "13",
+      "x": 477,
+      "y": 308,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "12",
+      "x": 425,
+      "y": 308,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "11",
+      "x": 529,
+      "y": 255,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "10",
+      "x": 477,
+      "y": 255,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "9",
+      "x": 425,
+      "y": 255,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "8",
+      "x": 529,
+      "y": 204,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "7",
+      "x": 477,
+      "y": 204,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "6",
+      "x": 425,
+      "y": 204,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "5",
+      "x": 529,
+      "y": 152,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "4",
+      "x": 477,
+      "y": 152,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "3",
+      "x": 425,
+      "y": 152,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "2",
+      "x": 529,
+      "y": 100,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "1",
+      "x": 477,
+      "y": 100,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "0",
+      "x": 425,
+      "y": 100,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "6",
+      "x": 530,
+      "y": 373,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "area_wepone",
+      "x": 418,
+      "y": 94,
+      "width": 162,
+      "height": 264,
+      "tail": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "type": "area",
+      "id": "area_tooltip",
+      "x": 267,
+      "y": 100,
+      "width": 122,
+      "height": 201,
+      "tail": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "type": "area",
+      "id": "area_char",
+      "x": 239,
+      "y": 96,
+      "width": 177,
+      "height": 205,
+      "tail": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "type": "image",
+      "x": 271,
+      "y": 310,
+      "width": 99,
+      "height": 18,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_inventory02.dxt",
+      "crop": {
+        "left": 0.00390625,
+        "top": 0.3046875,
+        "right": 0.2578125,
+        "bottom": 0.341796875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "id": "img_TrashLock",
+      "x": 529,
+      "y": 308,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_inventory01.dxt",
+      "crop": {
+        "left": 0.796875,
+        "top": 0.0234375,
+        "right": 0.880859375,
+        "bottom": 0.107421875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 271,
+      "y": 330,
+      "width": 99,
+      "height": 18,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_inventory02.dxt",
+      "crop": {
+        "left": 0.00390625,
+        "top": 0.3046875,
+        "right": 0.2578125,
+        "bottom": 0.341796875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "id": "elmo_ecli666",
+      "x": 315,
+      "y": 205,
+      "width": 17,
+      "height": 17,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_inventory01.dxt",
+      "crop": {
+        "left": 0.869140625,
+        "top": 0.185546875,
+        "right": 0.90234375,
+        "bottom": 0.21875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 379,
+      "y": 50,
+      "width": 48,
+      "height": 16,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.09375,
+        "top": 0.73046875,
+        "right": 0.1875,
+        "bottom": 0.76171875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 524,
+      "y": 303,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.791015625,
+        "top": 0.755859375,
+        "right": 0.89453125,
+        "bottom": 0.859375
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 472,
+      "y": 303,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 420,
+      "y": 303,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 524,
+      "y": 251,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 472,
+      "y": 251,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 420,
+      "y": 251,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 524,
+      "y": 199,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 472,
+      "y": 199,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 420,
+      "y": 199,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 524,
+      "y": 147,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 472,
+      "y": 147,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 420,
+      "y": 147,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 524,
+      "y": 95,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 472,
+      "y": 95,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 420,
+      "y": 95,
+      "width": 53,
+      "height": 53,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_skill01.dxt",
+      "crop": {
+        "left": 0.89453125,
+        "top": 0.853515625,
+        "right": 0.998046875,
+        "bottom": 0.95703125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 204,
+      "y": 2,
+      "width": 397,
+      "height": 465,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_inventory01.dxt",
+      "crop": {
+        "left": 0.001953125,
+        "top": 0.001953125,
+        "right": 0.77734375,
+        "bottom": 0.91015625
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 206,
+      "y": 466,
+      "width": 392,
+      "height": 148,
+      "tail": [
+        0,
+        0,
+        0
+      ],
+      "texture": "ui\\re_inventory02.dxt",
+      "crop": {
+        "left": 0.025390625,
+        "top": 0.01171875,
+        "right": 0.791015625,
+        "bottom": 0.302734375
+      },
+      "animFrame": 30
+    }
+  ]
+}

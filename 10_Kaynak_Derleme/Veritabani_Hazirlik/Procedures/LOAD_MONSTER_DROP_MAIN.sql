@@ -1,0 +1,36 @@
+CREATE PROCEDURE [dbo].[LOAD_MONSTER_DROP_MAIN]
+AS
+-------------------------------------------------------------------------------------------------------
+SELECT MonsterID,
+MonsterOpenDrop,
+MonsterMoney,
+ItemListID1,
+ItemListPersent1,
+ItemListID2,
+ItemListPersent2,
+ItemListID3,
+ItemListPersent3,
+ItemListID4,
+ItemListPersent4,
+ItemListID5,
+ItemListPersent5,
+ItemListID6,
+ItemListPersent6,
+ItemListID7,
+ItemListPersent7,
+ItemSingleID1,
+ItemSinglePersent1,
+ItemSingleID2,
+ItemSinglePersent2,
+ItemSingleID3,
+ItemSinglePersent3,
+ItemSingleID4,
+ItemSinglePersent4,
+ItemSingleID5,
+ItemSinglePersent5,
+ItemSingleID6,
+ItemSinglePersent6,
+ItemSingleID7,
+ItemSinglePersent7 FROM [KO_DATABASE_SERVER_001_DROP].dbo.MONSTER_DROP_MAIN
+-------------------------------------------------------------------------------------------------------
+--TheThyke

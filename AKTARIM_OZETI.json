@@ -1,0 +1,45 @@
+{
+  "Files": 34177,
+  "Bytes": 9378650204,
+  "RedactedFiles": 25,
+  "UnavailableFiles": [
+    {
+      "Path": "04_Istemci/Gamesoft_v24xx/KnightOnLine.exe",
+      "Reason": "Windows blocked access to the legacy reference executable; active compatible client is included."
+    },
+    {
+      "Path": "11_Istemci_Uyumluluk/Client_Binaries/Gamesoft-original.exe",
+      "Reason": "Windows blocked access to the legacy reference executable; active compatible client is included."
+    }
+  ],
+  "ExcludedCount": 362,
+  "Folders": {
+    "01_Kaynak_Kod": 949,
+    "update_index_html.py": 1,
+    "DOSYA_HARITASI.md": 1,
+    "02_Sunucu": 763,
+    "03_Veritabanlari": 2,
+    "04_Istemci": 10626,
+    "05_Yamalar": 4,
+    "06_Dokumantasyon": 166,
+    "07_Kurulum_Paketleri": 7,
+    "08_Arastirma_Adaylari": 4252,
+    "09_Uyarlama": 1800,
+    "10_Kaynak_Derleme": 1944,
+    "11_Istemci_Uyumluluk": 13454,
+    "12_USKO_Denetimi": 61,
+    "13_Istemci_Arayuz_Duzeltmesi": 18,
+    "14_GM_Admin_Paneli": 5,
+    "15_Acilis_Onarimi_20261106": 12,
+    "16_Karakter_Yonetimi_20261106": 16,
+    "17_Sinematik_Kaldirma_20261106": 86,
+    "18_Kalici_Sinematik_20261107": 7,
+    "output": 3
+  },
+  "FilesExcludedAfterSecurityCheck": 2,
+  "ReferenceLibrariesMaterialized": [
+    "08_Arastirma_Adaylari/AKGame-2383/Server/Lua.lib",
+    "08_Arastirma_Adaylari/AKGame-2383/Server/shared.lib"
+  ],
+  "PublishedTrackedFiles": 34180
+}

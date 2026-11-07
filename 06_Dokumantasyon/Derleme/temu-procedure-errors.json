@@ -1,0 +1,4 @@
+{
+  "Procedure": "MAIL_BOX_REQUEST_LIST",
+  "Error": "Exception calling \"ExecuteNonQuery\" with \"0\" argument(s): \"Operand type clash: datetime2 is incompatible with int\""
+}

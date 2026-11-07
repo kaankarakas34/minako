@@ -1,0 +1,9 @@
+{
+  "AccountLookupPassed": true,
+  "UnknownCharacterRejected": true,
+  "OrphanSiegeOwnerDetected": true,
+  "ExistingSiegeOwnerPreserved": true,
+  "FullRankingRefreshPassed": true,
+  "AntaresHydeRespawnPassed": true,
+  "TemporaryChangesRolledBack": true
+}

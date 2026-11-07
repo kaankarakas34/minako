@@ -1,0 +1,16 @@
+﻿{
+    "Action":  "Allow",
+    "Target":  "C:\\Users\\murat\\OneDrive\\Desktop\\mınako\\11_Istemci_Uyumluluk\\Gamesoft_Yerel\\KnightOnLine.exe",
+    "Utc":  "2026-11-06T18:36:06.3131213Z",
+    "Success":  true,
+    "AddedExclusion":  true,
+    "ClientRestored":  true,
+    "HashVerified":  true,
+    "AntivirusDisabled":  false,
+    "ProcessExclusionAdded":  false,
+    "ThreatFamilyAllowed":  false,
+    "ClientExecuted":  false,
+    "PreviouslyExcluded":  false,
+    "RestoreExitCode":  0,
+    "SHA256":  "683BEFABAE1F217296BEFDA2A824B26BD2FFF77BFF67AA72A66C219C040F12FE"
+}

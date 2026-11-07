@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-04",
+  "lua_parser": "Lua 5.2",
+  "original_missing_lua_names": 468,
+  "source_counts": [
+    {
+      "repo": "halilcanakcay/knight-online-server-files-2383",
+      "folder": "Server/Quests",
+      "lua_files": 505,
+      "commit": "cfec765ff19d58a1b9a8ae07bcedcd7bf72f0ece"
+    },
+    {
+      "repo": "omeraraz22/22xx-FilesKoRelease",
+      "folder": "Quests",
+      "lua_files": 458,
+      "commit": "ad45c5d707a1506e8f48532124573bdf2bc2d92d"
+    },
+    {
+      "repo": "omeraraz22/22xx-FilesKoRelease",
+      "folder": "OldQuests",
+      "lua_files": 570,
+      "commit": "ad45c5d707a1506e8f48532124573bdf2bc2d92d"
+    },
+    {
+      "repo": "OrcunEryurekliler/KO-24xx-Server",
+      "folder": "24xx/serverfile/23.05.2023Release/Quests",
+      "lua_files": 579,
+      "commit": "52d6e67f3f07751a5f917899dc0a632debc3d903"
+    }
+  ],
+  "matching_variant_paths": 989,
+  "matching_unique_names": 289,
+  "still_unmatched_names": 179,
+  "unique_names_with_nonempty_code": 277,
+  "unique_names_found_only_as_empty_files": [
+    "25068_el_altar.lua",
+    "25070_ka_altar.lua",
+    "25146_rea_at.lua",
+    "25147_pina_at.lua",
+    "25148_sera_at.lua",
+    "25171_rea_at_k.lua",
+    "25172_pina_at_k.lua",
+    "25173_sera_at.k.lua",
+    "31527_chbox.lua",
+    "31528_chbox.lua",
+    "31529_chbox.lua",
+    "31530_chbox.lua"
+  ],
+  "names_without_nonempty_code_in_legacy_candidates": 191,
+  "syntax_pass_variant_paths": 986,
+  "syntax_fail_variant_paths": 3,
+  "unique_names_with_syntax_pass_variant": 289,
+  "unique_names_with_syntax_pass_and_no_unregistered_call_detected": 282,
+  "global_calls_absent_from_temu_source_table": {
+    "NpcKillID": 1,
+    "QuestMonsterCount": 16,
+    "SendNpcKillID": 124,
+    "SendSiegeKickOut": 2,
+    "isOwner": 2,
+    "JobGroupCheck": 4,
+    "CheckExchangeSlot": 68
+  },
+  "limits": [
+    "Candidate code was compiled for syntax only and was never executed.",
+    "Main runtime, original INI files and SQL schema/data were not modified.",
+    "Global API comparison uses TemuKO source 2239; compiled server API is not proven identical.",
+    "Regex reference checks are preliminary; missing literal events are warnings, not proof of incompatibility.",
+    "Matching filenames and syntax do not verify quest rewards, exploit resistance or runtime compatibility.",
+    "Original 12 extensionless missing references are outside the 468-name Lua comparison."
+  ]
+}

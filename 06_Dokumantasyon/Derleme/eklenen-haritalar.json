@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "freezone_a_event2012.smd",
+    "Source": "Server/Map/freezone_a_event2012.smd",
+    "GitBlob": "b4230c16da76d109d4ea544d9de734dbd1b7e78d",
+    "SHA256": "ac4de670b0787e96e4956e01b741b78ad584d4dc9e3b4b1c3634ca0b892bcdd5",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "In_dungeon06.smd",
+    "Source": "Server/Map/In_Dungeon06.smd",
+    "GitBlob": "63a33095da1067dc2b995d25ae264f061e39eb49",
+    "SHA256": "80ef7026a0f15b56ca9204eed6dd0c56ca69dbbf453a56d1cf8b3bf60cfafeca",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "2003_karus_oldtime.smd",
+    "Source": "Server/Map/2003_karus_oldtime.smd",
+    "GitBlob": "fae4d8af11b6bf59455788e5a8c984c851e97f62",
+    "SHA256": "baea42e1511c77a3c5f65a8dedaff00000a6c548ca832da436a4efe981203702",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "elmo_oldtime_2003.smd",
+    "Source": "Server/Map/elmo_oldtime_2003.smd",
+    "GitBlob": "74507aea23e19b17b2003a33fa7efc81b8710d39",
+    "SHA256": "df0734d7810b2473e6a543693be6b6e3f97bd21494b55db2de265338110b5490",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "dungeond.smd",
+    "Source": "Server/Map/dungeond.smd",
+    "GitBlob": "fae4d8af11b6bf59455788e5a8c984c851e97f62",
+    "SHA256": "baea42e1511c77a3c5f65a8dedaff00000a6c548ca832da436a4efe981203702",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "2017_flagwar.smd",
+    "Source": "Server/Map/2017_flagwar.smd",
+    "GitBlob": "b27260db6a18719bb5148512886f9e2282dc8f7e",
+    "SHA256": "3162e450072ac12d611310d1132d7721b1381cbb291f3f020339889d9a6291c7",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "battlezone_67.smd",
+    "Source": "Server/Map/battlezone_67.smd",
+    "GitBlob": "b27260db6a18719bb5148512886f9e2282dc8f7e",
+    "SHA256": "3162e450072ac12d611310d1132d7721b1381cbb291f3f020339889d9a6291c7",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "battlezone_e_fl.smd",
+    "Source": "Server/Map/battlezone_e_fl.smd",
+    "GitBlob": "12452a4744feae82b58dc4b294f062cd9850c880",
+    "SHA256": "f8260474945119ac5a08aa1e20ec0091e4f9187a07c950f71579bfdde89be7c9",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "dungeon_defense.smd",
+    "Source": "Server/Map/dungeon_defense.smd",
+    "GitBlob": "0e001d96c695865421406796a8802f705dcb61bc",
+    "SHA256": "04adef38c6b90404a23f625f562c40b4ead885df700e0199021c22ca7cd71dc1",
+    "GeometryValidatedInClient": false
+  },
+  {
+    "Name": "dungeon_b3th2015.smd",
+    "Source": "Server/Map/dungeon_b3th2015.smd",
+    "GitBlob": "cada6344662d6313b6ac41e5591690147de1ef9b",
+    "SHA256": "b7f9a197080ca704054592106dfdce5b0e2da616443ce70305bf98d6d0246ea0",
+    "GeometryValidatedInClient": false
+  }
+]

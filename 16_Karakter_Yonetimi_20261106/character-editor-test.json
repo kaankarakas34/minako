@@ -1,0 +1,26 @@
+{
+  "Passed": true,
+  "Checks": [
+    "Metadata and missing character responses",
+    "Level, all stats, free points and skill branches persisted",
+    "148 skill points survive ANSI/Unicode SQL conversion; reserved bytes preserved",
+    "Stale revision rejected",
+    "Storage and integer bounds rejected {'level': 84}",
+    "Storage and integer bounds rejected {'strong': 256}",
+    "Storage and integer bounds rejected {'points': -1}",
+    "Storage and integer bounds rejected {'level': 10.5}",
+    "Storage and integer bounds rejected {'skill_free': 256}",
+    "Incompatible race and priest class rejected",
+    "Master below level 60 rejected",
+    "EXP beyond selected level rejected",
+    "Class change with allocated skills rejected",
+    "Online account edit rejected",
+    "Job and race change saved",
+    "Class change resets shortcuts without deleting inventory",
+    "Single-character country change updates account and character together",
+    "Before and after snapshots stored for each successful write"
+  ],
+  "TestCharacter": "KoStatsProbe",
+  "AllTestChangesRolledBack": true,
+  "PlayerCharacterModified": false
+}

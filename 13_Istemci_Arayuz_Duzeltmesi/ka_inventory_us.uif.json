@@ -1,0 +1,1775 @@
+{
+  "type": "base",
+  "x": -2,
+  "y": -1,
+  "width": 366,
+  "height": 576,
+  "tail": [
+    0,
+    0
+  ],
+  "children": [
+    {
+      "type": "string",
+      "id": "text_weight",
+      "x": 12,
+      "y": 320,
+      "width": 170,
+      "height": 18,
+      "style": 76546048,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 10,
+      "fontFlags": 1,
+      "color": [
+        192,
+        192,
+        192,
+        255
+      ]
+    },
+    {
+      "type": "area",
+      "id": "area_samma",
+      "x": 311,
+      "y": 269,
+      "width": 35,
+      "height": 35,
+      "tail": [
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "button",
+          "id": "btn_Destroy_cancel",
+          "x": 244,
+          "y": 255,
+          "width": 57,
+          "height": 17,
+          "style": 65536,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 244,
+          "click_y": 255,
+          "click_width": 57,
+          "click_height": 17,
+          "children": [
+            {
+              "type": "string",
+              "x": 245,
+              "y": 255,
+              "width": 55,
+              "height": 17,
+              "style": 76546048,
+              "tail": [
+                0,
+                0
+              ],
+              "font": "Arial",
+              "fontSize": 10,
+              "fontFlags": 1,
+              "color": [
+                0,
+                0,
+                0,
+                255
+              ],
+              "text": "Cancel"
+            },
+            {
+              "type": "image",
+              "x": 244,
+              "y": 255,
+              "width": 57,
+              "height": 17,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.65234375,
+                "top": 0.931640625,
+                "right": 0.763671875,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 244,
+              "y": 255,
+              "width": 57,
+              "height": 17,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.875,
+                "top": 0.931640625,
+                "right": 0.986328125,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 244,
+              "y": 255,
+              "width": 57,
+              "height": 17,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.763671875,
+                "top": 0.931640625,
+                "right": 0.875,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 244,
+              "y": 255,
+              "width": 57,
+              "height": 17,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.65234375,
+                "top": 0.931640625,
+                "right": 0.763671875,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_Destroy_ok",
+          "x": 123,
+          "y": 257,
+          "width": 57,
+          "height": 17,
+          "style": 65536,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 123,
+          "click_y": 257,
+          "click_width": 57,
+          "click_height": 17,
+          "children": [
+            {
+              "type": "string",
+              "x": 123,
+              "y": 257,
+              "width": 57,
+              "height": 16,
+              "style": 76546048,
+              "tail": [
+                0,
+                0
+              ],
+              "font": "Arial",
+              "fontSize": 10,
+              "fontFlags": 1,
+              "color": [
+                0,
+                0,
+                0,
+                255
+              ],
+              "text": "O  k"
+            },
+            {
+              "type": "image",
+              "x": 123,
+              "y": 257,
+              "width": 57,
+              "height": 17,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.318359375,
+                "top": 0.931640625,
+                "right": 0.4296875,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 123,
+              "y": 257,
+              "width": 57,
+              "height": 17,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.541015625,
+                "top": 0.931640625,
+                "right": 0.65234375,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 123,
+              "y": 257,
+              "width": 57,
+              "height": 17,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.4296875,
+                "top": 0.931640625,
+                "right": 0.541015625,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 123,
+              "y": 257,
+              "width": 57,
+              "height": 17,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\ui_message.dxt",
+              "crop": {
+                "left": 0.318359375,
+                "top": 0.931640625,
+                "right": 0.4296875,
+                "bottom": 0.96484375
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "x": 109,
+          "y": 215,
+          "width": 208,
+          "height": 23,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "Arial",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            192,
+            192,
+            192,
+            255
+          ],
+          "text": "Would you like to destroy this item? "
+        },
+        {
+          "type": "image",
+          "id": "img_Destroy",
+          "x": 94,
+          "y": 196,
+          "width": 234,
+          "height": 96,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\ui_message.dxt",
+          "crop": {
+            "left": 0.662109375,
+            "top": 0.048828125,
+            "right": 0.76171875,
+            "bottom": 0.119140625
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_close",
+      "x": 336,
+      "y": 18,
+      "width": 20,
+      "height": 20,
+      "style": 65536,
+      "tail": [
+        0,
+        0
+      ],
+      "click_x": 336,
+      "click_y": 18,
+      "click_width": 20,
+      "click_height": 20,
+      "children": [
+        {
+          "type": "image",
+          "x": 336,
+          "y": 18,
+          "width": 20,
+          "height": 20,
+          "reserved": 3,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\ui_ka_transaction_person trade.dxt",
+          "crop": {
+            "left": 0.080078125,
+            "top": 0.083984375,
+            "right": 0.119140625,
+            "bottom": 0.123046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 336,
+          "y": 18,
+          "width": 20,
+          "height": 20,
+          "reserved": 2,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\ui_ka_transaction_person trade.dxt",
+          "crop": {
+            "left": 0.125,
+            "top": 0.083984375,
+            "right": 0.1640625,
+            "bottom": 0.123046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 336,
+          "y": 18,
+          "width": 20,
+          "height": 20,
+          "reserved": 1,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\ui_ka_transaction_person trade.dxt",
+          "crop": {
+            "left": 0.171875,
+            "top": 0.083984375,
+            "right": 0.2109375,
+            "bottom": 0.123046875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 336,
+          "y": 18,
+          "width": 20,
+          "height": 20,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\ui_ka_transaction_person trade.dxt",
+          "crop": {
+            "left": 0.080078125,
+            "top": 0.083984375,
+            "right": 0.119140625,
+            "bottom": 0.123046875
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "area",
+      "id": "area_char",
+      "x": 10,
+      "y": 50,
+      "width": 174,
+      "height": 258,
+      "tail": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": "area",
+      "id": "14",
+      "x": 306,
+      "y": 263,
+      "width": 45,
+      "height": 45,
+      "tooltip": ">F@LE[@; FD1+GO4B @e<R",
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "13",
+      "x": 251,
+      "y": 264,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "12",
+      "x": 196,
+      "y": 263,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "11",
+      "x": 306,
+      "y": 209,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "10",
+      "x": 251,
+      "y": 209,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "9",
+      "x": 196,
+      "y": 209,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "8",
+      "x": 306,
+      "y": 156,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "7",
+      "x": 251,
+      "y": 156,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "6",
+      "x": 196,
+      "y": 156,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "5",
+      "x": 306,
+      "y": 103,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "4",
+      "x": 251,
+      "y": 103,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "3",
+      "x": 196,
+      "y": 103,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "2",
+      "x": 306,
+      "y": 50,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "1",
+      "x": 251,
+      "y": 50,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "0",
+      "x": 196,
+      "y": 50,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "string",
+      "id": "text_gold",
+      "x": 236,
+      "y": 321,
+      "width": 110,
+      "height": 15,
+      "style": 72351744,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 10,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        0,
+        255
+      ],
+      "text": "0"
+    },
+    {
+      "type": "string",
+      "id": "27",
+      "x": 309,
+      "y": 523,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "26",
+      "x": 261,
+      "y": 522,
+      "width": 45,
+      "height": 21,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "25",
+      "x": 212,
+      "y": 523,
+      "width": 45,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "24",
+      "x": 163,
+      "y": 523,
+      "width": 45,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "23",
+      "x": 115,
+      "y": 523,
+      "width": 45,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "22",
+      "x": 67,
+      "y": 522,
+      "width": 45,
+      "height": 21,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "21",
+      "x": 18,
+      "y": 523,
+      "width": 44,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "20",
+      "x": 309,
+      "y": 474,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "19",
+      "x": 260,
+      "y": 473,
+      "width": 46,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "18",
+      "x": 212,
+      "y": 474,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "17",
+      "x": 164,
+      "y": 473,
+      "width": 44,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "16",
+      "x": 115,
+      "y": 472,
+      "width": 45,
+      "height": 21,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "15",
+      "x": 66,
+      "y": 473,
+      "width": 45,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "14",
+      "x": 18,
+      "y": 474,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "13",
+      "x": 309,
+      "y": 425,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "12",
+      "x": 261,
+      "y": 425,
+      "width": 44,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "11",
+      "x": 212,
+      "y": 425,
+      "width": 44,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "10",
+      "x": 164,
+      "y": 425,
+      "width": 44,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "9",
+      "x": 115,
+      "y": 426,
+      "width": 45,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "8",
+      "x": 66,
+      "y": 425,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "7",
+      "x": 18,
+      "y": 425,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "6",
+      "x": 309,
+      "y": 375,
+      "width": 45,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "5",
+      "x": 261,
+      "y": 376,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "4",
+      "x": 212,
+      "y": 376,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "3",
+      "x": 163,
+      "y": 376,
+      "width": 45,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "2",
+      "x": 115,
+      "y": 376,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "1",
+      "x": 66,
+      "y": 376,
+      "width": 45,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "area",
+      "id": "27",
+      "x": 306,
+      "y": 497,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "26",
+      "x": 258,
+      "y": 497,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "25",
+      "x": 209,
+      "y": 498,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "24",
+      "x": 160,
+      "y": 497,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "23",
+      "x": 112,
+      "y": 498,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "22",
+      "x": 63,
+      "y": 498,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "21",
+      "x": 15,
+      "y": 498,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "20",
+      "x": 306,
+      "y": 448,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "19",
+      "x": 258,
+      "y": 448,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "18",
+      "x": 209,
+      "y": 448,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "17",
+      "x": 161,
+      "y": 448,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "16",
+      "x": 112,
+      "y": 448,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "15",
+      "x": 63,
+      "y": 448,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "14",
+      "x": 15,
+      "y": 448,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "13",
+      "x": 306,
+      "y": 399,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "12",
+      "x": 258,
+      "y": 399,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "11",
+      "x": 209,
+      "y": 399,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "10",
+      "x": 160,
+      "y": 399,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "9",
+      "x": 112,
+      "y": 399,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "8",
+      "x": 63,
+      "y": 399,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "7",
+      "x": 15,
+      "y": 399,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "6",
+      "x": 306,
+      "y": 349,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "5",
+      "x": 258,
+      "y": 350,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "4",
+      "x": 209,
+      "y": 349,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "3",
+      "x": 161,
+      "y": 349,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "2",
+      "x": 112,
+      "y": 349,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "1",
+      "x": 63,
+      "y": 350,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "string",
+      "id": "0",
+      "x": 18,
+      "y": 376,
+      "width": 44,
+      "height": 19,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "area",
+      "id": "0",
+      "x": 15,
+      "y": 349,
+      "width": 45,
+      "height": 45,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "image",
+      "x": 191,
+      "y": 312,
+      "width": 32,
+      "height": 31,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\ui_ka_transaction_person trade.dxt",
+      "crop": {
+        "left": 0.03125,
+        "top": 0.27734375,
+        "right": 0.09375,
+        "bottom": 0.337890625
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "id": "elmo_ecli666",
+      "x": 90,
+      "y": 165,
+      "width": 12,
+      "height": 15,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\ui_message.dxt",
+      "crop": {
+        "left": 0.849609375,
+        "top": 0.271484375,
+        "right": 0.873046875,
+        "bottom": 0.30078125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 1,
+      "y": 447,
+      "width": 362,
+      "height": 50,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\ui_ka_inven.dxt",
+      "crop": {
+        "left": 0.291015625,
+        "top": 0.73828125,
+        "right": 0.998046875,
+        "bottom": 0.8359375
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 1,
+      "y": 497,
+      "width": 362,
+      "height": 77,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\ui_ka_inven.dxt",
+      "crop": {
+        "left": 0.291015625,
+        "top": 0.845703125,
+        "right": 0.998046875,
+        "bottom": 0.99609375
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 1,
+      "y": 314,
+      "width": 362,
+      "height": 134,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\ui_ka_inven.dxt",
+      "crop": {
+        "left": 0.291015625,
+        "top": 0.57421875,
+        "right": 0.998046875,
+        "bottom": 0.8359375
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "id": "img_inven01",
+      "x": 306,
+      "y": -1,
+      "width": 57,
+      "height": 41,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\ui_ka_inven.dxt",
+      "crop": {
+        "left": 0.005859375,
+        "top": 0.01171875,
+        "right": 0.1171875,
+        "bottom": 0.091796875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "id": "img_inven00",
+      "x": 1,
+      "y": 39,
+      "width": 362,
+      "height": 275,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\ui_ka_inven.dxt",
+      "crop": {
+        "left": 0.291015625,
+        "top": 0.0078125,
+        "right": 0.998046875,
+        "bottom": 0.544921875
+      },
+      "animFrame": 30
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+    "Stage":  "InstallingOdbc",
+    "Message":  "ODBC Driver 18 x64 package, including x86 driver support.",
+    "NeedsReboot":  false,
+    "History":  [
+                    {
+                        "Stage":  "Started",
+                        "Message":  "Microsoft-signed prerequisites; local-only SQL instance; no game executables are started.",
+                        "Utc":  "2026-11-04T18:11:53.8394002Z"
+                    },
+                    {
+                        "Stage":  "WaitingForInstaller",
+                        "Message":  "msodbcsql18-x64.msi",
+                        "Utc":  "2026-11-04T18:11:53.9617247Z"
+                    },
+                    {
+                        "Stage":  "InstallingOdbc",
+                        "Message":  "ODBC Driver 18 x64 package, including x86 driver support.",
+                        "Utc":  "2026-11-04T18:11:54.4104536Z"
+                    }
+                ]
+}

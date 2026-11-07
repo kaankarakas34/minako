@@ -1,0 +1,3386 @@
+{
+  "RuntimeSqlProcedureNames": 56,
+  "MissingRuntimeProcedures": [
+    "UPDATE_ALL_CHAR_ID"
+  ],
+  "MissingSqlTableCandidates": [],
+  "ZoneRows": 43,
+  "ZoneColumns": [
+    "ServerNo",
+    "ZoneNo",
+    "strZoneName",
+    "InitX",
+    "InitZ",
+    "InitY",
+    "Type",
+    "RoomEvent",
+    "bz"
+  ],
+  "MapReferencesChecked": 43,
+  "MissingMapReferences": [],
+  "QuestFilenameColumns": 1,
+  "QuestFileReferencesChecked": 693,
+  "MissingQuestFiles": [
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31567_Fellor.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29193_Dolkin.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25188_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25076_2",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19063_NewAdven.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29016_E11sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29231_Spy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29230_Rord.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32134_Door28.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25063_De_Refu2.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25068_El_Altar.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29002_K12sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25128_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25134_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29150_Gokal_K.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32124_Door18.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29049_Scady.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29009_K5sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29083_Dogae.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29008_K6sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29055_DellStone.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25179_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29117_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25096_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25069_El_At.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "16080_Menisia.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31563_Elen.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29463_EastSeller.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29088_Shesman.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29167_Mfather.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30339_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31558_Hayes.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25045_D_Amelie.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32121_Door15.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25108_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29128_CarloeEL.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25209_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25089_E.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25181_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25095_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19017_DreamGirl.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25192_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25087_E.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25144_Pina_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25050_Ex_Worm.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "14434_highprist.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29151_Gokal_K.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29025_E2sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29097_BigGround.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29124_CarloeK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29137_MoveOldE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29212_Kaarmy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25216_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32610_ArdCase.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25233_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29112_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25071_Ka_At.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25004_Mercury.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29078_ChristTree.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29122_CarlosE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25099_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25058_E_Refu1.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29011_K3sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25011_F_warrior.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32132_Door26.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25208_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25154_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32611_ArdCase.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25182_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25195_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25098_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29015_E12sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31560_Armada.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29089_Shesman.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25147_Pina_AT.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32107_Door03.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25200_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25026_tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25110_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29170_michellmam.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29109_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25232_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25023_Ex_Worm.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29026_E1sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31520_EBlindHero.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29052_Samaran.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25236_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32607_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29181_Shef.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25226_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25165_Sera_k.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32601_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25140_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25085_E.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25178_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29148_Gokal_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25239_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25180_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25048_Ex_Worm.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25229_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25156_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25092_K.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32141_Door33.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25177_iruta.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31702_Mazal.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29126_TWevent.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29182_HyunE1.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25060_E_Refu3.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25120_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25150_P_A_S.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25012_M_Slave.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32115_Door11.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25133_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32131_Door25.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29444_Bulfinch.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "15725_thethyke_kill.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29102_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29115_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29164_Suncle.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25065_Rea.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25199_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25141_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29142_8th_cake.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29180_Jack.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31504_Ried.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32119_Door13.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32128_Door22.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25157_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25081_1",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29157_Fisher.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25109_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29129_CarloeKL.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25224_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25135_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32112_Door08.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31569_Reysha.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25185_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25202_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29169_Mbrother.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25205_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25158_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25115_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25091_K.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32288_Treser.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30340_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32113_Door09.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25121_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25009_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29084_Ballen.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25129_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31509_Zoluz.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25222_Rogos_A.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25064_De_Refu3.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31517_KDeadHero.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25227_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29146_Gokal_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29114_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32606_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25123_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29003_K11sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31555_Ledin.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25152_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25171_Rea_AT_k.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25107_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29111_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25210_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "13018_Chad.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25211_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25184_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29029_Election.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25117_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29022_E5sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25005_Earth.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25027_tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25104_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29106_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32133_Door27.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29014_Bros.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25234_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25204_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25080_1",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30334_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29198_Magicbar.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29214_Jake.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29173_HyunE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25173_Sera_AT.k.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25183_Rogos_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31556_Fasha.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25093_K.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29030_Election.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32142_Road.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25220_Rogos_A.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29145_Gokal_E.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25052_K_Refu2.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32571_Pray.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25119_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25197_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25112_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29096_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29108_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "15895_thethyke_kill.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29185_HyunK1.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29021_E6sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31519_ESlave.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30337_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29020_E7sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32585_Valencia.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25160_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25055_Dk_Refu1.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29010_K4sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25223_Rogos_A.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25155_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25079_2",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25126_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25219_Rogos_A.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29103_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29196_Ijac.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25083_1",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29007_K7sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25193_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25025_tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25061_E_Refu4.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30341_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32127_Door21.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32602_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31506_Magmom.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25215_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25131_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25145_Sera_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29184_HyunE3.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29215_Dorosi.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31529_ChBox.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32110_Door06.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32603_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25116_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19060_SighMan.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31530_ChBox.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29023_E4sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25190_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32612_RobaseCase.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32604_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30389_Bearlch.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29050_Maria.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29156_Jumsul.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25137_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25151_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "16046_Clanwar.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25159_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31564_Drill.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32117_Door12.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32122_Door16.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29119_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32123_Door17.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31551_Wells.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29172_Beak.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25105_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30387_WCSEmd.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25186_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25015_P_Slave.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29166_Seedmam.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29123_CarlosK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32138_Door32.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29233_Spy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29012_K2sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "9260_Rmarc.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25201_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29098_Naya.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25051_K_Refu1.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29178_JooK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25138_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25088_E.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25008_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30338_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25238_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29130_CarloeSE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29086_Shesman.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30336_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32136_Door30.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29174_HyunK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29100_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29157_Snebeker.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25163_Rea",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29136_MoveOldK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32109_Door05.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31570_Sezar.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25230_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30388_Farent.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25022_B_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25198_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29516_iruta.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29133_CarloeSK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32120_Door14.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25013_B_Slave.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29101_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31574_Gray.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25214_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25139_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25103_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32613_RobaseCase.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32114_Door10.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25066_Pina.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29080_AnCook.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25007_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19007_Adjutant.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25206_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25164_Pina_k.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29149_Gokal_K.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25207_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25235_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29110_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29028_Unknown.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25090_K.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32559_Event.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29192_Rudolf.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29183_HyunE2.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31566_Rockers.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25196_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25136_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29143_Gokal_E.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29154_Danjang.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25010_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25016_A_Portu.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29165_Sbrother.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25084_1",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29147_Gokal_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25014_G_Slave.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29163_Sfather.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25106_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25113_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29099_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29104_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29121_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29445_Vela.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25118_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25125_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25047_Ex_Worm.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29144_Gokal_E.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31561_Halron.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25019_Mars.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31565_Dizz.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30335_Tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32600_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25114_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29131_CarloeSE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32105_Door02.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25101_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29091_Victory.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29190_Ereya.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25172_Pina_AT_k.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25217_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25167_Magaret",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29120_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29191_Santa.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25102_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29079_Ballen.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32140_Door23.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31703_Maia.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25062_De_Refu1.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25057_Dk_Refu3.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29005_K9sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31528_ChBox.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25132_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25054_K_Refu4.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29132_CarloeSE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29013_K1sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31513_Tactic.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25100_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25077_2",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25237_Rogos_R.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29135_CarloeSK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32570_Pray.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31557_Hein.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29024_E3sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32615_RonaCase.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29187_HyunK3.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30352_Amy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32126_Door20.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29232_Spy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29118_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25067_Sera.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25194_Rogos_EC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25122_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25221_Rogos_A.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29140_MurBoss.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19061_RichElder.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29090_Shesman.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25212_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25097_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29105_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29139_YuraBoss.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25213_Rogos_EE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25094_K.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32614_RonaCase.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32111_Door07.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25146_Rea_AT.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32605_RonaSpy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31559_Kid.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25187_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29125_CarloeE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31522_EScout.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25072_Sedi.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25166_Sedi_k.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32104_Door01.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32135_Door29.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29213_Elarmy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29094_Sirin.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25056_Dk_Refu2.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19053_Oneside.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19062_RichYoung.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29152_NOAH.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25189_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29019_E8sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31527_ChBox.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32125_Door19.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25148_Sera_AT.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29018_E9sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25130_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25018_Saturn.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29177_JooE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "19055_WorryDad.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25053_K_Refu3.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29168_Muncle.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32137_Door31.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25059_E_Refu2.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29186_HyunK2.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25191_Rogos_KC.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25070_Ka_Altar.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29134_CarloeSK.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25078_2",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25161_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25046_S_Amelie.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29095_Dryad.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30386_WCSKrs.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25082_1",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25003_morbor.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25075_2",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29113_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29004_K10sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31518_KScout.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25225_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29499_karu.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29053_TombStone.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25228_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25143_Rea_M.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31516_KBlindHero.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25231_Rogos_RS.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25203_Rogos_KE.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25127_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25142_darkW.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29195_Specics.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29497_Warsoul.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31503_Bell.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31571_Aldos.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25218_Rogos_A.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29082_Lost.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29006_K8sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32108_Door04.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25049_Ex_Worm.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29107_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25162_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29085_Shesman.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31521_EDeadHero.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29162_Sonya.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29138_KIFA.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25024_tower.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25111_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29087_Shesman.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29161_Snebeker.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31572_Gaz.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29498_elmospy.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25124_prison.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29116_Ground.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25086_E.R.Father.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "30353_Deniro.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "25153_C.BOX.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29017_E10sum.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29081_Beep.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "31568_Mallas.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "29171_Chung.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    },
+    {
+      "Table": "QUEST_HELPER",
+      "Column": "strLuaFilename",
+      "ScriptFile": "32130_Door24.lua",
+      "PresentInQuests": false,
+      "PresentInLuaQuests": false
+    }
+  ],
+  "Utc": "2026-11-04T18:38:02.6310530Z"
+}

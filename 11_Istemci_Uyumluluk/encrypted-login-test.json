@@ -1,0 +1,15 @@
+{
+  "Endpoint": "127.0.0.1:15100",
+  "ClientProfile": "supplied patch, stock protocol",
+  "PasswordFormat": "HashPasswordString",
+  "EncryptedHandshake": true,
+  "ValidAccountAccepted": true,
+  "WrongPasswordRejected": true,
+  "EncryptedServerListValidated": true,
+  "VisibleGroups": [
+    "KnightLocal2239"
+  ],
+  "Channel": "Local-1",
+  "GraphicalClientVerified": false,
+  "CredentialsLogged": false
+}

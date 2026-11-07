@@ -1,0 +1,31 @@
+# CMake / Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.user
+*.suo
+*.vs/
+.vs/
+
+# Logs and Dumps
+*.log
+*.dmp
+*.bak
+
+# Temporary debug files
+/scratch/
+/tmp/
+
+# Executables
+LogInServer/LogInServer
+GameServer/GameServer
+*.7z

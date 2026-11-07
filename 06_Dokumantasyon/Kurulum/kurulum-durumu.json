@@ -1,0 +1,77 @@
+﻿{
+    "Stage":  "Completed",
+    "Message":  "SQL, updates, ODBC, sqlcmd installed; backup restored only into KNIGHT_24XX_TEST; metadata and map audit written. Game binaries not started; original configs unchanged.",
+    "NeedsReboot":  false,
+    "History":  [
+                    {
+                        "Stage":  "Started",
+                        "Message":  "Microsoft-signed prerequisites; local-only SQL instance; no game executables are started.",
+                        "Utc":  "2026-11-04T18:24:56.4878794Z"
+                    },
+                    {
+                        "Stage":  "OdbcAlreadyInstalled",
+                        "Message":  "Both x86 and x64 ODBC Driver 18 are present.",
+                        "Utc":  "2026-11-04T18:24:59.0119720Z"
+                    },
+                    {
+                        "Stage":  "SqlcmdAlreadyInstalled",
+                        "Message":  "sqlcmd.exe is present.",
+                        "Utc":  "2026-11-04T18:24:59.0235569Z"
+                    },
+                    {
+                        "Stage":  "WaitingForInstaller",
+                        "Message":  "SQLEXPR_x64_ENU.exe",
+                        "Utc":  "2026-11-04T18:24:59.0770926Z"
+                    },
+                    {
+                        "Stage":  "ExtractingSql",
+                        "Message":  "C:\\ProgramData\\KnightOnlineLab\\Sql2022Media",
+                        "Utc":  "2026-11-04T18:25:12.0622908Z"
+                    },
+                    {
+                        "Stage":  "InstallingSql",
+                        "Message":  "KNIGHTLOCAL; Windows authentication; TCP and named pipes disabled; max memory 2048 MB.",
+                        "Utc":  "2026-11-04T18:25:15.2885075Z"
+                    },
+                    {
+                        "Stage":  "WaitingForInstaller",
+                        "Message":  "SQLServer2022-KB5104824-x64.exe",
+                        "Utc":  "2026-11-04T18:29:48.1114426Z"
+                    },
+                    {
+                        "Stage":  "InstallingSqlCu",
+                        "Message":  "SQL Server 2022 CU27, KB5104824.",
+                        "Utc":  "2026-11-04T18:29:53.6951297Z"
+                    },
+                    {
+                        "Stage":  "WaitingForInstaller",
+                        "Message":  "SQLServer2022-KB5126934-x64.exe",
+                        "Utc":  "2026-11-04T18:32:51.2571137Z"
+                    },
+                    {
+                        "Stage":  "InstallingSqlSecurity",
+                        "Message":  "SQL Server 2022 CU27 security update, KB5126934.",
+                        "Utc":  "2026-11-04T18:32:57.7209033Z"
+                    },
+                    {
+                        "Stage":  "InspectingBackup",
+                        "Message":  "Copying the original backup to a local service-readable directory; original backup remains unchanged.",
+                        "Utc":  "2026-11-04T18:36:16.1043127Z"
+                    },
+                    {
+                        "Stage":  "RestoringTestDatabase",
+                        "Message":  "KNIGHT_24XX_TEST",
+                        "Utc":  "2026-11-04T18:36:17.3880335Z"
+                    },
+                    {
+                        "Stage":  "CheckingTestDatabase",
+                        "Message":  "DBCC CHECKDB PHYSICAL_ONLY and schema/file-reference inventory.",
+                        "Utc":  "2026-11-04T18:36:20.9234616Z"
+                    },
+                    {
+                        "Stage":  "Completed",
+                        "Message":  "SQL, updates, ODBC, sqlcmd installed; backup restored only into KNIGHT_24XX_TEST; metadata and map audit written. Game binaries not started; original configs unchanged.",
+                        "Utc":  "2026-11-04T18:36:22.4422437Z"
+                    }
+                ]
+}

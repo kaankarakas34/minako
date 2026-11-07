@@ -1,0 +1,32 @@
+{
+  "CharacterCreationPassed": true,
+  "NativePostCreateProceduresPassed": true,
+  "Character": [
+    {
+      "strUserID": "KoPriestProbe",
+      "Nation": 1,
+      "Race": 4,
+      "Class": 104,
+      "Level": 1,
+      "Authority": 1,
+      "Zone": 21,
+      "Strong": 60,
+      "Sta": 60,
+      "Dex": 60,
+      "Intel": 70,
+      "Cha": 50,
+      "ItemBytes": 600,
+      "SerialBytes": 600,
+      "ExpirationBytes": 300,
+      "SkillBytes": 10,
+      "StarterLetters": 0,
+      "SavedMagicRows": 1,
+      "ClanRows": 1,
+      "AchievementBytes": 5200,
+      "ValidatedAchievementIds": 448
+    }
+  ],
+  "AllProbeRowsRolledBack": true,
+  "ExistingPlayerRowsUpdated": 0,
+  "GraphicalRetryVerified": false
+}

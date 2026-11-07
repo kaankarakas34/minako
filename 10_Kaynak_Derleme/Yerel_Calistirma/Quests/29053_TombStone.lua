@@ -1,0 +1,23 @@
+-- =============================================
+-- Author:		TheThyke
+-- Create date: 29.11.2017
+-- Update date: 29.11.2017
+-- İsmimi Belgelerden Silseniz Bile Beyninizde Her Daim Olacağım.
+-- =============================================
+
+if (EVENT == 100) then
+	SelectMsg(UID, 2, -1, 9489, NPC, 10, 101);
+end
+
+if (EVENT == 101) then
+	KEY = HowmuchItem(UID, 900061000);
+	if (KEY < 1) then
+		SelectMsg(UID, 2, -1, 9490, NPC, 10, -1);
+	else
+		SelectMsg(UID, 2, -1, 9491, NPC, 3000, 102,3005,-1);
+	end
+end
+
+if (EVENT == 102) then
+	ZoneChange(UID, 35, 335, 416);
+end

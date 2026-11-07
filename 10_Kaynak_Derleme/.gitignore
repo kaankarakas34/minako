@@ -1,0 +1,6 @@
+*.private.h
+*.private.txt
+**/obj/
+**/bin/
+Yerel_Calistirma/Logs/
+Yerel_Calistirma/*.log

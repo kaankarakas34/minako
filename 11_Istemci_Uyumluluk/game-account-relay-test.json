@@ -1,0 +1,16 @@
+{
+  "Endpoint": "127.0.0.2:15001",
+  "EngineSourceVersion": 2239,
+  "ClientWireVersion": 2083,
+  "EncryptedGameHandshake": true,
+  "CorrectPasswordAccepted": true,
+  "WrongPasswordRejected": true,
+  "FreshAccountNationSelectionAllowed": true,
+  "NationChanged": false,
+  "CharacterCreated": false,
+  "DelayedHandshakeSurvivedSeconds": 2,
+  "PostAuthSelectionSurvivedSeconds": 3,
+  "CharacterListAfterDelayReceived": true,
+  "GraphicalGameEntryVerified": false,
+  "CredentialsLogged": false
+}

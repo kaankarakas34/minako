@@ -1,0 +1,10 @@
+﻿{
+    "Service":  "msiserver",
+    "State":  "Running",
+    "AcceptStop":  false,
+    "ProcessId":  21680,
+    "CommandLine":  "C:\\WINDOWS\\system32\\msiexec.exe /V",
+    "ActiveMsiClients":  0,
+    "InProgressKey":  false,
+    "Utc":  "2026-11-04T18:22:12.4033648Z"
+}

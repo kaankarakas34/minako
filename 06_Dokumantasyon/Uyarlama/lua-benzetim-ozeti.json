@@ -1,0 +1,9 @@
+{
+  "Scripts": 645,
+  "Cases": 30627,
+  "RuntimeErrorCases": 0,
+  "RuntimeErrorFiles": 0,
+  "CompletionAfterFailedExchangeCases": 0,
+  "CompletionAfterFailedExchangeFiles": 0,
+  "Limits": "Bounded offline fake API, not native EXE/client validation; inventories and quest state never reach SQL or game services."
+}

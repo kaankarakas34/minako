@@ -1,0 +1,25 @@
+{
+  "repository": "derdems44/KORustGameServer",
+  "commit": "5ee5b737a42f87ccb951ac54ff5eaa4007820902",
+  "target_client_version_per_readme": 2603,
+  "source_lua_count": 841,
+  "matching_original468": 467,
+  "matched_of_previous183": 182,
+  "dispatcher_only_of_previous183": 180,
+  "non_dispatcher_of_previous183": [
+    "29084_Ballen.lua",
+    "29161_Snebeker.lua"
+  ],
+  "syntax_fail_of_previous183": [],
+  "matched_of_legacy_no_code191": 190,
+  "dispatcher_only_of_legacy_no_code191": 180,
+  "no_exact_candidate_in_all_downloaded_sets": [
+    "29516_iruta.lua"
+  ],
+  "limits": [
+    "No candidate code was executed and no runtime/SQL changes were made.",
+    "Only-dispatch scripts do not supply downstream handlers for the assigned QuestNum.",
+    "A dispatcher may suffice for a dialog-only NPC; it does not demonstrate a complete quest implementation.",
+    "The source targets a different server implementation, database and client version."
+  ]
+}

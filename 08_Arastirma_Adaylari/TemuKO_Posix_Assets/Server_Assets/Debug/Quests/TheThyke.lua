@@ -1,0 +1,7 @@
+-- =============================================
+-- Author:		TheThyke
+-- Create date: 29.11.2017
+-- Update date: 29.11.2017
+-- %100 Quest System. TheThyke - AKIN
+-- İsmimi Belgelerden Silseniz Bile Beyninizde Her Daim Olacağım.
+-- =============================================

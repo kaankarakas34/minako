@@ -1,0 +1,51 @@
+{
+  "Utc": "2026-11-05T15:44:29.1038195Z",
+  "Database": "KNIGHT_TEMU_2239",
+  "ReadOnly": true,
+  "Outputs": [
+    {
+      "Rows": 93,
+      "Name": "levels"
+    },
+    {
+      "Rows": 172,
+      "Name": "upgrade-rates"
+    },
+    {
+      "Rows": 12782,
+      "Name": "spawn-map"
+    },
+    {
+      "Rows": 50,
+      "Name": "spawn-summary"
+    },
+    {
+      "Rows": 17,
+      "Name": "events"
+    },
+    {
+      "Rows": 23,
+      "Name": "variable-respawn"
+    },
+    {
+      "Rows": 6,
+      "Name": "stable-respawn"
+    },
+    {
+      "Rows": 2120,
+      "Name": "drop-definitions"
+    },
+    {
+      "Rows": 2121,
+      "Name": "monster-base"
+    },
+    {
+      "Rows": 1,
+      "Name": "missing-sql-dependencies"
+    },
+    {
+      "Rows": 329,
+      "Name": "schema"
+    }
+  ]
+}

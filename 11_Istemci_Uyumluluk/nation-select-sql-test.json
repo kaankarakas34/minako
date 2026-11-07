@@ -1,0 +1,8 @@
+{
+  "FreshNationPersisted": true,
+  "WarehousesPrepared": true,
+  "SameNationIdempotent": true,
+  "NationChangeRejected": true,
+  "InvalidNationRejected": true,
+  "AllProbeDataRolledBack": true
+}

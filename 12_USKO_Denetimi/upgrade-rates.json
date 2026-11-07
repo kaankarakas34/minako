@@ -1,0 +1,1378 @@
+[
+  {
+    "nReqItem1": 379016000,
+    "ScrollName": "Upgrade Scroll",
+    "UpgradeNote": "(+1 -> +2)",
+    "nGenRate": 5500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379016000,
+    "ScrollName": "Upgrade Scroll",
+    "UpgradeNote": "(+2 -> +3)",
+    "nGenRate": 3500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379016000,
+    "ScrollName": "Upgrade Scroll",
+    "UpgradeNote": "(+3 -> +4)",
+    "nGenRate": 2000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379016000,
+    "ScrollName": "Upgrade Scroll",
+    "UpgradeNote": "(+4 -> +5)",
+    "nGenRate": 1500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379017000,
+    "ScrollName": "Enchant Scroll(STR)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8290
+  },
+  {
+    "nReqItem1": 379018000,
+    "ScrollName": "Immune Scroll",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 11290
+  },
+  {
+    "nReqItem1": 379019000,
+    "ScrollName": "Reduce Scroll",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379020000,
+    "ScrollName": "Elemental Scroll",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+1 -> +2)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+1+)->(+2+)",
+    "nGenRate": 10000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+2 -> +3)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+2+)->(+3+)",
+    "nGenRate": 10000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+3 -> +4)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+3+)->(+4+)",
+    "nGenRate": 10000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+4 -> +5)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+4+)->(+5+)",
+    "nGenRate": 10000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+5 -> +6)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+5+)->(+6+)",
+    "nGenRate": 10000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+6 -> +7)",
+    "nGenRate": 7000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+6+)->(+7+)",
+    "nGenRate": 7000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+7 -> +8)",
+    "nGenRate": 4000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+7+)->(+8+)",
+    "nGenRate": 4000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+8 -> +9)",
+    "nGenRate": 2500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+8+)->(+9+)",
+    "nGenRate": 2500,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+9 -> +10)",
+    "nGenRate": 13,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379021000,
+    "ScrollName": "Blessed Upgrade Scroll",
+    "UpgradeNote": "(+9+)->(+10+)",
+    "nGenRate": 8,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379022000,
+    "ScrollName": "Blessed Enchant Scroll(STR)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8290
+  },
+  {
+    "nReqItem1": 379023000,
+    "ScrollName": "Blessed Immune Scroll",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 11290
+  },
+  {
+    "nReqItem1": 379024000,
+    "ScrollName": "Blessed Redice Scroll",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379025000,
+    "ScrollName": "Blessed Elemental Scroll",
+    "UpgradeNote": "(+0+)->(+1+)",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 145
+  },
+  {
+    "nReqItem1": 379025000,
+    "ScrollName": "Blessed Elemental Scroll",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379026000,
+    "ScrollName": "Enchant Scroll(HP)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7710
+  },
+  {
+    "nReqItem1": 379027000,
+    "ScrollName": "Enchant Scroll(DEX)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8230
+  },
+  {
+    "nReqItem1": 379028000,
+    "ScrollName": "Enchant Scroll(INT)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 6760
+  },
+  {
+    "nReqItem1": 379029000,
+    "ScrollName": "Enchant Scroll(MAGIC)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7340
+  },
+  {
+    "nReqItem1": 379030000,
+    "ScrollName": "Blessed Enchant Scroll(HP)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7710
+  },
+  {
+    "nReqItem1": 379031000,
+    "ScrollName": "Blessed Enchant Scroll(DEX)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8230
+  },
+  {
+    "nReqItem1": 379032000,
+    "ScrollName": "Blessed Enchant Scroll(INT)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 6760
+  },
+  {
+    "nReqItem1": 379033000,
+    "ScrollName": "Blessed Enchant Scroll(MAGIC)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7340
+  },
+  {
+    "nReqItem1": 379034000,
+    "ScrollName": "Dispell Scroll(Fire)",
+    "UpgradeNote": "Light to Fire",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379035000,
+    "ScrollName": "Dispell Scroll(Glacier)",
+    "UpgradeNote": "Light to Glacier",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379138000,
+    "ScrollName": "Dispell Scroll(Light) (High Class Item)",
+    "UpgradeNote": "Light to Fire",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379139000,
+    "ScrollName": "Dispell Scroll(Glacier)",
+    "UpgradeNote": "Fire to Glacier",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379140000,
+    "ScrollName": "Dispell Scroll(Fire)",
+    "UpgradeNote": "Glacier to Fire",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379141000,
+    "ScrollName": "High Class Dispell Scroll (Lightning)",
+    "UpgradeNote": "Glacier to Light",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379152000,
+    "ScrollName": "%100 Blessed Upgrade Scroll",
+    "UpgradeNote": "(+6 -> +7)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379152000,
+    "ScrollName": "%100 Blessed Upgrade Scroll",
+    "UpgradeNote": "(+6+)->(+7+)",
+    "nGenRate": 10000,
+    "nReqNoah": 250000,
+    "DefinitionCount": 157
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+0)-->(+1)",
+    "nGenRate": 1000,
+    "nReqNoah": 0,
+    "DefinitionCount": 10
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+0)-->(+1)",
+    "nGenRate": 2000,
+    "nReqNoah": 0,
+    "DefinitionCount": 11
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+0)-->(+1)",
+    "nGenRate": 3000,
+    "nReqNoah": 0,
+    "DefinitionCount": 13
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+0)-->(+1)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 75
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-1)->(+-2)",
+    "nGenRate": 3000,
+    "nReqNoah": 0,
+    "DefinitionCount": 3880
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+1)-->(+2)",
+    "nGenRate": 3000,
+    "nReqNoah": 0,
+    "DefinitionCount": 97
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-2)->(+-3)",
+    "nGenRate": 2000,
+    "nReqNoah": 0,
+    "DefinitionCount": 3880
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+2)-->(+3)",
+    "nGenRate": 2000,
+    "nReqNoah": 0,
+    "DefinitionCount": 96
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+2)-->(+3)",
+    "nGenRate": 3000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-3)->(+-4)",
+    "nGenRate": 1000,
+    "nReqNoah": 0,
+    "DefinitionCount": 3880
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+3)-->(+4)",
+    "nGenRate": 1000,
+    "nReqNoah": 0,
+    "DefinitionCount": 96
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+3)-->(+4)",
+    "nGenRate": 3000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-4)->(+-5)",
+    "nGenRate": 7500,
+    "nReqNoah": 0,
+    "DefinitionCount": 3880
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+4)-->(+5)",
+    "nGenRate": 0,
+    "nReqNoah": 0,
+    "DefinitionCount": 96
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+4)-->(+5)",
+    "nGenRate": 3000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-5)->(+-6)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 970
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-6)->(+-7)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 970
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-7)->(+-8)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 970
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-8)->(+-9)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 970
+  },
+  {
+    "nReqItem1": 379159000,
+    "ScrollName": "Accessory Compound Scroll",
+    "UpgradeNote": "(+-9)->(+-10)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 970
+  },
+  {
+    "nReqItem1": 379160000,
+    "ScrollName": "Accessory Enchant Scroll(STR)",
+    "UpgradeNote": "(--10)->(--1)",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 776
+  },
+  {
+    "nReqItem1": 379161000,
+    "ScrollName": "Accessory Enchant Scroll(HP)",
+    "UpgradeNote": "(--10)->(--1)",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 776
+  },
+  {
+    "nReqItem1": 379162000,
+    "ScrollName": "Accessory Enchant Scroll(DEX)",
+    "UpgradeNote": "(--10)->(--1)",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 776
+  },
+  {
+    "nReqItem1": 379163000,
+    "ScrollName": "Accessory Enchant Scroll(INT)",
+    "UpgradeNote": "(--10)->(--1)",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 776
+  },
+  {
+    "nReqItem1": 379164000,
+    "ScrollName": "Accessory Enchant Scroll(MP)",
+    "UpgradeNote": "(--10)->(--1)",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 776
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+1 -> +2)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+2 -> +3)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+3 -> +4)",
+    "nGenRate": 9000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+4 -> +5)",
+    "nGenRate": 7500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+5 -> +6)",
+    "nGenRate": 6000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+6 -> +7)",
+    "nGenRate": 3200,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+7 -> +8)",
+    "nGenRate": 1100,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+8 -> +9)",
+    "nGenRate": 500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379205000,
+    "ScrollName": "Upgrade Scroll (Middle Class item)",
+    "UpgradeNote": "(+9 -> +10)",
+    "nGenRate": 130,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379206000,
+    "ScrollName": "Enchant Scroll(STR) (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8290
+  },
+  {
+    "nReqItem1": 379208000,
+    "ScrollName": "Enchant Scroll(HP) (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7710
+  },
+  {
+    "nReqItem1": 379209000,
+    "ScrollName": "Enchant Scroll(DEX) (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8230
+  },
+  {
+    "nReqItem1": 379210000,
+    "ScrollName": "Enchant Scroll(INT) (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 6760
+  },
+  {
+    "nReqItem1": 379211000,
+    "ScrollName": "Enchant Scroll(MAGIC) (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7340
+  },
+  {
+    "nReqItem1": 379212000,
+    "ScrollName": "Immune Scroll (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 11290
+  },
+  {
+    "nReqItem1": 379213000,
+    "ScrollName": "Reduce Scroll (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379214000,
+    "ScrollName": "Elemental Scroll (Middle Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379215000,
+    "ScrollName": "Dispell Scroll(Fire) (Middle Class item)",
+    "UpgradeNote": "Light to Fire",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379216000,
+    "ScrollName": "Dispell Scroll(Glacier) (Middle Class item)",
+    "UpgradeNote": "Light to Glacier",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379217000,
+    "ScrollName": "Dispell Scroll(Light) (Middle Class item)",
+    "UpgradeNote": "Fire to Light",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379218000,
+    "ScrollName": "Dispell Scroll(Glacier) (Middle Class item)",
+    "UpgradeNote": "Fire to Glacier",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379219000,
+    "ScrollName": "Dispell Scroll(Fire) (Middle Class item)",
+    "UpgradeNote": "Glacier to Fire",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379220000,
+    "ScrollName": "Dispell Scroll(Light) (Middle Class item)",
+    "UpgradeNote": "Glacier to Light",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+1 -> +2)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+2 -> +3)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+3 -> +4)",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+4 -> +5)",
+    "nGenRate": 9000,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+5 -> +6)",
+    "nGenRate": 6500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+6 -> +7)",
+    "nGenRate": 3500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+7 -> +8)",
+    "nGenRate": 1200,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+8 -> +9)",
+    "nGenRate": 500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379221000,
+    "ScrollName": "Upgrade Scroll (Low Class item)",
+    "UpgradeNote": "(+9 -> +10)",
+    "nGenRate": 130,
+    "nReqNoah": 0,
+    "DefinitionCount": 7203
+  },
+  {
+    "nReqItem1": 379222000,
+    "ScrollName": "Enchant Scroll(STR) (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8290
+  },
+  {
+    "nReqItem1": 379223000,
+    "ScrollName": "Enchant Scroll(HP) (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7710
+  },
+  {
+    "nReqItem1": 379224000,
+    "ScrollName": "Enchant Scroll(DEX) (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 8230
+  },
+  {
+    "nReqItem1": 379225000,
+    "ScrollName": "Enchant Scroll(INT) (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 6760
+  },
+  {
+    "nReqItem1": 379226000,
+    "ScrollName": "Enchant Scroll(MAGIC) (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7340
+  },
+  {
+    "nReqItem1": 379227000,
+    "ScrollName": "Immune Scroll (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 11290
+  },
+  {
+    "nReqItem1": 379228000,
+    "ScrollName": "Reduce Scroll (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379229000,
+    "ScrollName": "Elemental Scroll (Low Class item)",
+    "UpgradeNote": "Alteration",
+    "nGenRate": 9500,
+    "nReqNoah": 0,
+    "DefinitionCount": 4980
+  },
+  {
+    "nReqItem1": 379230000,
+    "ScrollName": "Dispell Scroll(Fire) (Low Class item)",
+    "UpgradeNote": "Light to Fire",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379231000,
+    "ScrollName": "Dispell Scroll(Glacier) (Low Class item)",
+    "UpgradeNote": "Light to Glacier",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379232000,
+    "ScrollName": "Dispell Scroll(Light) (Low Class item)",
+    "UpgradeNote": "Fire to Light",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379233000,
+    "ScrollName": "Dispell Scroll(Glacier) (Low Class item)",
+    "UpgradeNote": "Fire to Glacier",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379234000,
+    "ScrollName": "Dispell Scroll(Fire) (Low Class item)",
+    "UpgradeNote": "Glacier to Fire",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379235000,
+    "ScrollName": "Dispell Scroll(Light) (Low Class item)",
+    "UpgradeNote": "Glacier to Light",
+    "nGenRate": 10000,
+    "nReqNoah": 500000,
+    "DefinitionCount": 980
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(++10)->(++21)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1942
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(++7)->(++1)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1942
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(++8)->(++5)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1942
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(++9)->(++11)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1942
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(+10+)->(+21+)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 143
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(+7+)->(+1+)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 143
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(+8+)->(+5+)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 143
+  },
+  {
+    "nReqItem1": 379256000,
+    "ScrollName": "Reverse Scroll",
+    "UpgradeNote": "(+9+)->(+11+)",
+    "nGenRate": 10000,
+    "nReqNoah": 0,
+    "DefinitionCount": 143
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+1)+->(+2)",
+    "nGenRate": 2500,
+    "nReqNoah": 0,
+    "DefinitionCount": 7
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+1)+->(+2)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 164
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+1)->(+2)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+10)+->(+11)",
+    "nGenRate": 2500,
+    "nReqNoah": 0,
+    "DefinitionCount": 136
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+10)+->(+11)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 35
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+10)->(+11)",
+    "nGenRate": 2500,
+    "nReqNoah": 0,
+    "DefinitionCount": 1585
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+10)->(+11)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 440
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+11)+->(+12)",
+    "nGenRate": 2250,
+    "nReqNoah": 0,
+    "DefinitionCount": 7
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+11)+->(+12)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 164
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+11)->(+12)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+12)+->(+13)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+12)->(+13)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+13)+->(+14)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+13)->(+14)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+14)+->(+15)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+14)->(+15)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+15)+->(+16)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+15)->(+16)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+16)+->(+17)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+16)->(+17)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+17)+->(+18)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+17)->(+18)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+18)+->(+19)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+18)->(+19)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+19)+->(+20)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+19)->(+20)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+2)+->(+3)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+2)->(+3)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+20)+->(+21)",
+    "nGenRate": 2000,
+    "nReqNoah": 0,
+    "DefinitionCount": 151
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+20)+->(+21)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 20
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+20)->(+21)",
+    "nGenRate": 2000,
+    "nReqNoah": 0,
+    "DefinitionCount": 1733
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+20)->(+21)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 292
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+3)+->(+4)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+3)->(+4)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+4)+->(+5)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+4)->(+5)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+5)+->(+6)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+5)->(+6)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+6)+->(+7)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+6)->(+7)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+7)+->(+8)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+7)->(+8)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+8)+->(+9)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+8)->(+9)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+9)+->(+10)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 171
+  },
+  {
+    "nReqItem1": 379257000,
+    "ScrollName": "Reverse Item Strengthen Scroll",
+    "UpgradeNote": "(+9)->(+10)",
+    "nGenRate": 3300,
+    "nReqNoah": 0,
+    "DefinitionCount": 2025
+  }
+]

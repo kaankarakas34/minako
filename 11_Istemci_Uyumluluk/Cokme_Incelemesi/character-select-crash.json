@@ -1,0 +1,12 @@
+{
+  "Process": "GameServer.exe",
+  "Exception": "ACCESS_VIOLATION",
+  "Function": "CDBAgent::LoadAchieveData",
+  "Line": 3805,
+  "Stack": [
+    "CDBAgent::LoadAchieveData",
+    "CUser::ReqSelectCharacter",
+    "DatabaseThread::ThreadProc"
+  ],
+  "Evidence": "Read local BugTrap XML in TEMP1395836125 before the crash dialog was closed; temporary dump removed by BugTrap."
+}

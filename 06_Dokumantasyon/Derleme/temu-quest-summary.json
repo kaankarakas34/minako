@@ -1,0 +1,23 @@
+{
+  "DistinctDatabaseReferences": 757,
+  "Statuses": {
+    "BASELINE_API_AND_SYNTAX_OK": 224,
+    "PARTIAL_BASELINE": 231,
+    "MISSING_VERIFIED_CONTENT": 296,
+    "ADAPTED_PENDING_GAMEPLAY": 5,
+    "REVIEW_BASELINE": 1
+  },
+  "AddedFiles": 5,
+  "RewrittenLiteralIDs": 0,
+  "SourceDomains": {
+    "Original": {
+      "MappedHelpers": 8158,
+      "MappedRecipes": 3472
+    },
+    "AKGame": {
+      "MappedHelpers": 5153,
+      "MappedRecipes": 3758
+    }
+  },
+  "Limits": "Compile/API/SQL metadata checks only. Dialog coverage and real reward/inventory behavior require further gameplay tests. Missing quest content is not replaced with dispatcher-only placeholders."
+}

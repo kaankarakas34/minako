@@ -1,0 +1,1647 @@
+[
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "eventlocalid",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "eventtype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "eventzoneid",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "eventname",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "startdays",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "eventstatus",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "starthour1",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "startminute1",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "timeactive1",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "starthour2",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "startminute2",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "timeactive2",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "starthour3",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "startminute3",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "timeactive3",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "starthour4",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "startminute4",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "timeactive4",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "starthour5",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "startminute5",
+    "DataType": "int"
+  },
+  {
+    "TableName": "event_start_schedule",
+    "ColumnName": "timeactive5",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nindex",
+    "DataType": "bigint"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nnpcnum",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "itemname",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "upgradenote",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "scrollname",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "itemtype",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "isunique",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "conversion",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "norigintype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "noriginitem",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem1",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem2",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem3",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem4",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem5",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem6",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem7",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqitem8",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "nreqnoah",
+    "DataType": "int"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "bratetype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "ngenrate",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "item_upgrade",
+    "ColumnName": "ngiveitem",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "ssid",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "strname",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "spid",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "ssize",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "iweapon1",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "iweapon2",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "bygroup",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "byacttype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "bytype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "byfamily",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "byrank",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "bytitle",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "isellinggroup",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "slevel",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "iexp",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "iloyalty",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "ihppoint",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "smppoint",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "satk",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sac",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "shitrate",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sevaderate",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sdamage",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sattackdelay",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "byspeed1",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "byspeed2",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sstandtime",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sitem",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "imagic1",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "imagic2",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "imagic3",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sfirer",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "scoldr",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "slightningr",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "smagicr",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sdiseaser",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "spoisonr",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "sbulk",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "byattackrange",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "bysearchrange",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "bytracingrange",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "imoney",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "bydirectattack",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster",
+    "ColumnName": "bymagicattack",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "sindex",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "iitem01",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "spersent01",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "iitem02",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "spersent02",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "iitem03",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "spersent03",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "iitem04",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "spersent04",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "iitem05",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "spersent05",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "iitem06",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "spersent06",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "iitem07",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_monster_item",
+    "ColumnName": "spersent07",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "zoneid",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "npcid",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "acttype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "regentype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "dungeonfamily",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "specialtype",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "trapnumber",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "limitminx",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "leftx",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "limitmaxx",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "rightx",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "limitminz",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "topz",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "limitmaxz",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "bottomz",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "numnpc",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "regtime",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "bydirection",
+    "DataType": "int"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "dotcnt",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "path",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "k_npcpos",
+    "ColumnName": "room",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "level_up",
+    "ColumnName": "id",
+    "DataType": "int"
+  },
+  {
+    "TableName": "level_up",
+    "ColumnName": "level",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "level_up",
+    "ColumnName": "exp",
+    "DataType": "bigint"
+  },
+  {
+    "TableName": "level_up",
+    "ColumnName": "rebithlevel",
+    "DataType": "smallint"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "desc",
+    "DataType": "nvarchar"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitemgroupnum",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_1",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_2",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_3",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_4",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_5",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_6",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_7",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_8",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_9",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_10",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_11",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_12",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_13",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_14",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_15",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_16",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_17",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_18",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_19",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_20",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_21",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_22",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_23",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_24",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_25",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_26",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_27",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_28",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_29",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_30",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_31",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_32",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_33",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_34",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_35",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_36",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_37",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_38",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_39",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_40",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_41",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_42",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_43",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_44",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_45",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_46",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_47",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_48",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_49",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_50",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_51",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_52",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_53",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_54",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_55",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_56",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_57",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_58",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_59",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_60",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_61",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_62",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_63",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_64",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_65",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_66",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_67",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_68",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_69",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_70",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_71",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_72",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_73",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_74",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_75",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_76",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_77",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_78",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_79",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_80",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_81",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_82",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_83",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_84",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_85",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_86",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_87",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_88",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_89",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_90",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_91",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_92",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_93",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_94",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_95",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_96",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_97",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_98",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_99",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_100",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_101",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_102",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_103",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_104",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_105",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_106",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_107",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_108",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_109",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_110",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_111",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_112",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_113",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_114",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_115",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_116",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_117",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_118",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_119",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_120",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_121",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_122",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_123",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_124",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_125",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_126",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_127",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_128",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_129",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_130",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_131",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_132",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_133",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_134",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_135",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_136",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_137",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_138",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_139",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_140",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_141",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_142",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_143",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_144",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_145",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_146",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_147",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_148",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_149",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_150",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_151",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_152",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_153",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_154",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_155",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_156",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_157",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_158",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_159",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_160",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_161",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_162",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_163",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_164",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_165",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_166",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_167",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_168",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_169",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_170",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_171",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_172",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_173",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_174",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_175",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_176",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_177",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_178",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_179",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_180",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_181",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_182",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_183",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_184",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_185",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_186",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_187",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_188",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_189",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_190",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_191",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_192",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_193",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_194",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_195",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_196",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_197",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_198",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_199",
+    "DataType": "int"
+  },
+  {
+    "TableName": "make_item_group",
+    "ColumnName": "iitem_200",
+    "DataType": "int"
+  }
+]

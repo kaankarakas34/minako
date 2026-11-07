@@ -1,0 +1,17 @@
+{
+  "ClientTable": "Player_experience.tbl",
+  "ComparedLevels": 83,
+  "Differences": [
+    {
+      "Level": 77,
+      "Client": 1196764159,
+      "Server": 1196764160
+    },
+    {
+      "Level": 79,
+      "Client": 1763786231,
+      "Server": 1763786232
+    }
+  ],
+  "OfficialUSKOProvenanceVerified": false
+}

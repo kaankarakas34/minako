@@ -1,0 +1,8 @@
+CREATE PROCEDURE [dbo].[LOAD_WEB_ITEMMALL]
+@strCharID	char(21)
+AS
+
+BEGIN TRAN
+	SELECT strAccountID, ItemID, ItemCount, BuyTime, itemtime FROM WEB_ITEMMALL WHERE strCharID = @strCharID
+	DELETE FROM WEB_ITEMMALL WHERE strCharID = @strCharID
+COMMIT TRAN

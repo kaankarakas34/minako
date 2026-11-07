@@ -1,0 +1,31 @@
+{
+  "LocalOnly": true,
+  "ClientExeUnmodified": true,
+  "RuntimeMemoryWrites": false,
+  "Files": [
+    {
+      "Path": "10_Kaynak_Derleme/Yerel_Calistirma/LogInServer.exe",
+      "SHA256": "a7c9e92e3d31ed87c8c5c0eea4f4c8dc08d4fe13663fd805c4f48e4c26c0b42c"
+    },
+    {
+      "Path": "10_Kaynak_Derleme/Yerel_Calistirma/GameServer.exe",
+      "SHA256": "90aa0b0f894543a7f47b8325b434d1e5927ec87047132cfb698f3d3c55a44245"
+    },
+    {
+      "Path": "11_Istemci_Uyumluluk/Yerel_Launcher/bin/Launcher.exe",
+      "SHA256": "63993e8e2e200175ba929d8debe55d6a884c00a361f0afd6a5ff5effe8380261"
+    }
+  ],
+  "UpdatedUTC": "2026-11-05T13:57:05.238801+00:00",
+  "PasswordFormat": "HashPasswordString",
+  "ServerPasswordLoggingDisabled": true,
+  "EngineSourceVersion": 2239,
+  "ClientWireVersion": 2083,
+  "ServerDisplayName": "KnightLocal2239|Local-1",
+  "GamePacketEncryptionEnabled": true,
+  "SessionTimeUnits": "milliseconds",
+  "InitialIdleLimitMilliseconds": 30000,
+  "AuthenticatedLoadingLimitMilliseconds": 1800000,
+  "AchievementDataBoundsChecked": true,
+  "UnknownAchievementDefinitionGuarded": true
+}

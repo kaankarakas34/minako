@@ -1,0 +1,344 @@
+[
+  {
+    "Zone": 74,
+    "Name": "Test Zone",
+    "Map": "freezone.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 77,
+    "Name": "Clan War Ardream",
+    "Map": "freezone_a_event2012.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 79,
+    "Name": "Boss Room",
+    "Map": "moradon.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 83,
+    "Name": "Monster Stone lll",
+    "Map": "In_dungeon03.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 85,
+    "Name": "Chaos Dengueon",
+    "Map": "sky_war_2009.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 88,
+    "Name": "Sihirdar Vadisi",
+    "Map": "moradon.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 91,
+    "Name": "Delos Basement War",
+    "Map": "moradon.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 94,
+    "Name": "Felankor Lair",
+    "Map": "dragon_a.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 96,
+    "Name": "Party War 1",
+    "Map": "In_dungeon06.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 97,
+    "Name": "Party War 2",
+    "Map": "In_dungeon06.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 98,
+    "Name": "Party War 3",
+    "Map": "In_dungeon06.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 118,
+    "Name": "Human Intro",
+    "Map": "moradon.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 1,
+    "Name": "Luferson Castle",
+    "Map": "karus2004.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 2,
+    "Name": "El Morad Castle",
+    "Map": "elmo2004.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 11,
+    "Name": "Karus Eslant",
+    "Map": "k_eslant.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 12,
+    "Name": "Elmorad Eslant",
+    "Map": "e_eslant.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 18,
+    "Name": "Old Karus",
+    "Map": "2003_karus_oldtime.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 21,
+    "Name": "Moradon",
+    "Map": "moradon.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 28,
+    "Name": "Old Human",
+    "Map": "elmo_oldtime_2003.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 30,
+    "Name": "Delos",
+    "Map": "war_a.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 31,
+    "Name": "Bifrost",
+    "Map": "dungeon_a.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 32,
+    "Name": "Desperation Abyss",
+    "Map": "dungeon_b1th.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 33,
+    "Name": "Hell Abyss",
+    "Map": "dungeon_b2th.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 34,
+    "Name": "Felankor Lair",
+    "Map": "dragon_a.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 35,
+    "Name": "Delos Basement",
+    "Map": "dungeond.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 36,
+    "Name": "Test",
+    "Map": "2017_flagwar.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 48,
+    "Name": "Battle Arena",
+    "Map": "arena.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 51,
+    "Name": "Orc Prisoner Quest",
+    "Map": "clanfight_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 52,
+    "Name": "Blood Don Quest",
+    "Map": "clanfight_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 53,
+    "Name": "Goblin Quest",
+    "Map": "clanfight_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 54,
+    "Name": "Cape Quest",
+    "Map": "clanfight_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 55,
+    "Name": "Forgotten Temple",
+    "Map": "clanfight_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 61,
+    "Name": "Napies Gorge",
+    "Map": "BattleZone.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 62,
+    "Name": "Alseids Prairie",
+    "Map": "BattleZone_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 63,
+    "Name": "Nieds Triangle",
+    "Map": "BattleZone_d.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 64,
+    "Name": "Nereids Island",
+    "Map": "BattleZone_e.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 65,
+    "Name": "Zipang",
+    "Map": "BattleZone_f.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 66,
+    "Name": "Oreads",
+    "Map": "new_runawar.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 67,
+    "Name": "Test Zone",
+    "Map": "battlezone_67.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 69,
+    "Name": "Snow War",
+    "Map": "BattleZone_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 71,
+    "Name": "Ronark Land",
+    "Map": "freezone_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 72,
+    "Name": "Ardream",
+    "Map": "freezone_a.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 73,
+    "Name": "Ronark Land Base",
+    "Map": "freezone_c.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 75,
+    "Name": "Krowaz Domion",
+    "Map": "itemzone_a.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 76,
+    "Name": "Knight Royale",
+    "Map": "battlezone_e_fl.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 78,
+    "Name": "Clan War Ronark",
+    "Map": "freezone_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 81,
+    "Name": "Monster Stone",
+    "Map": "In_dungeon01.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 82,
+    "Name": "Monster Stone ll",
+    "Map": "In_dungeon02.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 84,
+    "Name": "Border Defance War",
+    "Map": "In_dungeon06.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 86,
+    "Name": "Under The Castle",
+    "Map": "bossmode.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 87,
+    "Name": "Juraid Mountain",
+    "Map": "In_Dungeon05.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 89,
+    "Name": "Dungeon Defence",
+    "Map": "dungeon_defense.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 92,
+    "Name": "Prison",
+    "Map": "clanfight_b.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 93,
+    "Name": "Isillion Lair",
+    "Map": "dungeon_b2th.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 95,
+    "Name": "Drakis Tower",
+    "Map": "dungeon_b3th2015.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 99,
+    "Name": "Party War 4",
+    "Map": "In_dungeon04.smd",
+    "Status": 1
+  },
+  {
+    "Zone": 112,
+    "Name": "Karus Intro",
+    "Map": "moradon.smd",
+    "Status": 1
+  }
+]

@@ -1,0 +1,5 @@
+﻿"TABLE_SCHEMA","TABLE_NAME","COLUMN_NAME","DATA_TYPE"
+"dbo","QUEST_HELPER","strLuaFilename","char"
+"dbo","VERSION","strFilename","nchar"
+"dbo","WEB_ITEMMALL","img_file_name","varchar"
+"dbo","WEB_ITEMMALL_LOG","img_file_name","varchar"

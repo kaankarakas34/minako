@@ -1,0 +1,1 @@
+﻿Idle Windows Installer service was stopped; SQL setup may start it again.

@@ -1,0 +1,11 @@
+{
+  "Endpoint": "127.0.0.1:15100",
+  "Account": "KnightLab1",
+  "ValidNativeLogin": true,
+  "WrongPasswordRejected": true,
+  "ValidResponseBytes": 18,
+  "WrongResponseBytes": 4,
+  "CredentialsLogged": false,
+  "GraphicalClientLoginTested": false,
+  "Limits": "Native source protocol integration test. Graphical client compatibility is separate."
+}

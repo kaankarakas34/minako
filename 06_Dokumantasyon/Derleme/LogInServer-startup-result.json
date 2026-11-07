@@ -1,0 +1,52 @@
+{
+  "Server": "LogInServer",
+  "StartedUtc": "2026-11-04T20:44:31.7583794Z",
+  "Seconds": 4.601719,
+  "StartupSucceeded": true,
+  "LoopbackBindings": [
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15109
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15108
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15107
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15106
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15105
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15104
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15103
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15102
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15101
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 15100
+    }
+  ],
+  "ExitCode": null,
+  "StoppedAfterBoundedTest": true,
+  "ClientLoginTested": false,
+  "Published": false
+}

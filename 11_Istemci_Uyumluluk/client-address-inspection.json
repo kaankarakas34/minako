@@ -1,0 +1,919 @@
+{
+  "ClientPid": 28996,
+  "Utc": "2026-11-05T08:18:02.068678+00:00",
+  "ReadOnly": true,
+  "RegionsRead": 849,
+  "BytesScanned": 377057280,
+  "Addresses": [
+    {
+      "IP": "127.0.0.1",
+      "Address": "0xbaeeec",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x10ea677",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x10ea87a",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x17a2284",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x17a24c9",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.2.0.5",
+      "Address": "0x48f0200",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "2.2.0.5",
+      "Address": "0x48f03a8",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "172.31.160.1",
+      "Address": "0xa48714a",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "192.168.1.57",
+      "Address": "0xa487166",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "172.31.160.1",
+      "Address": "0xa48744a",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "192.168.1.57",
+      "Address": "0xa487466",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "172.31.160.1",
+      "Address": "0xa4879ca",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "192.168.1.57",
+      "Address": "0xa4879e6",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "172.31.160.1",
+      "Address": "0xa487fca",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "192.168.1.57",
+      "Address": "0xa487fe6",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "172.31.160.1",
+      "Address": "0xab19c2a",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "192.168.1.57",
+      "Address": "0xab19c46",
+      "RegionType": "0x20000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "127.0.0.2",
+      "Address": "0xab3081c",
+      "RegionType": "0x20000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "172.31.160.1",
+      "Address": "0x115a20c0",
+      "RegionType": "0x20000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x1183ce98",
+      "RegionType": "0x20000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "127.0.0.2",
+      "Address": "0x11a2d8c4",
+      "RegionType": "0x20000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x694e0526",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.37",
+      "Address": "0x696c8904",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x69c18db4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "185.126.176.179",
+      "Address": "0x723f6538",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.15",
+      "Address": "0x733e0324",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "10.137.198.68",
+      "Address": "0x733fee00",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce70e8",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce72a2",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce7abc",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce886a",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce89d2",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce8d82",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce91b4",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce95cc",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce9b1e",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce9c92",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ce9cf6",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73cea2d4",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73cea89a",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ceadfc",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ceb3a2",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "15.0.0.0",
+      "Address": "0x73ceb744",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "0.0.0.0",
+      "Address": "0x73cedb20",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x7405e266",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x7405e34f",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x74148349",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x74148438",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x74ac85a8",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "1.0.0.0",
+      "Address": "0x74be67c8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x74be68e3",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x74f4cde8",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "5.1.0.0",
+      "Address": "0x755933b1",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x755934a0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "5.1.0.0",
+      "Address": "0x75dbe29f",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x75dbe38e",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x75e6c258",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "5.1.0.0",
+      "Address": "0x763dc26f",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x763dc35e",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "0.0.0.0",
+      "Address": "0x76452180",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "5.1.0.0",
+      "Address": "0x76538adb",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x76538bfc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "0.0.0.0",
+      "Address": "0x768ae930",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "2.5.4.3",
+      "Address": "0x76994d54",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.35",
+      "Address": "0x76996fd0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.14",
+      "Address": "0x76996fdc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.1",
+      "Address": "0x76997c34",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.19",
+      "Address": "0x76998474",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.37",
+      "Address": "0x76a0a950",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.33",
+      "Address": "0x76a0a95c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.32",
+      "Address": "0x76a0a968",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.27",
+      "Address": "0x76a0a9a4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.1",
+      "Address": "0x76a0a9b0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.30",
+      "Address": "0x76a0a9bc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.19",
+      "Address": "0x76a0a9c8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.54",
+      "Address": "0x76a0a9d4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.36",
+      "Address": "0x76a0a9e0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.35",
+      "Address": "0x76a0a9ec",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.15",
+      "Address": "0x76a0a9f8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.14",
+      "Address": "0x76a0aa04",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.28",
+      "Address": "0x76a0aaec",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.17",
+      "Address": "0x76a0ac30",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.10",
+      "Address": "0x76a0b8b0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.3",
+      "Address": "0x76a0baa0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.3",
+      "Address": "0x76a0e554",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.5",
+      "Address": "0x76a0e560",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.4",
+      "Address": "0x76a0e56c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.8",
+      "Address": "0x76a0e578",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.7",
+      "Address": "0x76a0e584",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.2",
+      "Address": "0x76a0e590",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.10",
+      "Address": "0x76a0e59c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.11",
+      "Address": "0x76a0e5a8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.16",
+      "Address": "0x76a0e5cc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.46",
+      "Address": "0x76a0e5d8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.18",
+      "Address": "0x76a0e5e4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.31",
+      "Address": "0x76a0e5f0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.20",
+      "Address": "0x76a10060",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.21",
+      "Address": "0x76a10080",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.29.9",
+      "Address": "0x76a115e4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.52",
+      "Address": "0x76a115f0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.7",
+      "Address": "0x76a12b84",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.6",
+      "Address": "0x76a12bac",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.8",
+      "Address": "0x76a12bb8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.9",
+      "Address": "0x76a12bcc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.12",
+      "Address": "0x76a12be4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.42",
+      "Address": "0x76a12c00",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.43",
+      "Address": "0x76a12c2c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.4",
+      "Address": "0x76a12c50",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.5",
+      "Address": "0x76a12c60",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.13",
+      "Address": "0x76a12ca8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.17",
+      "Address": "0x76a12ccc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.18",
+      "Address": "0x76a12cf0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.20",
+      "Address": "0x76a12d08",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.24",
+      "Address": "0x76a12d20",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.46",
+      "Address": "0x76a12d44",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.14",
+      "Address": "0x76a13adc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.15",
+      "Address": "0x76a13ae8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.16",
+      "Address": "0x76a13af4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.19",
+      "Address": "0x76a13b00",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.21",
+      "Address": "0x76a13b0c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.22",
+      "Address": "0x76a13b18",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.23",
+      "Address": "0x76a13b24",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.25",
+      "Address": "0x76a13b30",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.26",
+      "Address": "0x76a13b3c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.27",
+      "Address": "0x76a13b48",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.28",
+      "Address": "0x76a13b54",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.29",
+      "Address": "0x76a13b60",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.30",
+      "Address": "0x76a13b6c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.31",
+      "Address": "0x76a13b78",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.32",
+      "Address": "0x76a13b84",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.33",
+      "Address": "0x76a13b90",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.34",
+      "Address": "0x76a13b9c",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.35",
+      "Address": "0x76a13ba8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.36",
+      "Address": "0x76a13bb4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.37",
+      "Address": "0x76a13bc0",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.38",
+      "Address": "0x76a13bcc",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.39",
+      "Address": "0x76a13bd8",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "2.5.4.40",
+      "Address": "0x76a13be4",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x76c8f320",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x7756f9cc",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x775fd770",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x779804b0",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Address": "0x77a0bf30",
+      "RegionType": "0x1000000",
+      "Encoding": "utf-16-le"
+    },
+    {
+      "IP": "5.1.0.0",
+      "Address": "0x77aae210",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    },
+    {
+      "IP": "6.0.0.0",
+      "Address": "0x77aae2ff",
+      "RegionType": "0x1000000",
+      "Encoding": "ascii"
+    }
+  ],
+  "SocketAddresses": [
+    {
+      "IP": "127.0.0.1",
+      "Port": 78,
+      "Address": "0x11716f51",
+      "RegionType": "0x20000"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Port": 76,
+      "Address": "0x11716fe9",
+      "RegionType": "0x20000"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Port": 73,
+      "Address": "0x117172e1",
+      "RegionType": "0x20000"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Port": 75,
+      "Address": "0x11717411",
+      "RegionType": "0x20000"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Port": 74,
+      "Address": "0x117175d9",
+      "RegionType": "0x20000"
+    },
+    {
+      "IP": "127.0.0.1",
+      "Port": 77,
+      "Address": "0x11717671",
+      "RegionType": "0x20000"
+    }
+  ],
+  "RawMemorySaved": false,
+  "CredentialsSaved": false
+}

@@ -1,0 +1,19 @@
+{
+  "InstallationStage": "Completed",
+  "SqlProductVersion": "16.0.4305.5",
+  "SqlInstance": "KNIGHTLOCAL",
+  "TestDatabase": "KNIGHT_24XX_TEST",
+  "OriginalBackupUnchanged": true,
+  "BackupVerifyOnlyPassed": true,
+  "DbccPhysicalOnlyPassed": true,
+  "OdbcX86Test": "Passed",
+  "MapReferencesChecked": 43,
+  "MissingMapReferences": 0,
+  "MissingSqlProcedures": [
+    "UPDATE_ALL_CHAR_ID"
+  ],
+  "MissingLuaFileNames": 468,
+  "MissingExtensionlessReferences": 12,
+  "NeedsReboot": false,
+  "Utc": "2026-11-04T18:40:57.7585793Z"
+}

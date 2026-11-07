@@ -1,0 +1,13 @@
+﻿ScriptFile,Quest,Case,Passed,Error,Rewards
+31567_Fellor.lua,772,success,True,,1
+31567_Fellor.lua,772,no_items,True,,0
+31567_Fellor.lua,772,full_bag,True,,0
+13013_Patric.lua,60,success,False,"('reward count', [])",0
+13013_Patric.lua,60,no_items,True,,0
+13013_Patric.lua,60,full_bag,True,,0
+25163_Rea,1312,success,True,,1
+25163_Rea,1312,no_items,True,,0
+25163_Rea,1312,full_bag,True,,0
+29193_Dolkin.lua,946,success,True,,1
+29193_Dolkin.lua,946,no_items,True,,0
+29193_Dolkin.lua,946,full_bag,True,,0

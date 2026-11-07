@@ -1,0 +1,62 @@
+[
+  {
+    "sindex": 5801,
+    "groupnumber": 1,
+    "ssid": 5901,
+    "isnpc": 0,
+    "szoneid": 71,
+    "scount": 1,
+    "sradius": 3,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 5901,
+    "groupnumber": 1,
+    "ssid": 6001,
+    "isnpc": 0,
+    "szoneid": 71,
+    "scount": 1,
+    "sradius": 3,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 6001,
+    "groupnumber": 1,
+    "ssid": 6101,
+    "isnpc": 0,
+    "szoneid": 71,
+    "scount": 1,
+    "sradius": 3,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 6101,
+    "groupnumber": 1,
+    "ssid": 6201,
+    "isnpc": 0,
+    "szoneid": 71,
+    "scount": 1,
+    "sradius": 3,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 6201,
+    "groupnumber": 1,
+    "ssid": 6301,
+    "isnpc": 0,
+    "szoneid": 71,
+    "scount": 1,
+    "sradius": 3,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 6301,
+    "groupnumber": 1,
+    "ssid": 6401,
+    "isnpc": 0,
+    "szoneid": 71,
+    "scount": 1,
+    "sradius": 3,
+    "isdeadtime": 10
+  }
+]

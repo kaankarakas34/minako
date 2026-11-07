@@ -1,0 +1,9 @@
+﻿{
+    "EngineVersion":  "Microsoft SQL Server 2022 (RTM-CU27-GDR) (KB5126934) - 16.0.4305.5 (X64) \n\tOct  2 2026 17:28:11 \n\tCopyright (C) 2022 Microsoft Corporation\n\tExpress Edition (64-bit) on Windows 10 Pro 10.0 \u003cX64\u003e (Build 26200: ) (Hypervisor)\n",
+    "ProductVersion":  "16.0.4305.5",
+    "Edition":  "Express Edition (64-bit)",
+    "DatabaseCollation":  "SQL_Latin1_General_CP1_CI_AS",
+    "CompatibilityLevel":  100,
+    "TableCount":  158,
+    "ProcedureCount":  163
+}

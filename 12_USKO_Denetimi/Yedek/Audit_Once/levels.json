@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "exp": 50,
+    "rebithlevel": 0
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "exp": 100,
+    "rebithlevel": 0
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "exp": 190,
+    "rebithlevel": 0
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "exp": 342,
+    "rebithlevel": 0
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "exp": 581,
+    "rebithlevel": 0
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "exp": 929,
+    "rebithlevel": 0
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "exp": 1393,
+    "rebithlevel": 0
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "exp": 1950,
+    "rebithlevel": 0
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "exp": 2535,
+    "rebithlevel": 0
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "exp": 5070,
+    "rebithlevel": 0
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "exp": 6084,
+    "rebithlevel": 0
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "exp": 7300,
+    "rebithlevel": 0
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "exp": 8760,
+    "rebithlevel": 0
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "exp": 10512,
+    "rebithlevel": 0
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "exp": 12612,
+    "rebithlevel": 0
+  },
+  {
+    "id": 16,
+    "level": 16,
+    "exp": 15136,
+    "rebithlevel": 0
+  },
+  {
+    "id": 17,
+    "level": 17,
+    "exp": 18163,
+    "rebithlevel": 0
+  },
+  {
+    "id": 18,
+    "level": 18,
+    "exp": 21795,
+    "rebithlevel": 0
+  },
+  {
+    "id": 19,
+    "level": 19,
+    "exp": 26154,
+    "rebithlevel": 0
+  },
+  {
+    "id": 20,
+    "level": 20,
+    "exp": 52308,
+    "rebithlevel": 0
+  },
+  {
+    "id": 21,
+    "level": 21,
+    "exp": 60154,
+    "rebithlevel": 0
+  },
+  {
+    "id": 22,
+    "level": 22,
+    "exp": 69177,
+    "rebithlevel": 0
+  },
+  {
+    "id": 23,
+    "level": 23,
+    "exp": 79553,
+    "rebithlevel": 0
+  },
+  {
+    "id": 24,
+    "level": 24,
+    "exp": 91485,
+    "rebithlevel": 0
+  },
+  {
+    "id": 25,
+    "level": 25,
+    "exp": 105207,
+    "rebithlevel": 0
+  },
+  {
+    "id": 26,
+    "level": 26,
+    "exp": 120988,
+    "rebithlevel": 0
+  },
+  {
+    "id": 27,
+    "level": 27,
+    "exp": 139136,
+    "rebithlevel": 0
+  },
+  {
+    "id": 28,
+    "level": 28,
+    "exp": 160006,
+    "rebithlevel": 0
+  },
+  {
+    "id": 29,
+    "level": 29,
+    "exp": 184006,
+    "rebithlevel": 0
+  },
+  {
+    "id": 30,
+    "level": 30,
+    "exp": 368012,
+    "rebithlevel": 0
+  },
+  {
+    "id": 31,
+    "level": 31,
+    "exp": 404813,
+    "rebithlevel": 0
+  },
+  {
+    "id": 32,
+    "level": 32,
+    "exp": 445294,
+    "rebithlevel": 0
+  },
+  {
+    "id": 33,
+    "level": 33,
+    "exp": 489823,
+    "rebithlevel": 0
+  },
+  {
+    "id": 34,
+    "level": 34,
+    "exp": 538805,
+    "rebithlevel": 0
+  },
+  {
+    "id": 35,
+    "level": 35,
+    "exp": 808207,
+    "rebithlevel": 0
+  },
+  {
+    "id": 36,
+    "level": 36,
+    "exp": 889027,
+    "rebithlevel": 0
+  },
+  {
+    "id": 37,
+    "level": 37,
+    "exp": 977929,
+    "rebithlevel": 0
+  },
+  {
+    "id": 38,
+    "level": 38,
+    "exp": 1075721,
+    "rebithlevel": 0
+  },
+  {
+    "id": 39,
+    "level": 39,
+    "exp": 1183293,
+    "rebithlevel": 0
+  },
+  {
+    "id": 40,
+    "level": 40,
+    "exp": 2366586,
+    "rebithlevel": 0
+  },
+  {
+    "id": 41,
+    "level": 41,
+    "exp": 2603244,
+    "rebithlevel": 0
+  },
+  {
+    "id": 42,
+    "level": 42,
+    "exp": 2863568,
+    "rebithlevel": 0
+  },
+  {
+    "id": 43,
+    "level": 43,
+    "exp": 3149924,
+    "rebithlevel": 0
+  },
+  {
+    "id": 44,
+    "level": 44,
+    "exp": 3464916,
+    "rebithlevel": 0
+  },
+  {
+    "id": 45,
+    "level": 45,
+    "exp": 5197374,
+    "rebithlevel": 0
+  },
+  {
+    "id": 46,
+    "level": 46,
+    "exp": 5717111,
+    "rebithlevel": 0
+  },
+  {
+    "id": 47,
+    "level": 47,
+    "exp": 6288822,
+    "rebithlevel": 0
+  },
+  {
+    "id": 48,
+    "level": 48,
+    "exp": 6917704,
+    "rebithlevel": 0
+  },
+  {
+    "id": 49,
+    "level": 49,
+    "exp": 7609474,
+    "rebithlevel": 0
+  },
+  {
+    "id": 50,
+    "level": 50,
+    "exp": 15218948,
+    "rebithlevel": 0
+  },
+  {
+    "id": 51,
+    "level": 51,
+    "exp": 16740842,
+    "rebithlevel": 0
+  },
+  {
+    "id": 52,
+    "level": 52,
+    "exp": 18414926,
+    "rebithlevel": 0
+  },
+  {
+    "id": 53,
+    "level": 53,
+    "exp": 20256418,
+    "rebithlevel": 0
+  },
+  {
+    "id": 54,
+    "level": 54,
+    "exp": 22282059,
+    "rebithlevel": 0
+  },
+  {
+    "id": 55,
+    "level": 55,
+    "exp": 33423088,
+    "rebithlevel": 0
+  },
+  {
+    "id": 56,
+    "level": 56,
+    "exp": 36765396,
+    "rebithlevel": 0
+  },
+  {
+    "id": 57,
+    "level": 57,
+    "exp": 40441935,
+    "rebithlevel": 0
+  },
+  {
+    "id": 58,
+    "level": 58,
+    "exp": 44486128,
+    "rebithlevel": 0
+  },
+  {
+    "id": 59,
+    "level": 59,
+    "exp": 48934740,
+    "rebithlevel": 0
+  },
+  {
+    "id": 60,
+    "level": 60,
+    "exp": 73402110,
+    "rebithlevel": 0
+  },
+  {
+    "id": 61,
+    "level": 61,
+    "exp": 132123798,
+    "rebithlevel": 0
+  },
+  {
+    "id": 62,
+    "level": 62,
+    "exp": 145336177,
+    "rebithlevel": 0
+  },
+  {
+    "id": 63,
+    "level": 63,
+    "exp": 159869794,
+    "rebithlevel": 0
+  },
+  {
+    "id": 64,
+    "level": 64,
+    "exp": 175856773,
+    "rebithlevel": 0
+  },
+  {
+    "id": 65,
+    "level": 65,
+    "exp": 193442450,
+    "rebithlevel": 0
+  },
+  {
+    "id": 66,
+    "level": 66,
+    "exp": 212786695,
+    "rebithlevel": 0
+  },
+  {
+    "id": 67,
+    "level": 67,
+    "exp": 234065364,
+    "rebithlevel": 0
+  },
+  {
+    "id": 68,
+    "level": 68,
+    "exp": 257471900,
+    "rebithlevel": 0
+  },
+  {
+    "id": 69,
+    "level": 69,
+    "exp": 283219090,
+    "rebithlevel": 0
+  },
+  {
+    "id": 70,
+    "level": 70,
+    "exp": 311540999,
+    "rebithlevel": 0
+  },
+  {
+    "id": 71,
+    "level": 71,
+    "exp": 373849198,
+    "rebithlevel": 0
+  },
+  {
+    "id": 72,
+    "level": 72,
+    "exp": 453852927,
+    "rebithlevel": 0
+  },
+  {
+    "id": 73,
+    "level": 73,
+    "exp": 550977453,
+    "rebithlevel": 0
+  },
+  {
+    "id": 74,
+    "level": 74,
+    "exp": 668886628,
+    "rebithlevel": 0
+  },
+  {
+    "id": 75,
+    "level": 75,
+    "exp": 812028367,
+    "rebithlevel": 0
+  },
+  {
+    "id": 76,
+    "level": 76,
+    "exp": 985802438,
+    "rebithlevel": 0
+  },
+  {
+    "id": 77,
+    "level": 77,
+    "exp": 1196764160,
+    "rebithlevel": 0
+  },
+  {
+    "id": 78,
+    "level": 78,
+    "exp": 1452871690,
+    "rebithlevel": 0
+  },
+  {
+    "id": 79,
+    "level": 79,
+    "exp": 1763786232,
+    "rebithlevel": 0
+  },
+  {
+    "id": 80,
+    "level": 80,
+    "exp": 2141236485,
+    "rebithlevel": 0
+  },
+  {
+    "id": 81,
+    "level": 81,
+    "exp": 4317589248,
+    "rebithlevel": 0
+  },
+  {
+    "id": 82,
+    "level": 82,
+    "exp": 6130976733,
+    "rebithlevel": 0
+  },
+  {
+    "id": 83,
+    "level": 83,
+    "exp": 8705986960,
+    "rebithlevel": 0
+  },
+  {
+    "id": 84,
+    "level": 83,
+    "exp": 9576585656,
+    "rebithlevel": 1
+  },
+  {
+    "id": 85,
+    "level": 83,
+    "exp": 10534244222,
+    "rebithlevel": 2
+  },
+  {
+    "id": 86,
+    "level": 83,
+    "exp": 11587668644,
+    "rebithlevel": 3
+  },
+  {
+    "id": 87,
+    "level": 83,
+    "exp": 12746435508,
+    "rebithlevel": 4
+  },
+  {
+    "id": 88,
+    "level": 83,
+    "exp": 14021079059,
+    "rebithlevel": 5
+  },
+  {
+    "id": 89,
+    "level": 83,
+    "exp": 15423186965,
+    "rebithlevel": 6
+  },
+  {
+    "id": 90,
+    "level": 83,
+    "exp": 16965505661,
+    "rebithlevel": 7
+  },
+  {
+    "id": 91,
+    "level": 83,
+    "exp": 18662056227,
+    "rebithlevel": 8
+  },
+  {
+    "id": 92,
+    "level": 83,
+    "exp": 20528261850,
+    "rebithlevel": 9
+  },
+  {
+    "id": 94,
+    "level": 83,
+    "exp": 22581088035,
+    "rebithlevel": 10
+  }
+]

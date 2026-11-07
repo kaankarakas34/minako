@@ -1,0 +1,19 @@
+{
+  "References": 693,
+  "Statuses": {
+    "ADAPTED": 175,
+    "DIALOG_ONLY": 366,
+    "ADAPTED_WITH_DISABLED_EVENTS": 45,
+    "ADAPTED_PARTIAL_EVENTS": 87,
+    "REVIEW_SELECTED_REWARD": 19,
+    "BLOCKED_MISSING_QUEST_CONTENT": 1
+  },
+  "ChangedFiles": 373,
+  "SyntaxErrors": 0,
+  "UnexpectedGlobalCalls": 0,
+  "Limits": [
+    "Prepared files are a reviewable working copy, not a verified live game.",
+    "Runtime quest acceptance/completion/reward tests remain necessary.",
+    "No NPC, item, quest progression or reward IDs were invented."
+  ]
+}

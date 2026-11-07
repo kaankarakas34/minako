@@ -1,0 +1,15 @@
+{
+  "Cases": 12,
+  "Passed": 11,
+  "Failed": [
+    {
+      "ScriptFile": "13013_Patric.lua",
+      "Quest": 60,
+      "Case": "success",
+      "Passed": false,
+      "Error": "('reward count', [])",
+      "Rewards": 0
+    }
+  ],
+  "Coverage": "Four NPCs: accept, successful turn-in, exactly one reward, replay rejection, insufficient items, full bag. Offline fake native API only."
+}

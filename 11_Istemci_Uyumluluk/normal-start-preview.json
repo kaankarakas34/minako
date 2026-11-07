@@ -1,0 +1,168 @@
+{
+  "Applied": false,
+  "Online": 0,
+  "Character": "cabbar",
+  "Level": 2,
+  "ExperiencePreserved": 25,
+  "NoahPreserved": 438,
+  "RemovedBoostedItems": [
+    {
+      "Slot": 0,
+      "Item": 310410263
+    },
+    {
+      "Slot": 1,
+      "Item": 298003041
+    },
+    {
+      "Slot": 2,
+      "Item": 310410263
+    },
+    {
+      "Slot": 3,
+      "Item": 320310413
+    },
+    {
+      "Slot": 4,
+      "Item": 298001041
+    },
+    {
+      "Slot": 6,
+      "Item": 1111479911
+    },
+    {
+      "Slot": 7,
+      "Item": 340610373
+    },
+    {
+      "Slot": 8,
+      "Item": 1111480911
+    },
+    {
+      "Slot": 9,
+      "Item": 330620433
+    },
+    {
+      "Slot": 10,
+      "Item": 298002041
+    },
+    {
+      "Slot": 11,
+      "Item": 330620433
+    },
+    {
+      "Slot": 12,
+      "Item": 298004041
+    },
+    {
+      "Slot": 13,
+      "Item": 298005041
+    },
+    {
+      "Slot": 14,
+      "Item": 1110596881
+    },
+    {
+      "Slot": 15,
+      "Item": 1110546791
+    },
+    {
+      "Slot": 16,
+      "Item": 1111464821
+    },
+    {
+      "Slot": 18,
+      "Item": 1110597881
+    },
+    {
+      "Slot": 20,
+      "Item": 310310423
+    },
+    {
+      "Slot": 21,
+      "Item": 197411501
+    },
+    {
+      "Slot": 22,
+      "Item": 1111465821
+    },
+    {
+      "Slot": 23,
+      "Item": 1110547791
+    },
+    {
+      "Slot": 26,
+      "Item": 310610273
+    },
+    {
+      "Slot": 27,
+      "Item": 310310423
+    },
+    {
+      "Slot": 33,
+      "Item": 310610273
+    },
+    {
+      "Slot": 34,
+      "Item": 310110223
+    },
+    {
+      "Slot": 36,
+      "Item": 379066000
+    },
+    {
+      "Slot": 37,
+      "Item": 900487000
+    },
+    {
+      "Slot": 38,
+      "Item": 900486000
+    },
+    {
+      "Slot": 39,
+      "Item": 379062000
+    },
+    {
+      "Slot": 40,
+      "Item": 170250256
+    },
+    {
+      "Slot": 41,
+      "Item": 310110223
+    }
+  ],
+  "BasicItems": [
+    {
+      "Slot": 1,
+      "Item": 281013000,
+      "Name": "Novice Priest's Helmet"
+    },
+    {
+      "Slot": 4,
+      "Item": 281011000,
+      "Name": "Novice Priest's Pauldron"
+    },
+    {
+      "Slot": 6,
+      "Item": 191410000,
+      "Name": "Novice Mace 1"
+    },
+    {
+      "Slot": 10,
+      "Item": 281012000,
+      "Name": "Novice Priest's Pants"
+    },
+    {
+      "Slot": 12,
+      "Item": 281014000,
+      "Name": "Novice Priest's Gauntlets"
+    },
+    {
+      "Slot": 13,
+      "Item": 281015000,
+      "Name": "Novice Priest's Boots"
+    }
+  ],
+  "UnusedBoostedGiftLetters": 13,
+  "OtherLootPreserved": true
+}

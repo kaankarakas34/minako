@@ -1,0 +1,6 @@
+{
+  "Test": "Delay initial handshake by two seconds",
+  "ClosedBeforeHandshake": true,
+  "ObservedSeconds": 0.929,
+  "CredentialsSent": false
+}

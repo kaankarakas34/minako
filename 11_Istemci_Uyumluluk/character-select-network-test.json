@@ -1,0 +1,59 @@
+{
+  "RealGameServerCharacterListPassed": true,
+  "Characters": [
+    {
+      "Slot": 0,
+      "Name": "cabbar",
+      "Race": 4,
+      "Class": 111,
+      "Level": 23,
+      "Face": 4,
+      "Hair": 62405454,
+      "Zone": 21,
+      "Equipment": [
+        {
+          "Item": 281013000,
+          "Durability": 2799
+        },
+        {
+          "Item": 281011000,
+          "Durability": 2799
+        },
+        {
+          "Item": 0,
+          "Durability": 0
+        },
+        {
+          "Item": 191410000,
+          "Durability": 9258
+        },
+        {
+          "Item": 0,
+          "Durability": 0
+        },
+        {
+          "Item": 281012000,
+          "Durability": 2799
+        },
+        {
+          "Item": 281014000,
+          "Durability": 2799
+        },
+        {
+          "Item": 281015000,
+          "Durability": 2799
+        }
+      ]
+    }
+  ],
+  "CharacterSelectAccepted": 1,
+  "SelectionPackets": [
+    {
+      "Opcode": 4,
+      "Bytes": 10
+    }
+  ],
+  "GameplayPerformed": false,
+  "GraphicalRenderingVerified": false,
+  "CredentialsLogged": false
+}

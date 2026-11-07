@@ -1,0 +1,30 @@
+[
+  {
+    "From": "TemuKO-main",
+    "To": "01_Kaynak_Kod\\TemuKO-main"
+  },
+  {
+    "From": "24xx Server Files\\24xx Server Files",
+    "To": "02_Sunucu\\24xx"
+  },
+  {
+    "From": "24xx Database\\24xx Database",
+    "To": "03_Veritabanlari\\24xx"
+  },
+  {
+    "From": "Gamesoft_v24xx",
+    "To": "04_Istemci\\Gamesoft_v24xx"
+  },
+  {
+    "From": "v24 Patch\\v24 Patch\\v2 Patch",
+    "To": "05_Yamalar\\v24_Patch"
+  },
+  {
+    "From": "kurulum-arastirmasi",
+    "To": "06_Dokumantasyon\\Onceki_Arastirma"
+  },
+  {
+    "From": "Lütfen Okuyun.txt",
+    "To": "06_Dokumantasyon\\Orijinal_Notlar\\Lütfen Okuyun.txt"
+  }
+]

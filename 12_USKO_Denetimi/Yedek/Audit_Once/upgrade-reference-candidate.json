@@ -1,0 +1,19 @@
+{
+  "Profile": "community-koreko-2024-reference-candidate",
+  "Applied": false,
+  "OfficialUSKOConfirmed": false,
+  "Scope": "Regular item level upgrades only. Not elemental/enchant/unique conversion/Noah fees.",
+  "Sources": [
+    {"URL": "https://forum.nttgame.com/forum/printthread.php?pp=10&t=826203", "Date": "2024-03-18", "Kind": "Community repost of Korea announcement; not a verified USKO table"},
+    {"URL": "https://knight.mgame.com/guide/probability", "Kind": "Historical official Korea link cited by repost; now HTTP 404"},
+    {"URL": "https://knight.mgame.com/info/probability/", "Kind": "Current official Korea menu link; redirects to maintenance during audit"},
+    {"URL": "https://forum.nttgame.com/forum/showthread.php?579463", "Kind": "USKO guide; Trina guaranteed through +5 and Karivdis bonus documented, full rates not given"}
+  ],
+  "OrdinaryUpgradeScrollBasisPoints": {"1":9500,"2":5000,"3":4000,"4":3500},
+  "LowMiddleBlessedBasisPoints": {"1":10000,"2":10000,"3":7000,"4":7000,"5":6000,"6":3000,"7":500,"8":200,"9":100},
+  "TrinaNormalUpgradeBasisPoints": {"1":10000,"2":10000,"3":10000,"4":10000,"5":7000,"6":4000,"7":1500,"8":600,"9":300},
+  "RebirthBasisPoints": 3000,
+  "RebirthKarivdisBasisPoints": 6000,
+  "DropRates": "Unknown; no unrelated private server drops are imported.",
+  "FullSpawnCoordinatesAndDensity": "Unknown; no invented coordinates or blanket respawn multiplier."
+}

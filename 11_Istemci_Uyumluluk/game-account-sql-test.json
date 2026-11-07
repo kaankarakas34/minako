@@ -1,0 +1,9 @@
+{
+  "FreshAccountNationSelectionAllowed": true,
+  "WrongPasswordRejected": true,
+  "BlockedAccountRejected": true,
+  "InvalidNationRejected": true,
+  "InconsistentCharacterStateRejected": true,
+  "AllTestChangesRolledBack": true,
+  "CredentialsLogged": false
+}

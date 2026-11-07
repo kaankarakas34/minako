@@ -1,0 +1,1 @@
+Thyke2.lua; completed cases=30624

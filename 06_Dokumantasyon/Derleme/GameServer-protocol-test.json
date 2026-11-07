@@ -1,0 +1,10 @@
+{
+  "Server": "GameServer",
+  "Port": 15001,
+  "FramingValidated": true,
+  "NativeVersion": 2083,
+  "EngineSourceVersion": 2239,
+  "VersionReplyBytes": 13,
+  "CredentialsSent": false,
+  "GraphicalClientTested": false
+}

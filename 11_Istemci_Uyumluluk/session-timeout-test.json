@@ -1,0 +1,7 @@
+{
+  "Endpoint": "127.0.0.1:15001",
+  "IntendedIdleSeconds": 30,
+  "ObservedIdleCutoffSeconds": 30.792,
+  "IdleTimeoutStillEnforced": true,
+  "CredentialsSent": false
+}

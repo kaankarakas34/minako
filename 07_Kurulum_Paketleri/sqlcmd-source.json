@@ -1,0 +1,6 @@
+{
+  "name": "sqlcmd-amd64.msi",
+  "digest": "sha256:50c441f39c7087679bc23a957fd1ae1c67a0b47dfe7b93ef611921f41fd5697c",
+  "browser_download_url": "https://github.com/microsoft/go-sqlcmd/releases/download/v1.10.0/sqlcmd-amd64.msi",
+  "size": 7860224
+}

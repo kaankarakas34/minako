@@ -1,0 +1,402 @@
+[
+  {
+    "ZoneID": 1,
+    "strZoneName": "Luferson Castle",
+    "Rows": 492,
+    "SpawnCount": 1325,
+    "MinRespawnSeconds": 15,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 2,
+    "strZoneName": "El Morad Castle",
+    "Rows": 470,
+    "SpawnCount": 1256,
+    "MinRespawnSeconds": 15,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 5,
+    "strZoneName": null,
+    "Rows": 493,
+    "SpawnCount": 1327,
+    "MinRespawnSeconds": 15,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 6,
+    "strZoneName": null,
+    "Rows": 493,
+    "SpawnCount": 1327,
+    "MinRespawnSeconds": 15,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 7,
+    "strZoneName": null,
+    "Rows": 483,
+    "SpawnCount": 1288,
+    "MinRespawnSeconds": 15,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 8,
+    "strZoneName": null,
+    "Rows": 483,
+    "SpawnCount": 1288,
+    "MinRespawnSeconds": 15,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 11,
+    "strZoneName": "Karus Eslant",
+    "Rows": 307,
+    "SpawnCount": 492,
+    "MinRespawnSeconds": 25,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 12,
+    "strZoneName": "Elmorad Eslant",
+    "Rows": 307,
+    "SpawnCount": 493,
+    "MinRespawnSeconds": 25,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 13,
+    "strZoneName": null,
+    "Rows": 307,
+    "SpawnCount": 492,
+    "MinRespawnSeconds": 25,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 14,
+    "strZoneName": null,
+    "Rows": 307,
+    "SpawnCount": 492,
+    "MinRespawnSeconds": 25,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 15,
+    "strZoneName": null,
+    "Rows": 307,
+    "SpawnCount": 493,
+    "MinRespawnSeconds": 25,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 16,
+    "strZoneName": null,
+    "Rows": 307,
+    "SpawnCount": 493,
+    "MinRespawnSeconds": 25,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 21,
+    "strZoneName": "Moradon",
+    "Rows": 373,
+    "SpawnCount": 677,
+    "MinRespawnSeconds": 10,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 22,
+    "strZoneName": null,
+    "Rows": 399,
+    "SpawnCount": 703,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 23,
+    "strZoneName": null,
+    "Rows": 396,
+    "SpawnCount": 700,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 24,
+    "strZoneName": null,
+    "Rows": 396,
+    "SpawnCount": 700,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 25,
+    "strZoneName": null,
+    "Rows": 396,
+    "SpawnCount": 700,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 30,
+    "strZoneName": "Delos",
+    "Rows": 21,
+    "SpawnCount": 21,
+    "MinRespawnSeconds": 60,
+    "MaxRespawnSeconds": 1800
+  },
+  {
+    "ZoneID": 31,
+    "strZoneName": "Bifrost",
+    "Rows": 103,
+    "SpawnCount": 103,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 3200
+  },
+  {
+    "ZoneID": 32,
+    "strZoneName": "Desperation Abyss",
+    "Rows": 116,
+    "SpawnCount": 410,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 40
+  },
+  {
+    "ZoneID": 33,
+    "strZoneName": "Hell Abyss",
+    "Rows": 72,
+    "SpawnCount": 213,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 32000
+  },
+  {
+    "ZoneID": 34,
+    "strZoneName": "Felankor Lair",
+    "Rows": 2,
+    "SpawnCount": 2,
+    "MinRespawnSeconds": 60,
+    "MaxRespawnSeconds": 6000
+  },
+  {
+    "ZoneID": 35,
+    "strZoneName": "Delos Basement",
+    "Rows": 76,
+    "SpawnCount": 76,
+    "MinRespawnSeconds": 60,
+    "MaxRespawnSeconds": 14400
+  },
+  {
+    "ZoneID": 48,
+    "strZoneName": "Battle Arena",
+    "Rows": 3,
+    "SpawnCount": 3,
+    "MinRespawnSeconds": 60,
+    "MaxRespawnSeconds": 3600
+  },
+  {
+    "ZoneID": 51,
+    "strZoneName": "Orc Prisoner Quest",
+    "Rows": 10,
+    "SpawnCount": 34,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 60
+  },
+  {
+    "ZoneID": 52,
+    "strZoneName": "Blood Don Quest",
+    "Rows": 11,
+    "SpawnCount": 27,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 60
+  },
+  {
+    "ZoneID": 53,
+    "strZoneName": "Goblin Quest",
+    "Rows": 2,
+    "SpawnCount": 31,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 60
+  },
+  {
+    "ZoneID": 54,
+    "strZoneName": "Cape Quest",
+    "Rows": 2,
+    "SpawnCount": 2,
+    "MinRespawnSeconds": 300,
+    "MaxRespawnSeconds": 3600
+  },
+  {
+    "ZoneID": 55,
+    "strZoneName": "Forgotten Temple",
+    "Rows": 2,
+    "SpawnCount": 2,
+    "MinRespawnSeconds": 60,
+    "MaxRespawnSeconds": 60
+  },
+  {
+    "ZoneID": 61,
+    "strZoneName": "Napies Gorge",
+    "Rows": 169,
+    "SpawnCount": 169,
+    "MinRespawnSeconds": 210,
+    "MaxRespawnSeconds": 7200
+  },
+  {
+    "ZoneID": 62,
+    "strZoneName": "Alseids Prairie",
+    "Rows": 102,
+    "SpawnCount": 188,
+    "MinRespawnSeconds": 190,
+    "MaxRespawnSeconds": 7200
+  },
+  {
+    "ZoneID": 63,
+    "strZoneName": "Nieds Triangle",
+    "Rows": 125,
+    "SpawnCount": 238,
+    "MinRespawnSeconds": 90,
+    "MaxRespawnSeconds": 1800
+  },
+  {
+    "ZoneID": 64,
+    "strZoneName": "Nereids Island",
+    "Rows": 25,
+    "SpawnCount": 25,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 7200
+  },
+  {
+    "ZoneID": 66,
+    "strZoneName": "Oreads",
+    "Rows": 296,
+    "SpawnCount": 296,
+    "MinRespawnSeconds": 60,
+    "MaxRespawnSeconds": 7200
+  },
+  {
+    "ZoneID": 69,
+    "strZoneName": "Snow War",
+    "Rows": 2,
+    "SpawnCount": 2,
+    "MinRespawnSeconds": 1800,
+    "MaxRespawnSeconds": 1800
+  },
+  {
+    "ZoneID": 71,
+    "strZoneName": "Ronark Land",
+    "Rows": 581,
+    "SpawnCount": 717,
+    "MinRespawnSeconds": 20,
+    "MaxRespawnSeconds": 14400
+  },
+  {
+    "ZoneID": 72,
+    "strZoneName": "Ardream",
+    "Rows": 172,
+    "SpawnCount": 448,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 73,
+    "strZoneName": "Ronark Land Base",
+    "Rows": 165,
+    "SpawnCount": 201,
+    "MinRespawnSeconds": 10,
+    "MaxRespawnSeconds": 32400
+  },
+  {
+    "ZoneID": 75,
+    "strZoneName": "Krowaz Domion",
+    "Rows": 352,
+    "SpawnCount": 352,
+    "MinRespawnSeconds": 15,
+    "MaxRespawnSeconds": 28800
+  },
+  {
+    "ZoneID": 76,
+    "strZoneName": "Knight Royale",
+    "Rows": 96,
+    "SpawnCount": 96,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 30
+  },
+  {
+    "ZoneID": 84,
+    "strZoneName": "Border Defance War",
+    "Rows": 420,
+    "SpawnCount": 420,
+    "MinRespawnSeconds": 3600,
+    "MaxRespawnSeconds": 3600
+  },
+  {
+    "ZoneID": 85,
+    "strZoneName": "Chaos Dengueon",
+    "Rows": 1020,
+    "SpawnCount": 1020,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 90
+  },
+  {
+    "ZoneID": 87,
+    "strZoneName": "Juraid Mountain",
+    "Rows": 2100,
+    "SpawnCount": 2100,
+    "MinRespawnSeconds": 3600,
+    "MaxRespawnSeconds": 3600
+  },
+  {
+    "ZoneID": 92,
+    "strZoneName": "Prison",
+    "Rows": 13,
+    "SpawnCount": 61,
+    "MinRespawnSeconds": 30,
+    "MaxRespawnSeconds": 3600
+  },
+  {
+    "ZoneID": 93,
+    "strZoneName": "Isillion Lair",
+    "Rows": 2,
+    "SpawnCount": 2,
+    "MinRespawnSeconds": 300,
+    "MaxRespawnSeconds": 500
+  },
+  {
+    "ZoneID": 94,
+    "strZoneName": "Felankor Lair",
+    "Rows": 2,
+    "SpawnCount": 2,
+    "MinRespawnSeconds": 300,
+    "MaxRespawnSeconds": 500
+  },
+  {
+    "ZoneID": 96,
+    "strZoneName": "Party War 1",
+    "Rows": 1,
+    "SpawnCount": 1,
+    "MinRespawnSeconds": 120,
+    "MaxRespawnSeconds": 120
+  },
+  {
+    "ZoneID": 97,
+    "strZoneName": "Party War 2",
+    "Rows": 1,
+    "SpawnCount": 1,
+    "MinRespawnSeconds": 120,
+    "MaxRespawnSeconds": 120
+  },
+  {
+    "ZoneID": 98,
+    "strZoneName": "Party War 3",
+    "Rows": 1,
+    "SpawnCount": 1,
+    "MinRespawnSeconds": 120,
+    "MaxRespawnSeconds": 120
+  },
+  {
+    "ZoneID": 99,
+    "strZoneName": "Party War 4",
+    "Rows": 1,
+    "SpawnCount": 1,
+    "MinRespawnSeconds": 120,
+    "MaxRespawnSeconds": 120
+  }
+]

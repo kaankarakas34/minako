@@ -1,0 +1,6 @@
+{
+  "Table": "item_special_sewing",
+  "Column": "nreqitemid4",
+  "Bits": 8,
+  "OutOfRange": 389
+}

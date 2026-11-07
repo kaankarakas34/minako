@@ -1,0 +1,37 @@
+[
+  {
+    "From": "TemuKO-main",
+    "To": "01_Kaynak_Kod\\TemuKO-main",
+    "CompletedUtc": "2026-11-04T17:56:49.9927122Z"
+  },
+  {
+    "From": "24xx Server Files\\24xx Server Files",
+    "To": "02_Sunucu\\24xx",
+    "CompletedUtc": "2026-11-04T17:56:50.0119764Z"
+  },
+  {
+    "From": "24xx Database\\24xx Database",
+    "To": "03_Veritabanlari\\24xx",
+    "CompletedUtc": "2026-11-04T17:56:50.0462543Z"
+  },
+  {
+    "From": "Gamesoft_v24xx",
+    "To": "04_Istemci\\Gamesoft_v24xx",
+    "CompletedUtc": "2026-11-04T17:56:50.0819994Z"
+  },
+  {
+    "From": "v24 Patch\\v24 Patch\\v2 Patch",
+    "To": "05_Yamalar\\v24_Patch",
+    "CompletedUtc": "2026-11-04T17:56:50.1042553Z"
+  },
+  {
+    "From": "kurulum-arastirmasi",
+    "To": "06_Dokumantasyon\\Onceki_Arastirma",
+    "CompletedUtc": "2026-11-04T17:56:50.1262429Z"
+  },
+  {
+    "From": "Lütfen Okuyun.txt",
+    "To": "06_Dokumantasyon\\Orijinal_Notlar\\Lütfen Okuyun.txt",
+    "CompletedUtc": "2026-11-04T17:56:50.1461060Z"
+  }
+]

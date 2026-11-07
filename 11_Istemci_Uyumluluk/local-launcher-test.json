@@ -1,0 +1,12 @@
+{
+  "StartedUtc": "2026-11-04T21:14:59.608262+00:00",
+  "ParentPid": 11568,
+  "ClientPid": 2360,
+  "ArgumentMode": "live parent process ID",
+  "WorkingDirectory": "C:\\Users\\murat\\KnightOnlineLab\\ClientGamesoft",
+  "ClientBinaryPatched": false,
+  "GraphicalLoginVerified": false,
+  "Published": false,
+  "ExitCode": 3221226505,
+  "StoppedAfterTimeout": false
+}

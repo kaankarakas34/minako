@@ -1,0 +1,7 @@
+{
+  "Endpoint": "127.0.0.1:15001",
+  "Test": "Version frame footer delivered separately",
+  "ClosedBeforeFooter": true,
+  "Passed": false,
+  "CredentialsSent": false
+}

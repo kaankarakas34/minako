@@ -1,0 +1,47 @@
+﻿{
+    "Stage":  "Failed",
+    "Message":  "Installer failed: C:\\Users\\murat\\AppData\\Local\\KnightOnlineLab\\Sql2022Media\\setup.exe; exit=-2068054013",
+    "NeedsReboot":  false,
+    "History":  [
+                    {
+                        "Stage":  "Started",
+                        "Message":  "Microsoft-signed prerequisites; local-only SQL instance; no game executables are started.",
+                        "Utc":  "2026-11-04T18:15:43.8286303Z"
+                    },
+                    {
+                        "Stage":  "OdbcAlreadyInstalled",
+                        "Message":  "Both x86 and x64 ODBC Driver 18 are present.",
+                        "Utc":  "2026-11-04T18:15:44.7112523Z"
+                    },
+                    {
+                        "Stage":  "WaitingForInstaller",
+                        "Message":  "sqlcmd-amd64.msi",
+                        "Utc":  "2026-11-04T18:15:44.7378610Z"
+                    },
+                    {
+                        "Stage":  "InstallingSqlcmd",
+                        "Message":  "Microsoft sqlcmd command-line management tool.",
+                        "Utc":  "2026-11-04T18:15:54.9208907Z"
+                    },
+                    {
+                        "Stage":  "WaitingForInstaller",
+                        "Message":  "SQLEXPR_x64_ENU.exe",
+                        "Utc":  "2026-11-04T18:15:57.0937684Z"
+                    },
+                    {
+                        "Stage":  "ExtractingSql",
+                        "Message":  "C:\\Users\\murat\\AppData\\Local\\KnightOnlineLab\\Sql2022Media",
+                        "Utc":  "2026-11-04T18:16:10.0944606Z"
+                    },
+                    {
+                        "Stage":  "InstallingSql",
+                        "Message":  "KNIGHTLOCAL; Windows authentication; TCP and named pipes disabled; max memory 2048 MB.",
+                        "Utc":  "2026-11-04T18:16:15.2946760Z"
+                    },
+                    {
+                        "Stage":  "Failed",
+                        "Message":  "Installer failed: C:\\Users\\murat\\AppData\\Local\\KnightOnlineLab\\Sql2022Media\\setup.exe; exit=-2068054013",
+                        "Utc":  "2026-11-04T18:22:55.3033892Z"
+                    }
+                ]
+}

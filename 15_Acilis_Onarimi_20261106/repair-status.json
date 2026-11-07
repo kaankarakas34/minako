@@ -1,0 +1,74 @@
+{
+  "DateLocal": "2026-11-06",
+  "UpdatedUtc": "2026-11-06T18:37:54.792415+00:00",
+  "GameClientRestored": true,
+  "GraphicalLoginVerified": false,
+  "BlockingIssue": {
+    "ClientExeMissing": false,
+    "DefenderDetection": "Behavior:Win32/DefenseEvasion.A!ml",
+    "QuarantineEventId": 1117,
+    "QuarantineTimeIstanbul": "2026-11-06T14:31:40+03:00",
+    "FalsePositiveConfirmed": false
+  },
+  "SecuritySettingsChanged": true,
+  "BlockedBinaryCopiedOrExecuted": true,
+  "AllLocalServicesReady": true,
+  "LauncherRebuilt": true,
+  "NativeGameServerRebuiltThisRepair": false,
+  "UserProgressReset": false,
+  "CurrentCharacter": {
+    "Name": "cabbar",
+    "Class": 111,
+    "Level": 23,
+    "Zone": 21
+  },
+  "ResourcePaths": [
+    {
+      "Nation": 1,
+      "Inventory": "ui\\re_Inventory.uif",
+      "Options": "ui\\co_seed_helper_us.uif",
+      "Target": "ui\\co_target_framebar.uif"
+    },
+    {
+      "Nation": 2,
+      "Inventory": "ui\\re_Inventory.uif",
+      "Options": "ui\\co_seed_helper_us.uif",
+      "Target": "ui\\co_target_framebar.uif"
+    }
+  ],
+  "UIParsing": {
+    "Inventory": true,
+    "Options": true,
+    "Target": true,
+    "InventoryLockPanelPresent": false,
+    "GraphicalBehaviorRetested": false
+  },
+  "Files": [
+    {
+      "Path": "11_Istemci_Uyumluluk/Yerel_Launcher/bin/Launcher.exe",
+      "SHA256": "60587819a44889417d7c0bf2b7e02040e521fd03cdb909df6d0dd9ebb58870fd"
+    },
+    {
+      "Path": "10_Kaynak_Derleme/Yerel_Calistirma/GameServer.exe",
+      "SHA256": "bf9e39356a8f86891a692c2882e26ed684322eb6e20fb928512691b56a2c0bfe"
+    },
+    {
+      "Path": "10_Kaynak_Derleme/Yerel_Calistirma/LogInServer.exe",
+      "SHA256": "a7c9e92e3d31ed87c8c5c0eea4f4c8dc08d4fe13663fd805c4f48e4c26c0b42c"
+    },
+    {
+      "Path": "11_Istemci_Uyumluluk/Gamesoft_Yerel/Data/UIs_us.tbl",
+      "SHA256": "ad10160afe13df5a2f0143b78b06f1c9541d48fd519e5154d83c7f098c35856f"
+    },
+    {
+      "Path": "11_Istemci_Uyumluluk/Gamesoft_Yerel/UI/re_inventory.uif",
+      "SHA256": "18568204286d6ad111cc0b7e21b6cc80e1b37aa4dde6c98dca055628e1bac996"
+    }
+  ],
+  "FileExclusionAddedOnExplicitUserRequest": "C:\\Users\\murat\\OneDrive\\Desktop\\mınako\\11_Istemci_Uyumluluk\\Gamesoft_Yerel\\KnightOnLine.exe",
+  "QuarantinedGameExeRestoredOnExplicitUserRequest": true,
+  "RestoredExeSHA256": "683BEFABAE1F217296BEFDA2A824B26BD2FFF77BFF67AA72A66C219C040F12FE",
+  "ClientLaunchedAfterExplicitUserRequest": true,
+  "GraphicalLoginFormObserved": true,
+  "ExecutionAuthorizedByUserAfterDetectionDisclosure": true
+}

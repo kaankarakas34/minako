@@ -1,0 +1,7 @@
+CREATE PROCEDURE [dbo].[LOAD_USER_SEAL_EXP]
+@strCharID char(21)
+AS
+
+BEGIN
+	SELECT sSealedExp FROM USER_SEAL_EXP WHERE strUserID = @strCharID
+END

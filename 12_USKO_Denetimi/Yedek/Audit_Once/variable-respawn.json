@@ -1,0 +1,209 @@
+[
+  {
+    "sindex": 8601,
+    "ssid": 8626,
+    "stype": 0,
+    "szoneid": 75,
+    "scount": 7,
+    "sradius": 10,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 8608,
+    "ssid": 8621,
+    "stype": 0,
+    "szoneid": 75,
+    "scount": 7,
+    "sradius": 10,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 8609,
+    "ssid": 8622,
+    "stype": 0,
+    "szoneid": 75,
+    "scount": 7,
+    "sradius": 10,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9253,
+    "ssid": 9254,
+    "stype": 0,
+    "szoneid": 35,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 9254,
+    "ssid": 9255,
+    "stype": 0,
+    "szoneid": 35,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 9255,
+    "ssid": 9256,
+    "stype": 0,
+    "szoneid": 35,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 9256,
+    "ssid": 9257,
+    "stype": 0,
+    "szoneid": 35,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 9271,
+    "ssid": 9276,
+    "stype": 0,
+    "szoneid": 21,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 10
+  },
+  {
+    "sindex": 9501,
+    "ssid": 9502,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9502,
+    "ssid": 9503,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9503,
+    "ssid": 9504,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9504,
+    "ssid": 9505,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9505,
+    "ssid": 9506,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9506,
+    "ssid": 9507,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9508,
+    "ssid": 9509,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9509,
+    "ssid": 9510,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9510,
+    "ssid": 9511,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9512,
+    "ssid": 9513,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9513,
+    "ssid": 9514,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9515,
+    "ssid": 9516,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9516,
+    "ssid": 9517,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9517,
+    "ssid": 9518,
+    "stype": 0,
+    "szoneid": 86,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 0
+  },
+  {
+    "sindex": 9668,
+    "ssid": 9671,
+    "stype": 0,
+    "szoneid": 0,
+    "scount": 1,
+    "sradius": 5,
+    "isdeadtime": 10
+  }
+]

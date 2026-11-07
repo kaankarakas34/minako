@@ -1,0 +1,12 @@
+{
+  "Account": "KnightLab1",
+  "Database": "KNIGHT_TEMU_2239",
+  "ValidLoginPassed": true,
+  "WrongPasswordRejected": true,
+  "UnknownAccountRejected": true,
+  "BlockedAccountRejected": true,
+  "AlreadyOnlineHandled": true,
+  "TemporaryChangesRolledBack": true,
+  "PasswordStoredLocally": true,
+  "ImportedPlayerAccounts": 0
+}

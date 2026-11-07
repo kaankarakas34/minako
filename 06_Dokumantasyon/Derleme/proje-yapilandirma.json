@@ -1,0 +1,26 @@
+{
+  "SDK": "10.0.19041.0",
+  "Toolset": "v142",
+  "Changes": [
+    {
+      "Project": "GameServer/proj-GameServer.vcxproj",
+      "BeforeSHA256": "adecfe5931b73e6a393d00748f195c8c8170b2496b330b7b8b6673ac2d7854de",
+      "AfterSHA256": "adecfe5931b73e6a393d00748f195c8c8170b2496b330b7b8b6673ac2d7854de"
+    },
+    {
+      "Project": "LogInServer/proj-LogInServer.vcxproj",
+      "BeforeSHA256": "3a1bab488797cb7fdb988f85b4622ff2ef68406986aec9aa2fffadec13065e4d",
+      "AfterSHA256": "3a1bab488797cb7fdb988f85b4622ff2ef68406986aec9aa2fffadec13065e4d"
+    },
+    {
+      "Project": "scripting/Lua.vcxproj",
+      "BeforeSHA256": "6c093afb21fb30482b7f112ffe50b3a10232642e2fc8d0b0d99df4a0e0fcaeb0",
+      "AfterSHA256": "6c093afb21fb30482b7f112ffe50b3a10232642e2fc8d0b0d99df4a0e0fcaeb0"
+    },
+    {
+      "Project": "shared/shared.vcxproj",
+      "BeforeSHA256": "4315b2e02f51aaf798d86d1402ce92d1fa193df4cfa4a7e13c07dc1621b1bf4d",
+      "AfterSHA256": "139428843e9b132e7095783651ab370f22f0659f3c9f75a83cd0a0898f5bfb1c"
+    }
+  ]
+}

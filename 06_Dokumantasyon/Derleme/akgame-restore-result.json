@@ -1,0 +1,8 @@
+{
+  "Database": "KNIGHT_AKGAME_REF",
+  "TableCount": 333,
+  "ProcedureCount": 202,
+  "SHA256": "1961b62711f6a4e9c7e1cd8624e89be93dc15458fc973fd96c3aa98b3486ea58",
+  "OriginalDatabaseUnchanged": "KNIGHT_24XX_TEST",
+  "Purpose": "Reference only; not yet selected for the game runtime."
+}

@@ -1,0 +1,720 @@
+<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="EUC-KR">
+	<link rel="shortcut icon" href="https://www.mgame.com/favicon.ico" type="image/x-icon">
+	<script src="https://m-static.mgame.com/js/mzzang.v6.js"></script>
+	<script src="https://m-static.mgame.com/common_js/common_func.js?ver=1793893623"></script>
+    <script src="https://knight.mgame.com/js/swiper-bundle.min.js?ver=116"></script>
+    <script src="https://knight.mgame.com/js/gnb.js?ver=116"></script>
+    <link rel="stylesheet" href="https://knight.mgame.com/js/swiper-bundle.min.css?ver=45">
+    <link rel="stylesheet" href="https://m-static.mgame.com/common_css/knight_v3/common.css?ver=45">
+    <link rel="stylesheet" href="https://m-static.mgame.com/common_css/knight_v3/main.css?ver=45">
+	
+    <script src="https://m-static.mgame.com/common_gamejs/knight_new_mainLayerPop.js?ver=1793893623"></script>
+	<script src="https://m-static.mgame.com/common_gamejs/knight_new_mainhotissue_mgame.js?ver=1793893623"></script>
+	<script src="https://m-static.mgame.com/common_gamejs/knight_new_mainContents_mgame.js?ver=1793893623"></script>
+	<script src="https://m-static.mgame.com/common_gamejs/knight_new_mainPowerup.js?ver=1793893623"></script>
+	<script src="https://m-static.mgame.com/common_gamejs/knight_new_notice.js?ver=1793893623"></script>
+
+    <script src="https://knight.mgame.com/js/common.js?ver=116"></script>
+    <script src="https://knight.mgame.com/js/main.js?ver=116"></script>
+	<script src="https://knight.mgame.com/js/layerpopup.js?ver=116"></script>
+    <script src="https://m-static.mgame.com/common_js/login.js?ver=1793893623"></script>
+	
+	<script>
+
+function launch_game(goUrl) {
+
+	if("~swing" == "swing"){
+		alert('스윙 브라우저 (Swing Browser)를 사용하실 경우 게임접속이 불가능할 수 있습니다.\n\n엣지(EDGE) 및 크롬(CROME) 브라우져를 이용하여 접속하시길 바랍니다.');
+		return;
+	}
+
+	/*
+	| -------------------------------------------------------------------
+	| launch_game 게임실행 함수
+	| -------------------------------------------------------------------
+	| _SITE_			: CHANNEL(채널링), MGAME(엠게임)
+	| _LOGINSTATUS_	: 1(로그인), 0(비로그인)
+	| _IESTATUS		: IE(익스), ~IE(크롬,엣지)
+	| _GSTART			: 런쳐 도메인
+	*/
+
+	var _SITE_		=	"";
+	var _LOGINSTATUS_	=	"0";
+	var _IESTATUS		=	"~IE";
+	var _GSTART		=	"https://gstart.mgame.com";
+
+	if (goUrl == "20070117_sinbaduk")
+	{
+		goUrl = "baduk";
+	}
+
+	if(_LOGINSTATUS_ == "1") {
+		if(goUrl == 'aresnew' || goUrl == 'hero' || goUrl == 'herotest' || goUrl == 'lapis' || goUrl == 'knight' || goUrl == 'knighttest' || goUrl == 'el' || goUrl == 'ghost' || goUrl == 'ghosttest' || goUrl == 'droiyan' || goUrl == 'yulgang' || goUrl == 'yulgangtest' || goUrl == 'newomok' || goUrl == 'baduk' || goUrl == 'holic2' || goUrl == 'yulgang2'){
+			if(goUrl == "el") {
+				var str = "/eternalUser/eternalUser_CheckNew.mgame";
+			}else{
+				var str = "/__Launcher/launch_" + goUrl + ".mgame?goUrl=" + goUrl;
+			}
+		}else{
+			if(_SITE_ == "CHANNEL") {
+				var str = "/common_lib/cp_launch/launch_" + goUrl + ".mgame?goUrl=" + goUrl;
+			} else {
+				var str = _GSTART + "/launch/launch_" + goUrl + ".mgame?goUrl=" + goUrl;
+			}
+		}
+	
+		setTimeout("showLayer()",3000);
+	
+		launch.location.replace(str);
+		return;
+
+	}else{
+
+		alert("로그인 후 이용하여 주세요.");
+		return;
+
+	}
+}
+
+function launchGostop(gLauncher,gGourl,gSubChannel_var){
+	/* 해상도 지원 안내 S*/
+	var winWidth = window.screen.width;
+	var winHeight = window.screen.height;
+	if( gLauncher=="ctgo2"||gLauncher=="themematgo" ){
+		if(winWidth<="1024"&&winHeight<="600"){
+			common_modal_ale("회원님.<br>컬투맞고는 해상도(1024X768)에서<br>최적화로 이용하실 수 있습니다.<br>현재 회원님의 PC 해상도가 낮아<br>정상적으로 실행되지 않을 수 있으니,<br>해상도 변경 후 다시 이용해주세요.<br>감사합니다.");
+			Mgame_CommonLayerOpen_trans('/etc/notice_view.mgame?menu=gostop&idx=1495', 580, 630, true);
+			return;
+		}
+	}else{
+		if(winWidth<"800"&&winHeight<"600"){
+			common_modal_ale("회원님.<br>해상도(800X600)에서 게임을<br>최적화로 이용하실 수 있습니다.<br>현재 회원님의 PC 해상도가 낮아<br>정상적으로 실행되지 않을 수 있으니,<br>해상도 변경 후 다시 이용해주세요.<br>감사합니다.");
+			Mgame_CommonLayerOpen_trans('/etc/notice_view.mgame?menu=gostop&idx=1495', 580, 630, true);
+			return;
+		}
+	}
+
+	/* 해상도 지원 안내 n*/
+	var webServer = location.host;
+	if(webServer=="gostop.gamemania.co.kr"){
+		companyID= "6";
+	}else{
+		companyID= "0";
+	}
+
+	if(gGourl == 'ctgo2' || gGourl == 'godori2' || gGourl == 'godori3' || gGourl == 'themematgo' || gGourl == 'newsutda'){
+		var param = getCsrkeyLaunch('/__Libraries/xG4k39cnaq03or83md921l3qb.mgame', "goUrl="+gGourl+"&subchannel="+gSubChannel_var+"&ogame="+gameName+"&companyID="+companyID);
+		if(!param) return;
+	}else{
+		alert('오류가 발생하였습니다. 고객센터로 문의주세요. 오류코드 : lnchE1')
+	}
+
+	var str = "/__Launcher/launch_" + gLauncher + ".mgame?" + param;
+	launch.location.replace(str);
+
+	setTimeout("showLayer()",3000);
+	
+}
+
+function launchGamePoker(gLauncher,gGourl,gSubChannel_var,game_flag){ // 포커류 게임실행
+
+	var webServer = location.host;
+	
+	companyID		= "0";
+	
+
+	var param = getCsrkeyLaunch('/__Libraries/xG4k39cnaq03or83md921l3qb.mgame', "goUrl="+gGourl+"&subchannel="+gSubChannel_var+"&ogame="+gGourl+"&companyID="+companyID+"&game_flag="+game_flag);
+	if(!param) return;
+
+	var str = "/__Launcher/launch_" + gLauncher + ".mgame?" + param;
+	launch.location.replace(str);
+
+	setTimeout("showLayer()",3000);
+}
+
+function launchGameHulla(gLauncher,gGourl,gSubChannel_var,level){ // 훌라 게임실행
+
+	var param = getCsrkeyLaunch('/__Libraries/xG4k39cnaq03or83md921l3qb.mgame', "goUrl="+gGourl+"&subchannel="+gSubChannel_var+"&ogame="+gGourl+"&level="+level);
+	if(!param) return;
+
+	var str = "/__Launcher/launch_" + gLauncher + ".mgame?" + param;
+	launch.location.replace(str);
+
+}
+function launchGameHoldem(gGourl,gSubChannel_var,level){ // 홀덤 테스트 게임실행
+
+	var param = getCsrkeyLaunch('/__Libraries/xG4k39cnaq03or83md921l3qb.mgame', "goUrl="+gGourl+"&subchannel="+gSubChannel_var+"&level="+level+"&ogame=holdem");
+	if(!param) return;
+
+	
+	var str = "/__Launcher/launch_newpoker.mgame?" + param;
+	launch.location.replace(str);
+
+}
+
+function GameRun_sachun(game, charge) {  // 사천성 게임실행
+
+	var param = getCsrkeyLaunch('/__Libraries/xG4k39cnaq03or83md921l3qb.mgame', "goUrl=" + game + "&charge="+charge);
+	if(!param) return;
+
+	var str = "/__Launcher/launch_" + game + ".mgame?" + param;
+	launch.location.replace(str);
+
+	setTimeout("showLayer()",3000);
+
+	return;
+}
+function getCsrkeyLaunch(actionfile, param){
+
+	var chkUrl = actionfile;
+
+	$.ajax({
+		type:"POST",
+		url:chkUrl,
+		data: param.replace(/%/g, '%25'),
+		dataType:"JSON",
+		async:false,
+		success : function(data) {
+
+			if(data.csrfenckey < 0){
+				alert("error Code : "+data.csrfenckey);
+				val = false;
+			}else{
+				param += '&csrfenckey=' + data.csrfenckey;
+				val = param;
+			}
+
+		},
+		error : function(request,status,error){
+
+			alert("code:"+request.status+"\n"+"message:"+request.responseText+"\n"+"error:"+error);
+			val = false;
+
+		}
+	 });
+
+	 return val;
+}
+
+function GameRun(game,ininame,nid,goUrl) { //보드류 게임실행
+
+	var param = getCsrkeyLaunch('/__Libraries/xG4k39cnaq03or83md921l3qb.mgame', "ini=http://download.mgame.com/execute/" + ininame + ".ini&nid=" + nid + "&goUrl=" + goUrl);
+	if(!param) return;
+
+	var str = "/__Launcher/launch_" + game + ".mgame?" + param;
+	
+	launch.location.replace(str);
+
+	setTimeout("showLayer()",3000);
+
+	return;
+
+}
+
+function showLayer(){
+	 $("#lpop1").show();
+	 $("#lpop2").hide();
+	 $("#popup_box").css("position", "fixed");
+	 $("#popup_box").css("top", Math.max(0, (($(window).height() - $("#popup_box").outerHeight()) / 2) + $(window).scrollTop() ) + "px");
+	 $("#popup_box").css("left", Math.max(0, (($(window).width() - $("#popup_box").outerWidth()) / 2) + $(window).scrollLeft()) + "px");
+	 $("#popup_layer").show();
+	 $("#popup_box").show();
+
+	 try{
+		setTimeout("hideLayer()",15000);
+	 }catch(e){}
+	 
+}
+function hideLayer(){
+	 $("#lpop1").show();
+	 $("#lpop2").hide();
+	 $("#popup_layer").hide();
+	 $("#popup_box").hide();
+}
+function launcherDown(file_url){
+	top.location.replace('https://mgameweb.gscdn.com/firefox/'+file_url);
+	$("#lpop1").hide();
+	$("#lpop2").show();
+}
+</script>
+
+<!--- 크롬 브라우져 안내 팝업 -->
+
+
+	<style>
+	  .popup_layer {position:fixed; width:100%; height:100%; background:rgba(0,0,0,0.2); z-index:10001;}
+
+				.popup_box{position:relative; width:510px; height:320px; background:url(https://mgameimage.gscdn.com/mgamezzang/contents/portal_v4/popup/chrome_v4/bg_popup.png) no-repeat center 0;z-index:10002;}
+				.popup_box{
+					-webkit-border-radius:20px; box-shadow:10px 10px 20px rgba(0,0,0,.11);
+					-moz-border-radius:20px; box-shadow:10px 10px 20px rgba(0,0,0,.11);
+					-ms-border-radius:20px; box-shadow:10px 10px 20px rgba(0,0,0,.11);
+					-o-border-radius:20px; box-shadow:10px 10px 20px rgba(0,0,0,.11);
+					border-radius:20px; box-shadow:10px 10px 20px rgba(0,0,0,.11);
+				}
+
+	  .cont{position:absolute; top:0px; left:0px;z-index:10;}
+	  .close a{position:absolute;top:11px; right:10px; z-index:20;}
+	  .circle {position:absolute; top:70px; left:228px;}
+	  .circle {
+		 -webkit-animation: rotCircle1 3s linear infinite; transform-origin: 50% 50%;
+		 -moz-animation: rotCircle1 3s linear infinite; transform-origin: 50% 50%;
+		 -ms-animation: rotCircle1 3s linear infinite; transform-origin: 50% 50%;
+		 -o-animation: rotCircle1 3s linear infinite; transform-origin: 50% 50%;
+		 animation: rotCircle1 3s linear infinite; transform-origin: 50% 50%;
+	  }
+	  @-webkit-keyframes rotCircle1 {100% {transform: rotate(360deg);}}
+	  @-moz-keyframes rotCircle1 {100% {transform: rotate(360deg);}}
+	  @-ms-keyframes rotCircle1 {100% {transform: rotate(360deg);}}
+	  @-o-keyframes rotCircle1 {100% {transform: rotate(360deg);}}
+	  @keyframes rotCircle1 {100% {transform: rotate(360deg);}}
+	</style>
+
+	<div id="popup_layer" class="popup_layer"  style="display:none"></div>
+
+	<div id="popup_box" class="popup_box" style="display:none">
+	 <div class="cont" id="lpop1" style="display:_none">
+		<p><img src="https://mgameimage.gscdn.com/mgamezzang/contents/portal_v4/popup/chrome_v4/cont_1.png" alt="엠게임 런처를 실행중입니다. 게임 실행이 되지 않을 경우 엠게임 런처를 설치해주세요." usemap="#setup"></p>
+		<map name="setup"><area shape="rect" coords="249,268,357,287" href="javascript:launcherDown('MStartProSetup.exe')" alt="엠게임 런처를 설치"></map>
+		<p class="circle"><img src="https://mgameimage.gscdn.com/mgamezzang/contents/portal_v4/popup/chrome_v4/circle.gif" alt=""></p>
+	 </div>
+	 <div class="cont" id="lpop2" style="display:none">
+		<p><img src="https://mgameimage.gscdn.com/mgamezzang/contents/portal_v4/popup/chrome_v4/cont_2.png" alt="엠게임 런처(MStartProSetup.exe) 설치
+		▶ 다운로드한 MStartProSetup.exe를 실행하여 주세요. 
+		▶ 설치한 이후 해당 팝업을 닫고 게임시작을 눌러주세요."></p>
+	 </div>
+	 <div class="close"><a href="#" onclick="hideLayer('popup_box');return false"><img src="https://mgameimage.gscdn.com/mgamezzang/contents/portal_v4/popup/chrome_v4/btn_close.gif" alt="닫기"></a></div>
+	</div>
+
+<iframe id="launch" name="launch" width="0" height="0" style="display:none; width:0; height:0;"></iframe> 
+<script type="text/javascript">
+
+ 	function gameStart(mode) { 
+					if(mode === 'test'){ mgameStart('knighttest'); }
+			else{ mgameStart('knight'); } 
+			}
+</script></head>
+<body>
+<div class="wrap">
+	<header class="header">
+	<script type="text/javascript" src="https://m-static.mgame.com/GNB/top_online.js?ver=1793893623"></script><div class="navi">
+	<div class="gnb">
+        <div class="gnb_left on">
+			<h1><a href="https://knight.mgame.com/?view=ok"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/logo.png" alt="나이트 로고"></a></h1>
+			<ul class="nav_box">
+				<li><a href="/news/notice/">새소식</a>
+					<ul>
+						<li><a href="/news/notice/">공지사항</a></li>
+						<li><a href="/news/update/">업데이트</a></li>
+						<li><a href="/news/schedule/">일정표</a></li>
+					</ul>
+				</li>
+				<li><a href="/info/game/intro.mgame">게임정보</a>
+					<ul>
+						<li><a href="/info/game/intro.mgame">게임특징</a></li>
+						<li><a href="/info/game/story.mgame">배경스토리</a></li>
+						<li><a href="/info/game/character.mgame">캐릭터</a></li>
+						<li><a href="/info/paper/">게임백서</a></li>
+						<li><a href="/info/guide/">가이드북</a></li>
+						<li><a href="/info/probability/">확률안내</a></li>
+					</ul>
+				</li>
+				<li><a href="/war/intro/">전쟁</a>
+					<ul>
+						<li><a href="/war/intro/">전쟁소개</a></li>
+						<li><a href="/war/war_area.mgame">전쟁지역</a></li>
+						<li><a href="/war/warfare.mgame">공성전</a></li>
+					</ul>
+				</li>
+				<li><a href="/honor/character/">명예의전당</a>
+					<ul>
+						<li><a href="/honor/character/">캐릭터 랭킹</a></li>
+						<li><a href="/honor/clan/">클랜 랭킹</a></li>
+					</ul>
+				</li>
+				<li><a href="/shop/info.mgame">파워업상점</a>
+					<ul>
+						<li><a href="/shop/info.mgame">이용안내</a></li>
+						<li><a href="/shop/default.mgame">아이템소개</a></li>
+						<li><a href="/shop/policy.mgame">이용약관</a></li>
+					</ul>
+				</li>
+				<li><a href="/community/freeboard/">커뮤니티</a>
+					<ul>
+						<li><a href="/community/freeboard/">자유게시판</a></li>
+						<li><a href="/community/uccboard/">UCC게시판</a></li>
+						<li><a href="/community/tipboard/">팁게시판</a></li>
+						<li><a href="/community/pollboard/">설문/토론</a></li>
+					</ul>
+				</li>
+				<li><a href="/data/wallpaper.mgame">자료실</a>
+					<ul>
+						<li><a href="/data/wallpaper.mgame">월페이퍼</a></li>
+						<li><a href="/data/art.mgame">컨셉아트</a></li>
+						<li><a href="javascript: mgamedownload();">게임다운로드</a></li>
+					</ul>
+				</li>
+				<li><a href="/operate/policy.mgame">운영센터</a>
+					<ul>
+						<li><a href="https://csweb.mgame.com" target="_blank">웹상담센터</a></li>
+												<li><a href="javascript:gomyaccountchk()" >계정상태조회</a></li>
+												<li><a href="/operate/policy.mgame">운영정책</a></li>
+						<li><a href="/operate/pwd_reset.mgame" style="letter-spacing: -0.5px;">게임내비밀번호<br>초기화</a></li>
+					</ul>
+				</li>
+				<div class="menu_line"></div>
+                        <div class="gnb_ch"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/gnb_cha.png" alt=""></div>
+                    </ul>
+                </div>
+                <div class="start_box" style="display: none;">
+                    <div class="download"><a href="javascript: mgamedownload();"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/download_off.jpg" alt=""></a></div>
+                    <div class="game_start"><a href="javascript:gameStart();"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/btn_void.png" alt=""></a></div>
+                </div>
+            </div>
+            <div class="long_line"></div>
+</div>	</header>
+    <div class="content">
+        <div class="visual">
+            <div class="view swiper">
+                <ul class="swiper-wrapper mainwrap"></ul>
+                <div class="tabs">
+                    <div class="page">
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="bigbtn">
+                        <div class="swiper-button-prev"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/cont_prev1.png" alt="이전"></div>
+                        <div class="swiper-button-next"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/cont_next1.png" alt="다음"></div>
+                    </div>
+                </div>
+            </div>       
+        </div> 
+        <!-- 게임스타트, 로그인, 알아보기, 파헤치기 -->
+        <div class="center_box">
+            <div class="game_start">
+                <a href="javascript:gameStart();" alt="game start"></a>
+                <div class="start_knight"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/gamestart_knight.png" alt="기사"></div>
+                <div>
+                    <a href="javascript: mgamedownload();">게임 다운로드</a>
+                    <a href="javascript: gameStart();">테스트서버</a>
+                </div>
+            </div>
+
+            <div class="log_box">
+				<link rel="stylesheet" href="https://m-static.mgame.com/common_css/knight_v3/login_mgame.css?ver=45">
+
+<div class="before_log">
+	<div>로그인 후 게임을 이용해주세요.</div>
+	<div><a href="javascript:loginForm('https://knight.mgame.com')">로그인</a></div>
+	<div>
+		<a href="javascript:findId();">아이디찾기</a>
+		<a href="javascript:findPass();">비밀번호찾기</a>
+		<a href="javascript:joinMember();">회원가입</a>
+	</div>
+</div>
+
+            </div>
+            <div class="find_out">
+                <a href="/war/intro/">
+                    <div class="top">
+                        <div>루나전쟁 규칙 알아보기 <br>생존을 위한 끝없는 전투!</div>
+                        <div><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/findout_top_chr.png" alt=""></div>
+                    </div>
+                </a>
+                <a href="/info/guide/">
+                    <div class="bottom">
+                        <div><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/findout_bottom_chr.png" alt=""></div>
+                        <div>나이트 온라인 파헤치기 <br>나이트 온라인의 모든 것!</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- 새소식, 일정표, 배너 -->
+        <div class="info news_sched">
+            <div class="info_box">
+                <div class="top">
+                    <div><h2>새소식</h2><a href="/news/notice/" class="more_btn">+</a></div>
+                </div>
+                <div class="bottom">
+                    <div class="news" id="news_list">
+					<script>dp_mainnotice('mgame')</script>
+                    </div>
+                </div>                
+            </div>
+            <div class="info_box">
+                <div class="top">
+                    <div><h2>일정표</h2><a href="/news/schedule/" class="more_btn">+</a></div>
+                </div>
+                <div class="bottom">
+					<div class="bottom">
+	<div class="news">
+					<div class="news_cont ">
+				<div class="round_btn">수</div>
+				<div class="fsize16">12:00 잊혀진 신전</div>
+				<div></div>
+			</div>
+						<div class="news_cont ">
+				<div class="round_btn">목</div>
+				<div class="fsize16">19:00 국경수비전투</div>
+				<div></div>
+			</div>
+						<div class="news_cont on">
+				<div class="round_btn">금</div>
+				<div class="fsize16">01:00 국경수비전투</div>
+				<div></div>
+			</div>
+						<div class="news_cont ">
+				<div class="round_btn">토</div>
+				<div class="fsize16">11:00 카오스 던전</div>
+				<div></div>
+			</div>
+						<div class="news_cont ">
+				<div class="round_btn">일</div>
+				<div class="fsize16">23:30 봉인된 라테이노의 던전</div>
+				<div></div>
+			</div>
+						<div class="news_cont ">
+				<div class="round_btn">월</div>
+				<div class="fsize16">00:00 잊혀진 신전</div>
+				<div></div>
+			</div>
+						<div class="news_cont ">
+				<div class="round_btn">화</div>
+				<div class="fsize16">10:00 국경수비전투</div>
+				<div></div>
+			</div>
+				</div>
+	<div class="sched_btn">
+		<div>
+			<div><a href="javascript:rollNews('up')"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/sched_up_off.gif" onmouseover="this.src='https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/sched_up_on.gif';" onmouseout="this.src='https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/sched_up_off.gif';" onclick="" alt=""></a></div>
+			<div><a href="javascript:rollNews('down')"><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/sched_down_off.gif" onmouseover="this.src='https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/sched_down_on.gif';" onmouseout="this.src='https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/sched_down_off.gif';" onclick="" alt=""></a></div>
+		</div>
+	</div>   
+</div>
+                </div>             
+            </div>
+            <div class="info_box">
+                <div class="swiper-container new_event">
+                    <div class="swiper-wrapper">
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+        <!-- 전쟁 실황 -->
+        <div class="info war_live">                
+            <div class="info_box">
+                <div class="top">
+                    <div>
+                        <div><h2>전쟁 실황</h2><a href="/war/intro/" class="more_btn">+</a></div>
+                        <div>
+                            <a href="javascript:;" class="serverselect on" onclick="selectServer(this)" data-server="H" data-area="war">히페리온</a>
+                            <a href="javascript:;" class="serverselect" onclick="selectServer(this)" data-server="T" data-area="war">테티스</a>
+                            <a href="javascript:;" class="serverselect" onclick="selectServer(this)" data-server="C" data-area="war">크리오스</a>
+                        </div>
+                    </div>
+                    <div>루나 시간은 루나전쟁 30분, 적국침투 30분으로 진행되며 일부 맵에서 루나전쟁이 일찍 끝날 경우 남은 시간이 적국침투 시간으로 변경됩니다.</div>
+                </div>
+                <div class="bottom">
+					<div class="war_now">	
+					<script>dp_livewar('H')</script>
+					</div>
+                    <div class="war_info">
+                        <div>
+                            <div>전쟁 종류</div>
+                            <div>전쟁 요일</div>
+                            <div>참여 레벨</div>
+                            <div>전쟁 시간</div>
+                        </div>
+                        <div>
+                            <div>루나전쟁</div>
+                            <div>매주 월요일 / 목요일</div>
+                            <div>35레벨 이상</div>
+                            <div>20:00 ~ 21:00</div>
+                        </div>
+                    </div>                   
+                </div>                
+            </div>
+        </div>
+        <!-- 명예의 전당 -->
+        <div class="info honor_hall">                
+            <div class="info_box">
+                <div class="top">
+                    <div>
+                        <div>
+                            <h2>명예의 전당</h2>
+                            <a href="/honor/character/" class="more_btn">+</a>
+                        </div>
+                        <div>
+                            <a href="javascript:;" class="serverselect on" onclick="selectServer(this)" data-server="H" data-area="honor">히페리온</a>
+                            <a href="javascript:;" class="serverselect" onclick="selectServer(this)" data-server="T" data-area="honor">테티스</a>
+                            <a href="javascript:;" class="serverselect" onclick="selectServer(this)" data-server="C" data-area="honor">크리오스</a>
+                        </div>
+                    </div>
+                    <div class="search_title_box3" onmousedown="this.classList.add('on')">
+                        <div class="opt">
+                            <div id="title3">-선택-</div>
+                        </div>
+                        <div class="opt_box">
+                            <div class="opt over">
+                                <a href="javascript:selectLadderCate('null');"><div></div></a>
+                                <a href="javascript:selectLadderCate('기여도', 'con');"><div class="title">기여도</div></a>
+                                <a href="javascript:selectLadderCate('래더순위', 'lad');"><div class="title">래더순위</div></a>
+                                <a href="javascript:selectLadderCate('업적', 'ach');"><div class="title">업적</div></a>
+                                <a href="javascript:selectLadderCate('명예', 'hon');"><div class="title">명예</div></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bottom" id="mainranking"> 
+					<script>selectLadderCate('기여도', 'con');</script>              
+                </div>                
+            </div>
+        </div>
+        <!-- 파워업 상점 -->
+        <div class="info honor_shop">                
+            <div class="info_box">
+                <div class="left">
+                    <div>파워업<br>상점</div>
+                    <div><a href="/shop/info.mgame">자세히 보기</a><div class="plus">+</div></div>
+                </div>
+                <div class="right powerupShop">
+                   <script>dp_powerup()</script>
+                </div>
+            </div>
+        </div>
+        <!-- 엘모라드, 카루스 -->
+        <div class="info honor_info">                
+            <div class="info_box">
+                <a href="/info/game/character.mgame">
+                    <div class="lozenge one">
+                        <div></div>
+                        <div>
+                            <div>엘모라드</div>
+                            <div>나를 핍박한 모든 인간들에게<br>검은 피의 저주가 있으리라</div>
+                            <div><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/info_plus_1.png" alt=""></div>
+                        </div>
+                    </div>
+                </a>
+                <a href="/info/game/character.mgame">
+                    <div class="lozenge two">
+                        <div></div>
+                        <div>
+                            <div>카루스</div>
+                            <div>마왕의 상처에<br>흐르는 피에서 태어난 아이들</div>
+                            <div><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/main/info_plus_2.png" alt=""></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- 팝업 -->  
+		
+    </div>
+    <!-- 우측 플로팅 -->
+    <div class="floating" style="display: none;">
+	<div><a href="https://www.facebook.com/knightonlinewar"><br>나이트<br>페이스북</a></div>
+	<div><a href="https://www.youtube.com/@noahsystem2013"><br>나이트<br>유튜브</a></div>
+	<div><a href="#"></a></div>
+</div>    <!-- 푸터 -->
+    <footer class="footer">
+		<style>
+.formobile{
+	height: 180px;
+	text-align: center;
+	width: 100%;
+	font-size: 60px;
+	background: #4e4e4e;
+	color: #e8e8e8;
+}
+   
+</style>
+<script>
+	function CHK_Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);}
+
+	function ADD_BTN(){
+		var is_mobile = CHK_Mobile();
+		if(is_mobile){
+			var btn = '<button class="formobile" onclick="gomobile();">모바일 버전<button>';
+			$( '.footer' ).after( btn );
+		}
+
+	}
+
+	function gomobile(){
+		location.href="https://m.mgame.com/game/knight/";
+	}
+</script>
+
+<section>
+	<h2><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/logo_mgame.png" alt="MGAME"></h2>
+	<ul class="terms">
+		<li><a href="https://www.mgame.com/mgame_policy/policy_agreement.mgame" target="_blank">이용약관</a></li>
+		<li><a href="https://www.mgame.com/mgame_policy/policy_service.mgame" target="_blank">서비스운영정책</a></li>
+		<li><a href="https://www.mgame.com/mgame_policy/policy_personinfo.mgame" target="_blank">개인정보처리방침</a></li>
+		<li><a href="https://www.mgame.com/mgame_policy/policy_teenager.mgame" target="_blank">청소년보호정책</a></li>
+		<li class="useAge"><a href="javascript:;">게임이용등급</a>
+			<div><img src="https://mgameimage.gscdn.com/mgamezzang/games/knight_v3/common/use_15.png" alt="전체이용가"></div>
+		</li>
+	</ul>
+	<address>
+		<p>상호 (주)엠게임<span class="txt_gap"></span>대표이사 권이형<span class="txt_gap"></span>사업자등록번호 114-81-93597호</p>
+		<p>통신판매업신고번호 금천 제 18-2065호<span class="txt_gap"></span>고객센터 1644-0900<span class="txt_gap"></span>팩스 02-6969-5242</p>
+		<p class="copyright">Copyright ⓒ <a href="https://www.mgamecorp.com" target="_blank">MGAME Corp</a>. All Rights Reserved.</p>
+	</address>
+</section>
+
+
+<script>ADD_BTN();</script>			
+<script type="text/javascript" src="https://m-static.mgame.com/common_gamejs/knight_gameCheck.js?ver=1793893623"></script> 
+<script type="text/javascript" src="https://www.mgame.com/maintenance/pop_game_notice.js?ver=1793893623"></script> 	</footer>
+    <script src="https://knight.mgame.com/js/swiper_main.js?ver=116"></script>
+    <script> 
+        var swiperView = new Swiper(".view", {
+            loop : true,
+            autoplay: {
+                delay: 5000,
+                disableOnInteraction: false,
+            },
+			on: {
+					init: function(){
+						main_slider(this);      
+						this.loopDestroy();   // 기존 복제 슬라이드 제거
+						this.loopCreate();    // 새 슬라이드 기준으로 loop 다시 만들기
+						this.update();        // swiper 상태 갱신
+					}
+            },
+            pagination: {
+                el: ".view .swiper-pagination",
+                clickable: true,
+            },
+            navigation: {
+                nextEl: ".view .swiper-button-next",
+                prevEl: ".view .swiper-button-prev",
+            },
+        });  
+        var swiperEvent = new Swiper(".new_event", {
+            loop : true,
+            autoplay: {
+                delay: 7000,
+                disableOnInteraction: false,
+            },
+			on: {
+					init: function(){
+						event_slider(this);      
+						this.loopDestroy();   // 기존 복제 슬라이드 제거
+						this.loopCreate();    // 새 슬라이드 기준으로 loop 다시 만들기
+						this.update();        // swiper 상태 갱신
+					}
+            },
+            pagination : {
+                el : ".new_event .swiper-pagination",
+                clickable : true,
+            },
+        });  
+    </script>
+</div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+{
+  "Database": "KNIGHT_TEMU_2239",
+  "Dependencies": [
+    {
+      "Kind": "AuthoredProcedure",
+      "Name": "LOAD_NEW_CHAR_VALUE"
+    },
+    {
+      "Kind": "AuthoredProcedure",
+      "Name": "LOAD_NEW_CHAR_SET"
+    },
+    {
+      "Kind": "AuthoredProcedure",
+      "Name": "DELETE_GM"
+    },
+    {
+      "Kind": "AuthoredProcedure",
+      "Name": "CREATE_NEW_CHAR"
+    },
+    {
+      "Kind": "AuthoredStaticTemplate",
+      "Name": "letter_gift",
+      "Rows": 13
+    },
+    {
+      "Kind": "AuthoredStaticTemplate",
+      "Name": "user_achieve_load_data",
+      "Rows": 2
+    }
+  ],
+  "NormalLevelOneProfileSelected": true,
+  "StarterProfileChangedThisRun": false,
+  "ExistingPlayerRowsUpdated": 0,
+  "OriginalDatabasesChanged": false
+}

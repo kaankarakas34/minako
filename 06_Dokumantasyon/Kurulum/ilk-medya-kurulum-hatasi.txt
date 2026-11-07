@@ -1,0 +1,9 @@
+﻿Installer failed: C:\Users\murat\AppData\Local\KnightOnlineLab\Sql2022Media\setup.exe; exit=-2068054013
+At C:\Users\murat\OneDrive\Desktop\mınako\06_Dokumantasyon\Araclar\kur-gereklilikler.ps1:43 char:47
++ ... n 0,3010) { throw "Installer failed: $FilePath; exit=$($taskProcess.E ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (Installer faile...xit=-2068054013:String) [], RuntimeException
+    + FullyQualifiedErrorId : Installer failed: C:\Users\murat\AppData\Local\KnightOnlineLab\Sql2022Media\setup.exe; e 
+   xit=-2068054013
+ 
+

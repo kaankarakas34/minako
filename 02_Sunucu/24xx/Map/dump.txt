@@ -1,0 +1,441 @@
+Dumping map: C:\Users\Administrator\Desktop\1960x\Map\moradon_0826.smd
+
+==== Terrain starts at 0x00000000 ====
+Map size: 257 units
+Unit distance: 4.000000
+
+==== Collision data starts at 0x0004080C ====
+Map width: 1024.000000, length: 1024.000000, collision faces: 31077
+
+==== Object events start at 0x002BAB0C ====
+iEventObjectCount: 29
+
+=== Object 0 at 0x002BAB10 ===
+sBelong: 1
+sIndex: 4014
+sType: 5
+sControlNpcId: 211
+sStatus: 1
+fPosX: 797.696167
+fPosY: 4.849916
+fPosZ: 526.878845
+
+=== Object 1 at 0x002BAB28 ===
+sBelong: 2
+sIndex: 4013
+sType: 5
+sControlNpcId: 212
+sStatus: 1
+fPosX: 837.359680
+fPosY: 4.780322
+fPosZ: 526.756958
+
+=== Object 2 at 0x002BAB40 ===
+sBelong: 1
+sIndex: 5001
+sType: 8
+sControlNpcId: 0
+sStatus: 1
+fPosX: 816.135681
+fPosY: 13.647954
+fPosZ: 607.172485
+
+=== Object 3 at 0x002BAB58 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 37.305397
+fPosY: 12.783876
+fPosZ: 953.021912
+
+=== Object 4 at 0x002BAB70 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 41.480568
+fPosY: -0.147277
+fPosZ: 908.900574
+
+=== Object 5 at 0x002BAB88 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 64.490204
+fPosY: -4.998286
+fPosZ: 47.781269
+
+=== Object 6 at 0x002BABA0 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 95.345505
+fPosY: 7.700035
+fPosZ: 840.982483
+
+=== Object 7 at 0x002BABB8 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 104.577438
+fPosY: 4.718342
+fPosZ: 827.188110
+
+=== Object 8 at 0x002BABD0 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 127.386940
+fPosY: 1.401981
+fPosZ: 292.186340
+
+=== Object 9 at 0x002BABE8 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 125.541161
+fPosY: 1.204338
+fPosZ: 308.215332
+
+=== Object 10 at 0x002BAC00 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 112.426834
+fPosY: -3.255255
+fPosZ: 300.036530
+
+=== Object 11 at 0x002BAC18 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 139.861252
+fPosY: 2.215863
+fPosZ: 297.881714
+
+=== Object 12 at 0x002BAC30 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 140.245422
+fPosY: 2.275348
+fPosZ: 300.694336
+
+=== Object 13 at 0x002BAC48 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 120.050034
+fPosY: 2.296167
+fPosZ: 326.537598
+
+=== Object 14 at 0x002BAC60 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 106.516083
+fPosY: 2.268800
+fPosZ: 326.319031
+
+=== Object 15 at 0x002BAC78 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 822.681580
+fPosY: 2.340193
+fPosZ: 891.647095
+
+=== Object 16 at 0x002BAC90 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 809.078918
+fPosY: 2.154393
+fPosZ: 891.691528
+
+=== Object 17 at 0x002BACA8 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 809.014954
+fPosY: -0.616994
+fPosZ: 903.564636
+
+=== Object 18 at 0x002BACC0 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 822.699524
+fPosY: -0.765728
+fPosZ: 903.523560
+
+=== Object 19 at 0x002BACD8 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 454.832001
+fPosY: -28.849503
+fPosZ: 199.494598
+
+=== Object 20 at 0x002BACF0 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 465.604187
+fPosY: -10.951569
+fPosZ: 199.328857
+
+=== Object 21 at 0x002BAD08 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 460.659149
+fPosY: -21.154772
+fPosZ: 196.110031
+
+=== Object 22 at 0x002BAD20 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 459.916626
+fPosY: -25.679609
+fPosZ: 204.568741
+
+=== Object 23 at 0x002BAD38 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 840.992676
+fPosY: -0.825589
+fPosZ: 351.571503
+
+=== Object 24 at 0x002BAD50 ===
+sBelong: 0
+sIndex: 0
+sType: 50
+sControlNpcId: 0
+sStatus: 0
+fPosX: 828.066833
+fPosY: -3.160727
+fPosZ: 369.683258
+
+=== Object 25 at 0x002BAD68 ===
+sBelong: 0
+sIndex: 1019
+sType: 0
+sControlNpcId: 1019
+sStatus: 0
+fPosX: 673.074951
+fPosY: -8.711370
+fPosZ: 179.467377
+
+=== Object 26 at 0x002BAD80 ===
+sBelong: 0
+sIndex: 1020
+sType: 0
+sControlNpcId: 1020
+sStatus: 0
+fPosX: 672.624695
+fPosY: -8.711370
+fPosZ: 140.768524
+
+=== Object 27 at 0x002BAD98 ===
+sBelong: 0
+sIndex: 1022
+sType: 0
+sControlNpcId: 1022
+sStatus: 0
+fPosX: 709.855286
+fPosY: -9.911369
+fPosZ: 142.618607
+
+=== Object 28 at 0x002BADB0 ===
+sBelong: 0
+sIndex: 1021
+sType: 0
+sControlNpcId: 1021
+sStatus: 0
+fPosX: 632.266235
+fPosY: -9.830351
+fPosZ: 178.890396
+
+==== Map tiles start at 0x002BADC8 ====
+==== Regene events start at 0x002DB1CA ====
+Regene events: 0
+
+==== Warp list starts at 0x002DB1CE ====
+Warp count: 12
+
+=== WARP 0 at 0x002DB1CE ===
+sWarpID: 2114
+strWarpName: Lunar Valley
+strAnnounce: War between both Nation are Held at this Valley, Its the proving grounds between Human and Orcs. The Price for this teleport will cost you 600 Coins. 
+dwPay: 10000
+sZone: 1
+fX: 1860.000000
+fY: 0.000000
+fZ: 169.000000
+fR: 5.000000
+
+=== WARP 1 at 0x002DB30E ===
+sWarpID: 2124
+strWarpName: Lunar Valley
+strAnnounce: War between both Nation are Held at this Valley, Its the proving grounds between Human and Orcs. The Price for this teleport will cost you 600 Coins. 
+dwPay: 10000
+sZone: 2
+fX: 216.500000
+fY: 0.000000
+fZ: 1847.000000
+fR: 7.000000
+
+=== WARP 2 at 0x002DB44E ===
+sWarpID: 2111
+strWarpName: Luferson Castle
+strAnnounce: You will be transported to Luferson Castle. Home of Kooglin's tombstone, it is village of warriors and priests. Transport fee is 5,000 Noahs.
+dwPay: 5000
+sZone: 1
+fX: 441.000000
+fY: 0.000000
+fZ: 1625.000000
+fR: 5.000000
+
+=== WARP 3 at 0x002DB58E ===
+sWarpID: 2121
+strWarpName: El Morad Castle
+strAnnounce: You will be transported to Elmorad Castle. Home of Kooglin's tombstone, it is village of warriors and priests. Transport fee is 5,000 Noahs.    
+dwPay: 5000
+sZone: 2
+fX: 1630.000000
+fY: 0.000000
+fZ: 394.000000
+fR: 5.000000
+
+=== WARP 4 at 0x002DB6CE ===
+sWarpID: 2115
+strWarpName: Delos
+strAnnounce: You will be transported to the Siege Zone. Transport fee is 17,000 Noahs.
+dwPay: 17000
+sZone: 30
+fX: 506.000000
+fY: 0.000000
+fZ: 249.000000
+fR: 5.000000
+
+=== WARP 5 at 0x002DB80E ===
+sWarpID: 2125
+strWarpName: Delos
+strAnnounce: You will be transported to the Siege Zone. Transport fee is 17,000 Noahs.
+dwPay: 17000
+sZone: 30
+fX: 506.000000
+fY: 0.000000
+fZ: 249.000000
+fR: 5.000000
+
+=== WARP 6 at 0x002DB94E ===
+sWarpID: 2113
+strWarpName: Ronark Land
+strAnnounce: You will be transported to Ronark Land where players can hunt or wage battle against players of opposing countries. Only players above Level 60 are allowed entry. Transport fee 17,000 Noahs.
+dwPay: 17000
+sZone: 71
+fX: 1380.000000
+fY: 0.000000
+fZ: 1090.000000
+fR: 5.000000
+
+=== WARP 7 at 0x002DBA8E ===
+sWarpID: 2123
+strWarpName: Ronark Land
+strAnnounce: You will be transported to Ronark Land where players can hunt or wage battle against players of opposing countries. Only players above Level 60 are allowed entry. Transport fee 17,000 Noahs.
+dwPay: 17000
+sZone: 71
+fX: 630.000000
+fY: 0.000000
+fZ: 920.000000
+fR: 5.000000
+
+=== WARP 8 at 0x002DBBCE ===
+sWarpID: 2116
+strWarpName: Folk Village
+strAnnounce: A small village which is located in the middle of Moradon, and it is an important place for Moradon field travelers and which gives lots of facilities to the travelers. Relocating fee is 3,000 Noahs.
+dwPay: 3000
+sZone: 21
+fX: 411.000000
+fY: 0.000000
+fZ: 525.000000
+fR: 5.000000
+
+=== WARP 9 at 0x002DBD0E ===
+sWarpID: 2126
+strWarpName: Folk Village
+strAnnounce: A small village which is located in the middle of Moradon, and it is an important place for Moradon field travelers and which gives lots of facilities to the travelers. Relocating fee is 3,000 Noahs.
+dwPay: 300
+sZone: 21
+fX: 411.000000
+fY: 0.000000
+fZ: 525.000000
+fR: 5.000000
+
+=== WARP 10 at 0x002DBE4E ===
+sWarpID: 2117
+strWarpName: Tale Village
+strAnnounce: A village which is located the eng of Rock Snake Canyon, and it is an important place for explorating canyon. Relocating fee is 3,000 Noahs.
+dwPay: 3000
+sZone: 21
+fX: 81.000000
+fY: 0.000000
+fZ: 919.000000
+fR: 5.000000
+
+=== WARP 11 at 0x002DBF8E ===
+sWarpID: 2127
+strWarpName: Tale Village
+strAnnounce: A village which is located the eng of Rock Snake Canyon, and it is an important place for explorating canyon. Relocating fee is 3,000 Noahs.
+dwPay: 3000
+sZone: 21
+fX: 81.000000
+fY: 0.000000
+fZ: 919.000000
+fR: 5.000000
+

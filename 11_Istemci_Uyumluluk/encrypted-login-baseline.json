@@ -1,0 +1,6 @@
+{
+  "Passed": false,
+  "Failure": "AssertionError",
+  "Detail": "Client would show no named server group",
+  "CredentialsLogged": false
+}

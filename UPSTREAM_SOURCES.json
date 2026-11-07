@@ -1,0 +1,42 @@
+[
+  {
+    "Path": "08_Arastirma_Adaylari/22xx-FilesKoRelease",
+    "Origin": "https://github.com/omeraraz22/22xx-FilesKoRelease.git",
+    "Commit": "ad45c5d707a1506e8f48532124573bdf2bc2d92d"
+  },
+  {
+    "Path": "08_Arastirma_Adaylari/AKGame-2383",
+    "Origin": "https://github.com/halilcanakcay/knight-online-server-files-2383.git",
+    "Commit": "cfec765ff19d58a1b9a8ae07bcedcd7bf72f0ece"
+  },
+  {
+    "Path": "08_Arastirma_Adaylari/FireDrake_Client_Kaynak",
+    "Origin": "https://github.com/CyberACS/Knight-Online-Client-Source-Fire-Drake.git",
+    "Commit": "49b5b9b6c81f858a8307a60eeaaaa496fcfa43f4"
+  },
+  {
+    "Path": "08_Arastirma_Adaylari/KORust-Inceleme",
+    "Origin": "https://github.com/derdems44/KORustGameServer.git",
+    "Commit": "5ee5b737a42f87ccb951ac54ff5eaa4007820902"
+  },
+  {
+    "Path": "08_Arastirma_Adaylari/KO_TBL_Tools",
+    "Origin": "https://github.com/Bymuhh/ko-tbl-tools.git",
+    "Commit": "d1c49328188dec4b2474e21a43b0bfb4d9ce4d7c"
+  },
+  {
+    "Path": "08_Arastirma_Adaylari/KO_UIF_API",
+    "Origin": "https://github.com/co3moz/ko-uif-api.git",
+    "Commit": "0d2eca3e540dcf79d119bcce87fb285a019a6cc7"
+  },
+  {
+    "Path": "08_Arastirma_Adaylari/Orcun-24xx",
+    "Origin": "https://github.com/OrcunEryurekliler/KO-24xx-Server.git",
+    "Commit": "52d6e67f3f07751a5f917899dc0a632debc3d903"
+  },
+  {
+    "Path": "08_Arastirma_Adaylari/TemuKO_Posix_Assets",
+    "Origin": "https://github.com/luisfelipe18/temuko-posix.git",
+    "Commit": "af34b1131c21b42d1949d2a63d689165b812103d"
+  }
+]

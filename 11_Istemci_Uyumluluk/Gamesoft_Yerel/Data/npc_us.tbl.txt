@@ -1,0 +1,1873 @@
+6_7_6_6_6_6_6_
+100_<Bind Stone>_100_0_0_0_0_
+101_<Bind Stone>_101_0_0_0_0_
+102_<Bind Stone>_102_0_0_0_0_
+103_<Bind Stone>_103_0_0_0_0_
+200_<Bind Stone>_200_0_0_0_0_
+201_<Bind Stone>_201_0_0_0_0_
+202_<Bind Stone>_202_0_0_0_0_
+203_<Bind Stone>_203_0_0_0_0_
+501_[Siege Weapon] Serendil_11100_200055_200056_0_0_
+502_[Inn Hostess] Garind_12000_200059_200060_200061_0_
+503_[Armor Merchant] Froil_2050_200069_200070_0_0_
+504_[Weapon Merchant] Verofewen_2050_200051_200052_0_0_
+505_[Sundries] Nand_11100_200065_200066_0_0_
+506_[Potion Merchant] Euronia_2040_200045_200046_0_0_
+511_<Encampment>_9854_0_0_0_0_
+521_[Siege Weapon] Serendil_2050_0_0_0_0_
+522_[Castle Manager] Captain Hugo_2020_200073_200074_0_0_
+523_[Siege Weapon] Elrond_11100_200055_200056_0_0_
+524_[Inn Hostess] Esadia_12000_200116_200117_200118_200119_
+525_[Armor Merchant] Pinrod_2050_200069_200070_0_0_
+526_[Weapon Merchant] Rorendil_2050_200051_200052_0_0_
+527_[Sundries] Hures_11100_200065_200066_0_0_
+528_[Potion Merchant] Neon_25240_200045_200046_0_0_
+529_<Guard>_11000_0_0_0_0_
+531_<Guard Tower>_30030_0_0_0_0_
+532_<Guard Tower>_30030_0_0_0_0_
+533_<Guard Tower>_30030_0_0_0_0_
+541_<Center Artifact>_541_0_0_0_0_
+542_<Protection Artifact>_542_0_0_0_0_
+543_<Guard Tower Artifact>_543_0_0_0_0_
+544_<Guard Artifact>_544_0_0_0_0_
+545_<Defense Artifact>_545_0_0_0_0_
+551_<Safety Zone Gate I>_551_0_0_0_0_
+552_<Safety Zone Gate I>_552_0_0_0_0_
+553_<Safety Zone Gate I>_553_0_0_0_0_
+561_<Outer Gate>_561_0_0_0_0_
+562_<Inner Gate>_562_0_0_0_0_
+563_<Inner Gate>_563_0_0_0_0_
+571_<Guard>_11000_0_0_0_0_
+572_<Guard>_11000_0_0_0_0_
+573_<Guard>_11000_0_0_0_0_
+601_<Bifrost Monument>_30020_0_0_0_0_
+602_<Bifrost Gate>_30100_0_0_0_0_
+603_<Chaotic Generator>_30200_0_0_0_0_
+604_<Gate of Greed>_604_0_0_0_0_
+605_<Gate of Greed Lever>_605_0_0_0_0_
+1100_<Gate>_1100_0_0_0_0_
+1101_<Gate>_1101_0_0_0_0_
+1102_<Gate>_1102_0_0_0_0_
+1103_<Gate>_1103_0_0_0_0_
+1200_<Gate>_1200_0_0_0_0_
+1201_<Gate>_1201_0_0_0_0_
+1202_<Gate>_1202_0_0_0_0_
+1203_<Gate>_1203_0_0_0_0_
+1300_<Gate>_1300_0_0_0_0_
+1301_<Gate>_1301_0_0_0_0_
+1302_<Gate>_1302_0_0_0_0_
+1303_<Gate>_1303_0_0_0_0_
+1304_<Gate>_1304_0_0_0_0_
+1305_<Gate>_1305_0_0_0_0_
+1306_<Gate>_1306_0_0_0_0_
+1307_<Gate>_1307_0_0_0_0_
+1308_<Gate>_1308_0_0_0_0_
+1309_<Gate>_1309_0_0_0_0_
+1310_<Gate>_1310_0_0_0_0_
+1311_<Gate>_1311_0_0_0_0_
+1312_<Gate>_1312_0_0_0_0_
+2100_<Lever>_2100_0_0_0_0_
+2101_<Lever>_2101_0_0_0_0_
+2102_<Lever>_2102_0_0_0_0_
+2103_<Lever>_2103_0_0_0_0_
+2200_<Lever>_2200_0_0_0_0_
+2201_<Lever>_2201_0_0_0_0_
+2202_<Lever>_2202_0_0_0_0_
+2203_<Lever>_2203_0_0_0_0_
+2300_<Lever>_2300_0_0_0_0_
+2301_<Lever>_2301_0_0_0_0_
+2302_<Lever>_2302_0_0_0_0_
+2303_<Lever>_2303_0_0_0_0_
+2304_<Lever>_2304_0_0_0_0_
+2305_<Lever>_2305_0_0_0_0_
+2306_<Lever>_2306_0_0_0_0_
+2307_<Lever>_2307_0_0_0_0_
+2308_<Lever>_2308_0_0_0_0_
+2309_<Lever>_2309_0_0_0_0_
+2310_<Lever>_2310_0_0_0_0_
+2561_<Lever>_2561_0_0_0_0_
+2562_<Lever>_2562_0_0_0_0_
+2563_<Lever>_2563_0_0_0_0_
+2701_<Lever>_2701_0_0_0_0_
+2702_<Lever>_2702_0_0_0_0_
+3100_<Barricade>_3100_0_0_0_0_
+3101_<Barricade>_3101_0_0_0_0_
+3200_<Barricade>_3200_0_0_0_0_
+3201_<Barricade>_3201_0_0_0_0_
+4062_<Gate>_4062_0_0_0_0_
+4063_<Gate>_4063_0_0_0_0_
+4064_<Lever>_4064_0_0_0_0_
+4065_<Lever>_4065_0_0_0_0_
+4100_<Prison Gate>_4100_0_0_0_0_
+4101_<Prison Gate>_4101_0_0_0_0_
+4102_<Prison Gate>_4102_0_0_0_0_
+4103_<Prison Gate>_4103_0_0_0_0_
+4200_<Prison Gate>_4200_0_0_0_0_
+4201_<Prison Gate>_4201_0_0_0_0_
+4202_<Prison Gate>_4202_0_0_0_0_
+4203_<Prison Gate>_4203_0_0_0_0_
+4300_<Gate>_4300_0_0_0_0_
+4400_<Gate>_4400_0_0_0_0_
+5001_<Magic Anvil>_5001_0_0_0_0_
+5002_<Magic Anvil>_5002_0_0_0_0_
+5003_<Magic Anvil>_5003_0_0_0_0_
+5004_<Magic Anvil>_5004_0_0_0_0_
+5005_<Magic Anvil>_5005_0_0_0_0_
+5006_<Magic Anvil>_5006_0_0_0_0_
+5007_<Magic Anvil>_5007_0_0_0_0_
+5008_<Magic Anvil>_5008_0_0_0_0_
+5009_<Magic Anvil>_5009_0_0_0_0_
+5010_<Magic Anvil>_5010_0_0_0_0_
+5011_<Magic Anvil>_5011_0_0_0_0_
+5012_<Magic Anvil>_5012_0_0_0_0_
+5300_<Guard Tower>_5834_0_0_0_0_
+5310_<Guard Tower>_5834_0_0_0_0_
+5400_<Guard Tower>_5835_0_0_0_0_
+5410_<Guard Tower>_5835_0_0_0_0_
+5500_<Guard Tower>_5301_0_0_0_0_
+7001_<Teleport Gate>_25002_0_0_0_0_
+7002_[Upgrade Scroll Mechant] Rodion_2050_0_0_0_0_
+8111_[Potion Merchant] Ruber_11510_0_0_0_0_
+8112_[Sundries] Halber_12100_0_0_0_0_
+8161_[Potion Merchant] Shama_25240_0_0_0_0_
+8162_[Sundries] Ardin_22100_0_0_0_0_
+10001_<Gate>_10001_0_0_0_0_
+10002_<Gate>_10002_0_0_0_0_
+10003_<Gate>_10003_0_0_0_0_
+10101_<Artifact>_10100_0_0_0_0_
+10201_<Unbreakable Gate>_10201_0_0_0_0_
+10301_<El Morad Monument>_14000_0_0_0_0_
+10302_<Asga Village Monument>_14001_0_0_0_0_
+10303_<Raiva Village Monument>_14002_0_0_0_0_
+10304_<Doda Camp Monument>_30092_0_0_0_0_
+10305_<Doda Camp Gate>_30100_0_0_0_0_
+10401_<El Morad Snowman>_2701_0_0_0_0_
+10510_<Victory Gate>_30100_0_0_0_0_
+11010_<Guard>_11000_0_0_0_0_
+11011_<Guard>_11000_0_0_0_0_
+11012_<Guard>_11000_0_0_0_0_
+11013_<Elite Guard>_11000_0_0_0_0_
+11020_<Guard>_11000_0_0_0_0_
+11021_<Guard>_11000_0_0_0_0_
+11022_<Guard>_11000_0_0_0_0_
+11023_<Elite Guard>_11000_0_0_0_0_
+11024_<Patroller>_11000_0_0_0_0_
+11030_<Guard>_11000_0_0_0_0_
+11031_<Guard>_11000_0_0_0_0_
+11032_<Guard>_11000_0_0_0_0_
+11041_<Gatekeeper>_11710_0_0_0_0_
+11042_<Garrison I Captain>_11810_0_0_0_0_
+11043_<Garrison Solider>_11000_0_0_0_0_
+11044_<Patroller>_11000_0_0_0_0_
+11045_[Sundries] El Moradian_12100_0_0_0_0_
+11046_<El Moradian>_12200_0_0_0_0_
+11047_<Garrison II Captain>_11810_0_0_0_0_
+11051_<Scout>_21000_0_0_0_0_
+11055_<Garrison Solider>_11000_0_0_0_0_
+11510_[Captain] Falkwine_11610_200104_200105_0_0_
+11610_[Knight Clerk] Charel_11510_200084_200085_0_0_
+11710_<Sara>_11510_0_0_0_0_
+11810_[Great Priest] Helena_11510_200140_200141_0_0_
+12000_[Inn Hostess] Lined_12000_200116_200117_200118_200119_
+12001_[Inn Hostess] Lined_12000_200116_200117_200118_200119_
+12100_[Armor Merchant] Tyroon_12100_200148_200149_0_0_
+12101_[Event Coordinator] Renold_12100_0_0_0_0_
+12102_[Armor Merchant] Ranggise_12100_0_0_0_0_
+12103_<Store Host I>_12100_0_0_0_0_
+12104_<Store Host II>_12100_0_0_0_0_
+12105_<Store Host III>_12100_0_0_0_0_
+12106_[Warrior Magic] Rowon_12100_0_0_0_0_
+12107_<Store Host VIII>_12100_0_0_0_0_
+12108_[Warrior Magic] Baruil_12100_0_0_0_0_
+12109_<Store Host X>_12100_0_0_0_0_
+12110_<Store Host XI>_12100_0_0_0_0_
+12111_[Rogue Advanced] Illad_12100_0_0_0_0_
+12112_[Rogue Magic] Gallae_12100_0_0_0_0_
+12113_[Magician Robe] Gruwill_12100_0_0_0_0_
+12114_[Magician Robe] Daniel_12100_0_0_0_0_
+12115_[Magician Robe] Neruga_12100_0_0_0_0_
+12116_[Magician Robe] Siefe_12100_0_0_0_0_
+12117_[Potion Merchant] Ruber_11510_200154_200155_0_0_
+12118_[Potion Merchant] Raina_11510_0_0_0_0_
+12119_[Priest Advanced] Croff_12100_0_0_0_0_
+12120_[Sundries] Halber_12100_200220_200221_0_0_
+12121_[Accessory] Drafe_12100_0_0_0_0_
+12122_[Magic Item] Nanggis_12100_0_0_0_0_
+12200_[Weapon Merchant] Pallus_12200_200144_200145_0_0_
+12201_[Remainder] Saliman_12200_0_0_0_0_
+12202_[Handmade Weapon] Engram_12200_0_0_0_0_
+12203_<Grudy>_12100_0_0_0_0_
+12204_[Bow/Staff] Follece_12200_0_0_0_0_
+12205_[Handmade] Hakence_12200_0_0_0_0_
+12206_[Bow/Staff] Harte_12200_0_0_0_0_
+12207_[Bow/Staff] Sendow_12200_0_0_0_0_
+12208_[Sundries] Yasval_12200_200158_200159_0_0_
+12209_<Blacksmith>_12200_0_0_0_0_
+12210_<El Morad Transport Ship Monument>_14005_0_0_0_0_
+12212_<Lake of Life Monument>_14005_0_0_0_0_
+12214_<Fourth Castle Monument>_14005_0_0_0_0_
+12216_<Shadow Swamp Monument>_14005_0_0_0_0_
+12218_<Karus Transport Ship Monument>_14005_0_0_0_0_
+12219_<Supply>_14006_0_0_0_0_
+12301_[Upgrade Scroll Merchant] Charon_30900_200033_200034_0_0_
+13001_[Accessory Merchant] Hera_31200_200027_200028_0_0_
+13002_[Armor Merchant] Rospel_12100_0_0_0_0_
+13003_[Potion Merchant] Clepio_31300_200023_200024_0_0_
+13004_[Weapon Merchant] Nauke_22100_0_0_0_0_
+13005_[Potion Merchant] Karpis_25240_200232_200233_0_0_
+13006_[Armor Merchant] Hesta_12200_200019_200020_0_0_
+13007_[Sundries] Zarta_12100_200031_200032_0_0_
+13008_[Weapon Merchant] Gargameth_31400_200015_200016_0_0_
+13009_[Mercenary Captain] Cougar_31600_200029_200030_0_0_
+13010_<Judge>_21610_200075_0_0_0_
+13011_[Guard Trainee] Raiek_11000_0_0_0_0_
+13012_Nashira_22100_0_0_0_0_
+13013_[Guard] Patrick_30600_200002_200003_0_0_
+13014_[Offering Merchant] Kim_12100_0_0_0_0_
+13015_[Priest] Iris_2060_200025_200026_0_0_
+13016_[Familiar Tamer] Kate_31600_0_0_0_0_
+13017_[Guard] Dolce_11000_0_0_0_0_
+13018_[Enchanter] Chard_30900_0_0_0_0_
+13101_Warrior_13101_0_0_0_0_
+13102_Blade_13102_0_0_0_0_
+13103_Blade Master_13103_0_0_0_0_
+13104_Warrior_13104_0_0_0_0_
+13105_Blade_13105_0_0_0_0_
+13106_Blade Master_13106_0_0_0_0_
+13107_Warrior_13107_0_0_0_0_
+13108_Blade_13108_0_0_0_0_
+13109_Blade Master_13109_0_0_0_0_
+13201_Rogue_13201_0_0_0_0_
+13202_Ranger_13202_0_0_0_0_
+13203_Ranger Master_13203_0_0_0_0_
+13204_Rogue_13204_0_0_0_0_
+13205_Ranger_13205_0_0_0_0_
+13206_Ranger Master_13206_0_0_0_0_
+13301_Wizard_13301_0_0_0_0_
+13302_Mage_13302_0_0_0_0_
+13303_Arch Mage_13303_0_0_0_0_
+13304_Wizard_13304_0_0_0_0_
+13305_Mage_13305_0_0_0_0_
+13306_Arch Mage_13306_0_0_0_0_
+13401_Priest_13401_0_0_0_0_
+13402_Cleric_13402_0_0_0_0_
+13403_Arch Cleric_13403_0_0_0_0_
+13404_Priest_13404_0_0_0_0_
+13405_Cleric_13405_0_0_0_0_
+13406_Arch Cleric_13406_0_0_0_0_
+13407_[Armor Merchant] Hesta_12200_200019_200020_0_0_
+13408_[Weapon Merchant] Gargameth_31400_200015_200016_0_0_
+14001_<El Morad Warrior>_11000_0_0_0_0_
+14002_<El Morad Rogue>_11000_0_0_0_0_
+14003_<El Morad Magician>_12000_0_0_0_0_
+14004_<El Morad Senior Officer>_11000_0_0_0_0_
+14005_<El Morad Assassin>_11510_0_0_0_0_
+14006_<El Morad Vice Captain>_11000_0_0_0_0_
+14007_<El Morad Commissioned Officer>_11610_0_0_0_0_
+14101_<Rimmon>_11510_0_0_0_0_
+14102_<Mommon>_11510_0_0_0_0_
+14201_[Warrior Master] Skaki_2020_200092_200093_0_0_
+14202_[Secret Agent] Clarence_2040_200162_200163_0_0_
+14203_[Archmage] Drake_2100_200166_200167_0_0_
+14204_[Priest] Minerva_2060_200088_200089_0_0_
+14301_[Blacksmith] Hepa_31100_200010_200011_0_0_
+14400_[Rental] Helard_2050_200014_0_0_0_
+14401_[Rental] Helard_2050_200014_0_0_0_
+14402_[Beginner Rental] Soden_2050_200156_0_0_0_
+14403_[Beginner Rental] Soren_2050_200156_0_0_0_
+14404_[Election Officer] Roben_11610_200076_200077_0_0_
+14405_[Grand Chamberlain] Laisa_11510_200080_200081_0_0_
+14406_[Imperial Palace Guard] Telson_11000_200100_200101_0_0_
+14407_[Advisor] Nez_11510_200108_200109_0_0_
+14408_<El Morad Spy>_11000_0_0_0_0_
+14410_[Imperial Palace Chef] Veros_12100_200112_200113_0_0_
+14411_<Lunar Gate Guard>_11000_200210_0_0_0_
+14412_<Eslant Woman>_11100_0_0_0_0_
+14413_<Farm Manager>_12100_200202_200203_0_0_
+14414_<Nameless Warrior>_11000_0_0_0_0_
+14415_[Item Rental] Belverick_2050_200234_0_0_0_
+14416_[Item Rental] Mitt_2050_200234_0_0_0_
+14417_[Watchman of Suffering] Teppa_11000_0_0_0_0_
+14418_[Participant of Suffering] Charre_11000_0_0_0_0_
+14419_[Undertaker of Suffering] Kasi_11000_0_0_0_0_
+14420_[Alternate of Suffering] Pathu_11000_0_0_0_0_
+14421_[Disciple of Suffering] Zapa_11000_0_0_0_0_
+14422_[Poet of Suffering] Pura_11000_0_0_0_0_
+14423_[Restless One of Suffering] Vecha_11000_0_0_0_0_
+14424_[Ascetic] Tabeth_11610_200236_200237_0_0_
+14425_[Reconnaissance Captain] Raek_11510_200216_200217_0_0_
+14426_[Outpost Captain] Della_11610_200212_200213_0_0_
+14427_[Guard] Zalk_11000_200170_200171_200172_200173_
+14428_<El Morad Monument>_14004_0_0_0_0_
+14429_<Gate Guide>(China)_11000_0_0_0_0_
+14430_[Mercenary] Tales_11000_200194_200195_0_0_
+14431_[Guard] Beth_11510_200186_200187_200188_200189_
+14432_[Guard] Cheina_11510_200186_200187_200188_200189_
+14433_[Familiar Tamer] Elk_2040_0_0_0_0_
+14434_[Oracle] Felian_2060_200198_200199_0_0_
+14435_[Moradon Merchant] Clark_12100_200206_200207_0_0_
+14436_[Noble] Alfur Cane IV_30500_0_0_0_0_
+14437_[Servant] Trigar_11610_0_0_0_0_
+14438_[Reserve Knight Captain] Belldan_11610_0_0_0_0_
+14439_[Eslant Sage] Agata_14439_0_0_0_0_
+14440_<Raiva Village Bulletin Board>_24440_0_0_0_0_
+14441_[Tomb Gatekeeper] Slay_12200_0_0_0_0_
+15000_[Arena] Ijin_11510_0_0_0_0_
+15001_[Manager] Barrel_11610_0_0_0_0_
+15002_[Clan Colosseum Manager] Artes_21610_200037_200038_0_0_
+16001_<KissMe>_2040_0_0_0_0_
+16002_<KissToYou>_2050_0_0_0_0_
+16011_<Isaac>_11100_0_0_0_0_
+16021_[Event] Calamus Lady_11610_0_0_0_0_
+16031_[Cape Merchant] Sarvis_2060_200098_200099_0_0_
+16041_<NPC1>_12200_0_0_0_0_
+16042_<NPC2>_11510_0_0_0_0_
+16043_<NPC3>_12200_0_0_0_0_
+16044_<NPC4>_11510_0_0_0_0_
+16045_<NPC5>_12200_0_0_0_0_
+16046_<Clan Tournament Advisor>_11610_0_0_0_0_
+16047_[Trader] Moira_11100_200008_200009_0_0_
+16048_<1st Place Clan Statue>_30090_0_0_0_0_
+16049_<2nd Place Clan Statue>_30089_0_0_0_0_
+16050_<3rd Place Clan Statue>_30088_0_0_0_0_
+16051_<Guard of the Key>_11000_0_0_0_0_
+16052_<Watcher of the Key>_11000_0_0_0_0_
+16053_<Protector of the Key>_11000_0_0_0_0_
+16054_<Ranger of the Key>_11000_0_0_0_0_
+16055_<Patroller of the Key>_11000_0_0_0_0_
+16056_<Reconnaissance of the Key>_11000_0_0_0_0_
+16057_<Gatekeeper of the Key>_11000_0_0_0_0_
+16061_[Inn Hostess] Lined_12000_200116_200117_200118_200119_
+16062_[Sundries] Halber_12100_200220_200221_0_0_
+16071_[Special Store] Selith_2040_0_0_0_0_
+16072_[Event] Goddess Adelia_25001_0_0_0_0_
+16073_<Karus Hero Statue>_30090_0_0_0_0_
+16074_<El Morad Hero Statue>_30094_0_0_0_0_
+16075_<Robos>_25100_0_0_0_0_
+16076_[Server Transfer] Liria_2040_0_0_0_0_
+16077_[Ranking] Hardis_2050_0_0_0_0_
+16078_<Riony>_2060_0_0_0_0_
+16079_[Daughter of Grand Merchant] Menissiah_30400_200012_200013_0_0_
+16080_[Beginner Helper] Adine_11100_0_0_0_0_
+16081_[Forgotten Temple Level III] Reals_2060_0_0_0_0_
+16082_[Forgotten Temple Level II] Redis_2040_0_0_0_0_
+16083_[Forgotten Temple Level I] Laemith_11100_0_0_0_0_
+16084_[Colosseum Manager] Athian_11610_0_0_0_0_
+16085_[Vendor] Hemes_31000_200039_200040_0_0_
+16086_[Event] Ryan_2050_0_0_0_0_
+16087_[Siege War Event] Joyce_2040_0_0_0_0_
+16088_[Accessories Master] Roy_2050_0_0_0_0_
+16089_[Potion Merchant] Rona_11510_0_0_0_0_
+16091_[Playtime Event] Dyon_2050_0_0_0_0_
+16092_<Love Messenger>_2040_0_0_0_0_
+16093_[Teleporter] Shangduff_25200_0_0_0_0_
+16094_[Gatekeeper] Asan_2050_200228_200229_0_0_
+16095_[Gatekeeper of Lost Chamber] Rothen_11510_0_0_0_0_
+16096_[Inn Hostess] Neria_30700_200041_200042_0_0_
+16097_[Inn Hostess] Nia_30700_200041_200042_0_0_
+16098_[Merchant Item Keeper] Rakia_2040_200228_200229_0_0_
+16099_[Gatekeeper] Asan_2050_0_0_0_0_
+17001_sohu_npc_25200_0_0_0_0_
+17002_[Weapon Merchant] Kuus_25220_0_0_0_0_
+17003_[Armor Merchant] Hion_25220_0_0_0_0_
+17004_[Sundries] Udian_25230_0_0_0_0_
+17005_[Portion Merchant] Kawani_25230_0_0_0_0_
+17006_[Warehouse] Bitheri_25200_0_0_0_0_
+17007_<Kiyoth>_25210_0_0_0_0_
+17008_[Teleporter] Shangduff_25200_0_0_0_0_
+17009_[PP Card] Hardin_12100_0_0_0_0_
+17010_[Teleporter] Shangduff_25200_0_0_0_0_
+17011_[Teleporter] Shangduff_25200_0_0_0_0_
+17012_[Prison Guard] Ferius_21610_0_0_0_0_
+18001_[Sundries] Cobel_12100_0_0_0_0_
+18002_[Inn Hostess] Daruana_12000_200116_200117_200118_200119_
+18003_[Item Rental] Nernozan_2050_0_0_0_0_
+18004_[Grand Merchant] Kaishan_31900_200000_200001_0_0_
+18005_[Manager] Billbor_30500_200004_200005_0_0_
+18006_[Supply Officer] Valtor_11610_0_0_0_0_
+18007_[Supply Officer] Hector_21610_0_0_0_0_
+18008_<Adilia>_25005_0_0_0_0_
+18009_<Cursed Santa Claus>_2707_0_0_0_0_
+18010_[Prison Officer] Kabal_21610_0_0_0_0_
+18011_<Festival Flower>_32000_0_0_0_0_
+18012_<Festival Flower>_32001_0_0_0_0_
+18013_<Festival Flower>_32002_0_0_0_0_
+18014_<Festival Flower>_32000_0_0_0_0_
+18015_<Festival Flower>_32001_0_0_0_0_
+18016_<Festival Flower>_32002_0_0_0_0_
+18017_<Nusram>_2040_0_0_0_0_
+18018_<Klasras>_21000_0_0_0_0_
+18019_<Yellow Sand>_6601_0_0_0_0_
+18020_<Secret Archive>_30301_0_0_0_0_
+18021_<Secret Archive>_30301_0_0_0_0_
+18022_<Key Chest>_30300_0_0_0_0_
+18023_<Key Chest>_30300_0_0_0_0_
+18024_<Key Chest>_30300_0_0_0_0_
+18025_<Key Chest>_30300_0_0_0_0_
+18026_<Key Chest>_30300_0_0_0_0_
+18027_<Key Chest>_30300_0_0_0_0_
+18028_[Nation Point Merchant] Merchini_22000_0_0_0_0_
+18029_[Nation Point  Merchant] Leona_12000_0_0_0_0_
+18030_[Envoy of Confession]_25002_0_0_0_0_
+18031_[Manager] Roktar_22000_0_0_0_0_
+18033_[Manager] Eliott_30500_0_0_0_0_
+19001_[El Morad Dispatch Officer] Laidas_11510_0_0_0_0_
+19002_[Entrepot Trader] Berret_12100_0_0_0_0_
+19003_[Mercenary Adjutant] Lazi_2050_0_0_0_0_
+19004_[Mercenary Supply Officer] Osmond_21510_0_0_0_0_
+19005_[Fortune Teller] Mekin_19005_0_0_0_0_
+19006_[Arena Manager] Dualer_11610_0_0_0_0_
+19007_[Mercenary Adjutant]_2050_0_0_0_0_
+19008_[Administrative Officer]_21510_0_0_0_0_
+19009_[Mercenary Supply Officer]_11510_0_0_0_0_
+19010_[Mercenary]_31121_0_0_0_0_
+19011_[Mercenary]_31133_0_0_0_0_
+19012_[Mercenary]_31131_0_0_0_0_
+19013_[Mercenary]_31142_0_0_0_0_
+19014_[Mercenary]_31146_0_0_0_0_
+19015_[Mercenary]_31151_0_0_0_0_
+19016_[Mercenary]_31155_0_0_0_0_
+19017_<Dreamer Girl>_30800_0_0_0_0_
+19018_[Folk Village Chief] Kronil_22200_0_0_0_0_
+19019_<Kaul>_25500_0_0_0_0_
+19020_[Canyon Gatekeeper] Skar_21510_0_0_0_0_
+19021_[Sundries] Rabino_11100_0_0_0_0_
+19022_[Sundries] Lionel_2050_0_0_0_0_
+19023_[Portion Merchant] Kisiner_31300_0_0_0_0_
+19024_<Wandering Mechant>_12101_0_0_0_0_
+19025_<Wandering Mechant>_12101_0_0_0_0_
+19026_<Wandering Mechant>_12101_0_0_0_0_
+19027_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19028_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19029_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19030_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19031_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19032_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19033_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19034_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19035_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19036_<Legendary Wandering Mechant>_12101_0_0_0_0_
+19037_[High Class Mage] Norman_31300_0_0_0_0_
+19051_<Disciple of Hepa>_26003_0_0_0_0_
+19052_<Artist>_26002_0_0_0_0_
+19053_<Man Fallen in Love>_26001_0_0_0_0_
+19054_<Mother>_2060_0_0_0_0_
+19055_<Father>_12100_0_0_0_0_
+19056_<Homeless>_22200_0_0_0_0_
+19057_<Man who lost a Diary>_12200_0_0_0_0_
+19058_<Proposed Woman>_5853_0_0_0_0_
+19059_<Proposer Man>_5852_0_0_0_0_
+19060_<Pessimist>_26006_0_0_0_0_
+19061_<Entrepreneur Little Brother>_26002_0_0_0_0_
+19062_<Entrepreneur Older Brother>_26001_0_0_0_0_
+19063_<Adventurer>_26005_0_0_0_0_
+19064_<Cheerless Man>_26005_0_0_0_0_
+19065_<Ambushed Guard>_21000_0_0_0_0_
+19066_<Retired Guard>_26002_0_0_0_0_
+19067_<Leather Scarecrow>_4081_0_0_0_0_
+19068_<Chain Scarecrow>_4082_0_0_0_0_
+19069_<Iron Scarecrow>_4083_0_0_0_0_
+19070_<Leather Scarecrow>_19067_0_0_0_0_
+19071_<Chain Scarecrow>_19068_0_0_0_0_
+19072_<Iron Scarecrow>_19069_0_0_0_0_
+19073_[Disciple of Hepa] Shozin_12201_0_0_0_0_
+20001_<El Morad Bind>_20001_0_0_0_0_
+20002_<El Morad Bind>_20002_0_0_0_0_
+20003_<El Morad Bind>_20003_0_0_0_0_
+20004_<Karus Bulletin Board>_20004_0_0_0_0_
+20005_<El Morad Bulletin Board>_20005_0_0_0_0_
+20101_<Artifact>_20100_0_0_0_0_
+20201_<El Morad Bind>_20201_0_0_0_0_
+20301_<Luferson Monument>_24000_0_0_0_0_
+20302_<Linate Village Monument>_24002_0_0_0_0_
+20303_<Bellua Village monument>_24001_0_0_0_0_
+20304_<Raon Camp Monument>_30091_0_0_0_0_
+20305_<Raon Camp Gate>_30100_0_0_0_0_
+20401_<Karus Snowman>_2702_0_0_0_0_
+20510_<Victory Gate>_30100_0_0_0_0_
+21010_<Guard>_21000_0_0_0_0_
+21011_<Guard>_21000_0_0_0_0_
+21012_<Guard>_21000_0_0_0_0_
+21013_<Elite Guard>_21000_0_0_0_0_
+21020_<Guard>_21000_0_0_0_0_
+21021_<Guard>_21000_0_0_0_0_
+21022_<Patroller>_21000_0_0_0_0_
+21023_<Elite Guard>_21000_0_0_0_0_
+21030_<Guard>_21000_0_0_0_0_
+21031_<Guard>_21000_0_0_0_0_
+21032_<Guard>_21000_0_0_0_0_
+21041_<Gatekeeper>_21710_0_0_0_0_
+21042_<Garrison I Captain>_21810_0_0_0_0_
+21043_<Garrison Solider>_21000_0_0_0_0_
+21044_<Patroller>_21000_0_0_0_0_
+21045_<Garrison II Captain>_21810_0_0_0_0_
+21047_[Sundries] Karusian_22100_0_0_0_0_
+21048_<Karusian>_22200_0_0_0_0_
+21051_<Scout>_11000_0_0_0_0_
+21055_<Garrison Solider>_21000_0_0_0_0_
+21510_[Captain] Fargo_21610_200106_200107_0_0_
+21610_[Knight Clerk] Delaga_21510_200086_200087_0_0_
+21710_Jurakel_21510_0_0_0_0_
+21810_[Great Priest] Murka_21510_200142_200143_0_0_
+22000_[Inn Hostess] Lined_22000_200132_200133_200134_200135_
+22100_[Armor Merchant] Cubense_22100_200150_200151_0_0_
+22101_[Event] Helpute_22100_0_0_0_0_
+22102_[High Class Armor] Harbin_22100_0_0_0_0_
+22103_[Handmade] Nassel_22100_0_0_0_0_
+22104_[Handmade] Bynun_22100_0_0_0_0_
+22105_[Handmade] Eron_22100_0_0_0_0_
+22106_[Weapon Merchant] Rian_22100_0_0_0_0_
+22107_[Intermediate Magic] Cuus_22100_0_0_0_0_
+22108_<Store Owner>_22100_0_0_0_0_
+22109_[Accessory] Kamal_22100_0_0_0_0_
+22110_[Magic Item] Rawal_22100_0_0_0_0_
+22111_<Store Owner 12>_22100_0_0_0_0_
+22112_<Store Owner 13>_22100_0_0_0_0_
+22113_<Store Owner 14>_22100_0_0_0_0_
+22114_<Store Owner 15>_22100_0_0_0_0_
+22115_<Store Owner 16>_22100_0_0_0_0_
+22116_<Store Owner 17>_22100_0_0_0_0_
+22117_<Store Owner 18>_22100_0_0_0_0_
+22118_<Store Owner 19>_22100_0_0_0_0_
+22119_<Store Owner 20>_22100_0_0_0_0_
+22120_[Sundries] Ardin_22100_200224_200225_0_0_
+22200_[Weapon Merchant] Mori_22200_200146_200147_0_0_
+22201_[Remainder] Jaki_22200_0_0_0_0_
+22202_[Potion Merchant] Shama_25240_200152_200153_0_0_
+22203_[Handmade Armor] Abul_22100_0_0_0_0_
+22204_[Bow/Staff] Adil_22200_0_0_0_0_
+22205_[Handmade] Mulk_22200_0_0_0_0_
+22206_[Bow/Staff] Padil_22200_0_0_0_0_
+22207_[Bow/Staff] Bera_22200_0_0_0_0_
+22208_[Sundries] Veron_22200_200160_200161_0_0_
+22209_<Blacksmith>_22200_0_0_0_0_
+22210_<Maren>_22200_0_0_0_0_
+22301_[Upgrade Scroll Merchant] Charon_30900_200033_200034_0_0_
+23101_Warrior_23101_0_0_0_0_
+23102_Berserker_23102_0_0_0_0_
+23103_Berserker Master_23103_0_0_0_0_
+23201_Rogue_23201_0_0_0_0_
+23202_Hunter_23202_0_0_0_0_
+23203_Hunter Master_23203_0_0_0_0_
+23301_Wizard_23301_0_0_0_0_
+23302_Sorcerer_23302_0_0_0_0_
+23303_Arch Sorcerer_23303_0_0_0_0_
+23401_Priest_23401_0_0_0_0_
+23402_Shaman_23402_0_0_0_0_
+23403_Arch Shaman_23403_0_0_0_0_
+23404_Priest_23404_0_0_0_0_
+23405_Shaman_23405_0_0_0_0_
+23406_Arch Shaman_23406_0_0_0_0_
+24001_<Karus Warrior>_21000_0_0_0_0_
+24002_<Karus Rogue>_21000_0_0_0_0_
+24003_<Karus Magician>_22000_0_0_0_0_
+24004_<Karus Senior Officer>_21000_0_0_0_0_
+24005_<Karus Assassin>_21510_0_0_0_0_
+24006_<Karus Vice Captain>_21000_0_0_0_0_
+24007_<Karus Commissioned Officer>_21610_0_0_0_0_
+24101_<Banssel>_21510_0_0_0_0_
+24102_<Natsuru>_21510_0_0_0_0_
+24201_[Warrior Master] Skaki_2020_200092_200093_0_0_
+24202_[Secret Agent] Clarence_2040_200162_200163_0_0_
+24203_[Archmage] Drake_2100_200166_200167_0_0_
+24204_[Priest] Minerva_2060_200088_200089_0_0_
+24404_[Election Officer] Roben_21610_200076_200077_0_0_
+24405_[Grand Chamberlain] Rina_22000_200082_200083_0_0_
+24406_[Imperial Palace Guard] Verca_21000_200100_200101_0_0_
+24407_[Advisor] Herga_21510_200110_200111_0_0_
+24408_<Karus Spy>_21000_0_0_0_0_
+24410_[Imperial Palace Guard] Jakata_22100_200114_200115_0_0_
+24411_<Lunar Gate Guard>_21000_200210_0_0_0_
+24412_<Eslant Woman>_11100_0_0_0_0_
+24413_<Farm Manager>_22100_200202_200203_0_0_
+24414_<Nameless Warrior>_21000_0_0_0_0_
+24417_[Watchman of Suffering] Chatsra_21000_0_0_0_0_
+24418_[Participant of Suffering] Degola_21000_0_0_0_0_
+24419_[Undertaker of Suffering] Papuda_21000_0_0_0_0_
+24420_[Alternate of Suffering] Mungus_21000_0_0_0_0_
+24421_[Disciple of Suffering] Dorana_21000_0_0_0_0_
+24422_[Poet of Suffering] Jerain_21000_0_0_0_0_
+24423_[Restless One of Suffering] Navad_21000_0_0_0_0_
+24424_[Ascetic] Veda_21610_200238_200239_0_0_
+24425_[Reconnaissance Captain] Zamed_21610_200218_200219_0_0_
+24426_[Outpost Captain] Elrod_21510_200214_200215_0_0_
+24427_[Guard] Melverick_21000_200170_200171_200172_200173_
+24428_<Karus Monument>_14003_0_0_0_0_
+24429_<Gate Guide>(China)_21000_0_0_0_0_
+24430_[Mercenary] Russel_21000_200194_200195_0_0_
+24431_[Guard] Hashan_21000_200170_200171_200172_200173_
+24432_[Guard] Keife_21000_200170_200171_200172_200173_
+24433_[Familiar Tamer] Perda_2040_0_0_0_0_
+24434_[Oracle] Tollnaga_21510_200200_200201_0_0_
+24435_[Moradon Merchant] Shymer_12100_200206_200207_0_0_
+24436_[Novel] Cronos Shiz_21510_0_0_0_0_
+24437_[Servant] Targatu_21000_0_0_0_0_
+24438_[Reserve Knight Captain] Rugur_21610_0_0_0_0_
+24439_[Eslant Sage] Pablo_14439_0_0_0_0_
+24440_<Linate Village Bulletin Board>_14440_0_0_0_0_
+24441_[Tomb Gatekeeper] Bertem_22100_0_0_0_0_
+26001_<KissMe>_2040_0_0_0_0_
+26002_<KissToYou>_2050_0_0_0_0_
+26011_[Event] Isaac_21510_0_0_0_0_
+26031_[Cape Merchant] Habice_22000_200096_200097_0_0_
+26041_[Beginner Helper] Adirian_22000_0_0_0_0_
+26051_<Guard of the Key>_21000_0_0_0_0_
+26052_<Watcher of the Key>_21000_0_0_0_0_
+26053_<Protector of the Key>_21000_0_0_0_0_
+26054_<Ranger of the Key>_21000_0_0_0_0_
+26055_<Patroller of the Key>_21000_0_0_0_0_
+26056_<Reconnaissance of the Key>_21000_0_0_0_0_
+26057_<Gatekeeper of the Key>_21000_0_0_0_0_
+26061_[Inn Hostess] Lined_22000_200132_200133_200134_200135_
+26062_[Sundries] Ardin_22100_200224_200225_0_0_
+27001_sohu_npc_25200_0_0_0_0_
+27002_[Weapon Merchant] Kuus_25220_0_0_0_0_
+27003_[Armor Merchant] Hion_25220_0_0_0_0_
+27004_[Sundries] Udian_25230_0_0_0_0_
+27005_[Portion Merchant] Kawani_25240_0_0_0_0_
+27006_[Warehouse] Bitheri_25200_0_0_0_0_
+27007_<Kiyoth>_25200_0_0_0_0_
+27008_[Teleporter] Shangduff_25200_0_0_0_0_
+27009_[Teleporter] Shangduff_25200_0_0_0_0_
+27010_[Teleporter] Shangduff_25200_0_0_0_0_
+28001_<El Morad Warrior>_11000_0_0_0_0_
+28002_<El Morad Rogue>_11000_0_0_0_0_
+28003_<El Morad Magician>_12000_0_0_0_0_
+28004_<El Morad Senior Officer>_11000_0_0_0_0_
+28005_<El Morad Assassin>_11510_0_0_0_0_
+28006_<El Morad Vice Captain>_11000_0_0_0_0_
+28007_<El Morad Commissioned Officer>_11610_0_0_0_0_
+28009_<Karus Warrior>_21000_0_0_0_0_
+28010_<Karus Rogue>_21000_0_0_0_0_
+28011_<Karus Magician>_22000_0_0_0_0_
+28012_<Karus Senior Officer>_21000_0_0_0_0_
+28013_<Karus Assassin>_21510_0_0_0_0_
+28014_<Karus Vice Captain>_21000_0_0_0_0_
+28015_<Karus Commissioned Officer>_21610_0_0_0_0_
+28055_[Manager] Billbor_30500_200004_200005_0_0_
+29001_[Karus Dispatch Officer] Portman_21610_0_0_0_0_
+29002_[12th Demon Summon Stone]_32009_0_0_0_0_
+29003_[11th Demon Summon Stone]_32009_0_0_0_0_
+29004_[10th Demon Summon Stone]_32009_0_0_0_0_
+29005_[9th Demon Summon Stone]_32009_0_0_0_0_
+29006_[8th Demon Summon Stone]_32009_0_0_0_0_
+29007_[7th Demon Summon Stone]_32009_0_0_0_0_
+29008_[6th Demon Summon Stone]_32009_0_0_0_0_
+29009_[5th Demon Summon Stone]_32009_0_0_0_0_
+29010_[4th Demon Summon Stone]_32009_0_0_0_0_
+29011_[3rd Demon Summon Stone]_32009_0_0_0_0_
+29012_[2nd Demon Summon Stone] K_32009_0_0_0_0_
+29013_[1st Demon Summon Stone] K_32009_0_0_0_0_
+29014_[Order of the Sorcery] Bros_30900_0_0_0_0_
+29015_[12th Demon Summon Stone]_32009_0_0_0_0_
+29016_[11th Demon Summon Stone]_32009_0_0_0_0_
+29017_[10th Demon Summon Stone]_32009_0_0_0_0_
+29018_[9th Demon Summon Stone]_32009_0_0_0_0_
+29019_[8th Demon Summon Stone]_32009_0_0_0_0_
+29020_[7th Demon Summon Stone]_32009_0_0_0_0_
+29021_[6th Demon Summon Stone]_32009_0_0_0_0_
+29022_[5th Demon Summon Stone]_32009_0_0_0_0_
+29023_[4th Demon Summon Stone]_32009_0_0_0_0_
+29024_[3rd Demon Summon Stone]_32009_0_0_0_0_
+29025_[2nd Demon Summon Stone] E_32009_0_0_0_0_
+29026_[1st Demon Summon Stone] E_32009_0_0_0_0_
+29027_[Order of the Sorcery] Sais_19005_0_0_0_0_
+29028_[Mysterious Mage]_2100_0_0_0_0_
+29029_[Election Campaign Officer] Zeros_21610_200084_200085_0_0_
+29030_[Election Campaign Officer] Jayce_11610_200084_200085_0_0_
+29031_<Rice Cake Shop Owner>_31400_0_0_0_0_
+29032_<Kitchen Police>_12200_0_0_0_0_
+29033_[Legendary Alchemist]_31300_0_0_0_0_
+29034_[Karus] Elder of Lunar_31300_0_0_0_0_
+29035_<Elder of the Country>_31400_0_0_0_0_
+29036_[National Aide] Halo_21510_0_0_0_0_
+29037_[El Morad] Elder of Lunar_31400_0_0_0_0_
+29038_<Elder of the Country>_31300_0_0_0_0_
+29039_<Elder of the Country>_31400_0_0_0_0_
+29040_<Elder of the Country>_31300_0_0_0_0_
+29041_[Karus] Elder of Lunar_31300_0_0_0_0_
+29042_[Karus] Elder of Lunar_31300_0_0_0_0_
+29043_[Karus] Elder of Lunar_31300_0_0_0_0_
+29044_[Karus] Elder of Lunar_31300_0_0_0_0_
+29045_[El Morad] Elder of Lunar_31400_0_0_0_0_
+29046_[El Morad] Elder of Lunar_31400_0_0_0_0_
+29047_[El Morad] Elder of Lunar_31400_0_0_0_0_
+29048_[El Morad] Elder of Lunar_31400_0_0_0_0_
+29049_[Pontifex] Scardy_32019_0_0_0_0_
+29050_[Sorcerer] Maria_32016_0_0_0_0_
+29052_[Sorcerer] Samathran_32016_0_0_0_0_
+29053_<Unknown Tombstone>_32009_0_0_0_0_
+29051_<Guardian of the Castle>_19005_0_0_0_0_
+29055_<Delos Monument>_32020_0_0_0_0_
+29056_[Vendor] Kaira_2060_200041_200042_0_0_
+29058_<Stone of Conqueror>_14105_0_0_0_0_
+29057_[DC Sundries] Diska_30700_200041_200042_0_0_
+29059_<Summoning Stone>_24002_0_0_0_0_
+29060_<Stone of Hatred>_32009_0_0_0_0_
+29061_<Stone of Time>_14002_0_0_0_0_
+29062_<Summoning Stone>_24002_0_0_0_0_
+29063_<Summoning Stone>_24002_0_0_0_0_
+29064_<Summoning Stone>_24002_0_0_0_0_
+29065_<Summoning Stone>_24002_0_0_0_0_
+29066_<Summoning Stone>_24002_0_0_0_0_
+29067_<Summoning Stone>_24002_0_0_0_0_
+29068_<Summoning Stone>_24002_0_0_0_0_
+29069_<Guard Tower>_5834_0_0_0_0_
+29070_[Order of the Sorcery] Gater_19005_0_0_0_0_
+29071_[Order of the Sorcery] Knoker_19005_0_0_0_0_
+29072_[Chief of Order of the Sorcery] Harrigan_19005_0_0_0_0_
+29073_[Chief of Order of the Sorcery] Markus_19005_0_0_0_0_
+29074_<Rockslide Lever>_29074_0_0_0_0_
+29075_<Rockslide>_30085_0_0_0_0_
+29076_<Summoning Stone>_24002_0_0_0_0_
+29077_<Summoning Stone>_24002_0_0_0_0_
+29078_<Christmas Tree>_25003_0_0_0_0_
+29079_[Stadium Manager] Efe_19005_0_0_0_0_
+29080_[Imperial Palace Chef] Yancook_12100_0_0_0_0_
+29081_[Captain] Icap_32036_0_0_0_0_
+29082_[Beef Master] Roast_32029_0_0_0_0_
+29083_[Gambler] Yoot_22200_0_0_0_0_
+29084_[Single for 31 Years] Jade_32037_0_0_0_0_
+29085_<His Woman>_32038_0_0_0_0_
+29086_<His Woman>_32038_0_0_0_0_
+29087_<His Woman>_32038_0_0_0_0_
+29088_<His Woman>_32038_0_0_0_0_
+29089_<His Woman>_32038_0_0_0_0_
+29090_<His Woman>_32038_0_0_0_0_
+29091_[Vancouver Olympic] Victory_11100_0_0_0_0_
+29092_ _32039_0_0_0_0_
+29093_ _32040_0_0_0_0_
+29094_[Savior] Sirin_11100_0_0_0_0_
+29095_[Forest Ranger] Dry_2040_0_0_0_0_
+29096_[High Quality Soil]_32041_0_0_0_0_
+29097_[Huge Pile of Soil]_32041_0_0_0_0_
+29098_[Guardian of Life] Naia_2040_0_0_0_0_
+29099_[High Quality Soil]_32041_0_0_0_0_
+29100_[High Quality Soil]_32041_0_0_0_0_
+29101_[High Quality Soil]_32041_0_0_0_0_
+29102_[High Quality Soil]_32041_0_0_0_0_
+29103_[High Quality Soil]_32041_0_0_0_0_
+29104_[High Quality Soil]_32041_0_0_0_0_
+29105_[High Quality Soil]_32041_0_0_0_0_
+29106_[High Quality Soil]_32041_0_0_0_0_
+29107_[High Quality Soil]_32041_0_0_0_0_
+29108_[High Quality Soil]_32041_0_0_0_0_
+29109_[High Quality Soil]_32041_0_0_0_0_
+29110_[High Quality Soil]_32041_0_0_0_0_
+29111_[High Quality Soil]_32041_0_0_0_0_
+29112_[High Quality Soil]_32041_0_0_0_0_
+29113_[High Quality Soil]_32041_0_0_0_0_
+29114_[High Quality Soil]_32041_0_0_0_0_
+29115_[High Quality Soil]_32041_0_0_0_0_
+29116_[High Quality Soil]_32041_0_0_0_0_
+29117_[High Quality Soil]_32041_0_0_0_0_
+29118_[High Quality Soil]_32041_0_0_0_0_
+29119_[High Quality Soil]_32041_0_0_0_0_
+29120_[High Quality Soil]_32041_0_0_0_0_
+29121_[High Quality Soil]_32041_0_0_0_0_
+30001_<Goddess Akara Statue>_30001_0_0_0_0_
+30002_<Priest of Akara>_30002_0_0_0_0_
+30003_<Priest of Akara>_30003_0_0_0_0_
+30004_<Priest of Akara>_30004_0_0_0_0_
+30005_<Berritt Kerev>_30005_0_0_0_0_
+30101_[The Overlord] Hellfire_5806_0_0_0_0_
+30102_[The Overlord] Enigma_5807_0_0_0_0_
+30103_[The Overlord] Havoc_5808_0_0_0_0_
+30200_<Rockslide>_30085_0_0_0_0_
+30201_<Rockslide>_30085_0_0_0_0_
+30202_<Rockslide>_30085_0_0_0_0_
+30203_<Rockslide>_30085_0_0_0_0_
+30204_<Rockslide>_30085_0_0_0_0_
+30205_<Rockslide>_30085_0_0_0_0_
+30206_<Rockslide>_30085_0_0_0_0_
+30207_<Rockslide>_30085_0_0_0_0_
+30208_<Rockslide>_30085_0_0_0_0_
+30209_<Rockslide>_30085_0_0_0_0_
+30210_<Rockslide>_30085_0_0_0_0_
+30211_<Rockslide>_30085_0_0_0_0_
+30212_<Rockslide>_30085_0_0_0_0_
+30213_<Rockslide>_30085_0_0_0_0_
+30214_<Rockslide>_30085_0_0_0_0_
+30215_<Rockslide>_30085_0_0_0_0_
+30216_<Rockslide>_30085_0_0_0_0_
+30217_<Rockslide>_30085_0_0_0_0_
+30218_<Rockslide>_30085_0_0_0_0_
+30219_<Rockslide>_30085_0_0_0_0_
+30220_<Rockslide>_30085_0_0_0_0_
+30221_<Rockslide>_30085_0_0_0_0_
+30222_<Rockslide>_30085_0_0_0_0_
+30223_<Rockslide>_30085_0_0_0_0_
+30224_<Rockslide>_30085_0_0_0_0_
+30225_<Rockslide>_30085_0_0_0_0_
+30226_<Rockslide>_30085_0_0_0_0_
+30227_<Rockslide>_30085_0_0_0_0_
+30228_<Rockslide>_30085_0_0_0_0_
+30229_<Rockslide>_30085_0_0_0_0_
+30230_<Rockslide>_30085_0_0_0_0_
+30231_<Rockslide>_30085_0_0_0_0_
+30232_<Rockslide>_30085_0_0_0_0_
+30233_<Rockslide>_30085_0_0_0_0_
+30234_<Rockslide>_30085_0_0_0_0_
+30250_<Rockslide Lever>_30250_0_0_0_0_
+30251_<Rockslide Lever>_30251_0_0_0_0_
+30252_<Rockslide Lever>_30252_0_0_0_0_
+30253_<Rockslide Lever>_30253_0_0_0_0_
+30254_<Rockslide Lever>_30254_0_0_0_0_
+30255_<Rockslide Lever>_30255_0_0_0_0_
+30256_<Rockslide Lever>_30256_0_0_0_0_
+30257_<Rockslide Lever>_30257_0_0_0_0_
+30258_<Rockslide Lever>_30258_0_0_0_0_
+30259_<Rockslide Lever>_30259_0_0_0_0_
+30260_<Rockslide Lever>_30260_0_0_0_0_
+30261_<Rockslide Lever>_30261_0_0_0_0_
+30262_<Rockslide Lever>_30262_0_0_0_0_
+30263_<Rockslide Lever>_30263_0_0_0_0_
+30264_<Rockslide Lever>_30264_0_0_0_0_
+30265_<Rockslide Lever>_30265_0_0_0_0_
+30266_<Rockslide Lever>_30266_0_0_0_0_
+30267_<Rockslide Lever>_30267_0_0_0_0_
+30268_<Rockslide Lever>_30268_0_0_0_0_
+30269_<Rockslide Lever>_30269_0_0_0_0_
+30270_<Rockslide Lever>_30270_0_0_0_0_
+30271_<Rockslide Lever>_30271_0_0_0_0_
+30272_<Rockslide Lever>_30272_0_0_0_0_
+30273_<Rockslide Lever>_30273_0_0_0_0_
+30274_<Rockslide Lever>_30274_0_0_0_0_
+30275_<Rockslide Lever>_30275_0_0_0_0_
+30276_<Rockslide Lever>_30276_0_0_0_0_
+30277_<Rockslide Lever>_30277_0_0_0_0_
+30278_<Rockslide Lever>_30278_0_0_0_0_
+30279_<Rockslide Lever>_30279_0_0_0_0_
+30280_<Rockslide Lever>_30280_0_0_0_0_
+30281_<Rockslide Lever>_30281_0_0_0_0_
+30282_<Rockslide Lever>_30282_0_0_0_0_
+30283_<Rockslide Lever>_30283_0_0_0_0_
+30284_<Rockslide Lever>_30284_0_0_0_0_
+30310_<Main Castle Gate I>_30310_0_0_0_0_
+30311_<Main Castle Gate I Lever>_30311_0_0_0_0_
+30312_<Main Castle Gate II> _30312_0_0_0_0_
+30313_<Main Castle Gate II Lever>_30313_0_0_0_0_
+30314_<2nd Outpost Gate I>_30314_0_0_0_0_
+30315_<2nd Outpost Gate I Lever>_30315_0_0_0_0_
+30316_<2nd Outpost Gate II Gate>_30316_0_0_0_0_
+30317_<2nd Outpost Gate II Lever>_30317_0_0_0_0_
+30318_<Main Castle Gate I>_30318_0_0_0_0_
+30319_<Main Castle Gate I Lever>_30319_0_0_0_0_
+30320_<Main Castle Gate II> _30320_0_0_0_0_
+30321_<Main Castle Gate II Lever>_30321_0_0_0_0_
+30322_<2nd Outpost Gate I>_30322_0_0_0_0_
+30323_<2nd Outpost Gate I Lever>_30323_0_0_0_0_
+30324_<2nd Outpost Gate II Gate>_30324_0_0_0_0_
+30325_<2nd Outpost Gate II Lever>_30325_0_0_0_0_
+30326_<Breakeable Wall>_30326_0_0_0_0_
+30327_<Breakeable Wall>_30327_0_0_0_0_
+30328_<Breakeable Wall>_30328_0_0_0_0_
+30329_<Breakeable Wall>_30329_0_0_0_0_
+30330_<Breakeable Wall>_30330_0_0_0_0_
+30331_<Breakeable Wall>_30331_0_0_0_0_
+30332_<Breakeable Wall>_30332_0_0_0_0_
+30333_<Breakeable Wall>_30333_0_0_0_0_
+30334_<Tower of Power>_5846_0_0_0_0_
+30335_<Tower of Power>_5846_0_0_0_0_
+30336_<Tower of Power>_5846_0_0_0_0_
+30337_<Tower of Power>_5846_0_0_0_0_
+30338_<Tower of Shield>_5846_0_0_0_0_
+30339_<Tower of Shield>_5846_0_0_0_0_
+30340_<Tower of Shield>_5846_0_0_0_0_
+30341_<Tower of Shield>_5846_0_0_0_0_
+30342_<Patrol Captain>_11610_0_0_0_0_
+30343_<Patrol Captain>_21610_0_0_0_0_
+30350_<Thorn Trap>_30056_0_0_0_0_
+30351_<Thorn Trap>_30056_0_0_0_0_
+30352_[Supply Officer] Amy_11100_200041_200042_0_0_
+30353_[Supply Officer] Deneero_11100_200041_200042_0_0_
+30354_[Sundries] Yasval_12200_200158_200159_0_0_
+30355_[Weapon Merchant] Pallus_12200_200144_200145_0_0_
+30356_[Warrior Armor Merchant] Tyroon_12100_200148_200149_0_0_
+30357_[Sundries] Veron_22200_200160_200161_0_0_
+30358_[Weapon Merchant] Mori_22200_200146_200147_0_0_
+30359_[Warrior Armor Merchant] Cubense_22100_200150_200151_0_0_
+30360_[Sundries] Zarta_12100_200031_200032_0_0_
+30361_[Weapon Merchant] Gargameth_31400_200015_200016_0_0_
+30362_[Warrior Armor Merchant] Hesta_12200_200019_200020_0_0_
+30363_[Sundries] Ardin_22100_200224_200225_0_0_
+30364_[Sundries] Halber_12100_200220_200221_0_0_
+30365_[Accessory Merchant] Hera_31200_200027_200028_0_0_
+30370_<Karus Teleport Gate>_30073_0_0_0_0_
+30371_<El Morad Teleport Gate>_30072_0_0_0_0_
+30372_<Karus Catapult>_30111_0_0_0_0_
+30373_<El Morad Catapult>_30011_0_0_0_0_
+30374_<Karus Battering Ram>_30040_0_0_0_0_
+30375_<El Morad Battering Ram>_30040_0_0_0_0_
+30376_<7th Anniversary Cake>_30057_0_0_0_0_
+30377_[Rogue Armor Merchant] Hesta_12200_200019_200020_0_0_
+30378_[Wizard Armor Merchant] Hesta_12200_200019_200020_0_0_
+30379_[Priest Armor Merchant] Hesta_12200_200019_200020_0_0_
+30380_[Rogue Armor Merchant] Cubense_22100_200150_200151_0_0_
+30381_[Rogue Armor Merchant] Cubense_22100_200150_200151_0_0_
+30382_[Priest Armor Merchant] Cubense_22100_200150_200151_0_0_
+30383_[Rogue Armor Merchant] Tyroon_12100_200148_200149_0_0_
+30384_[Wizard Armor Merchant] Tyroon_12100_200148_200149_0_0_
+30385_[Priest Armor Merchant] Tyroon_12100_200148_200149_0_0_
+30386_[World Championship NPC]_21610_12200_200019_200020_0_
+30387_[World Championship NPC]_11610_12200_200019_200020_0_
+30388_[Munitions Officer] Perenz_21610_12200_200019_200020_0_
+30389_[Munitions Officer] Baerz_11610_12200_200019_200020_0_
+30390_<Tower of Power>_5846_0_0_0_0_
+30391_[Karus Spy]_21003_0_0_0_0_
+30392_[Karus Spy]_21003_0_0_0_0_
+30393_[Karus Spy]_21003_0_0_0_0_
+30394_[Karus Spy]_21003_0_0_0_0_
+30395_[El Morad Spy]_11003_0_0_0_0_
+30396_[El Morad Spy]_11003_0_0_0_0_
+30397_[El Morad Spy]_11003_0_0_0_0_
+30398_[El Morad Spy]_11003_0_0_0_0_
+30400_<Rockslide>_30085_0_0_0_0_
+30401_<Rockslide>_30085_0_0_0_0_
+30402_<Rockslide>_30085_0_0_0_0_
+30403_<Rockslide>_30085_0_0_0_0_
+30404_<Rockslide>_30085_0_0_0_0_
+30405_<Rockslide>_30085_0_0_0_0_
+30406_<Rockslide>_30085_0_0_0_0_
+30407_<Rockslide>_30085_0_0_0_0_
+30408_<Rockslide>_30085_0_0_0_0_
+30409_<Rockslide>_30085_0_0_0_0_
+30410_<Rockslide>_30085_0_0_0_0_
+30411_<Rockslide>_30085_0_0_0_0_
+30412_<Rockslide>_30085_0_0_0_0_
+30413_<Rockslide>_30085_0_0_0_0_
+30414_<Rockslide>_30085_0_0_0_0_
+30415_<Rockslide>_30085_0_0_0_0_
+30416_<Rockslide>_30085_0_0_0_0_
+30417_<Rockslide>_30085_0_0_0_0_
+30418_<Rockslide>_30085_0_0_0_0_
+30419_<Rockslide>_30085_0_0_0_0_
+30420_<Rockslide>_30085_0_0_0_0_
+30421_<Rockslide>_30085_0_0_0_0_
+30422_<Rockslide>_30085_0_0_0_0_
+30423_<Rockslide>_30085_0_0_0_0_
+30424_<Rockslide>_30085_0_0_0_0_
+30425_<Rockslide>_30085_0_0_0_0_
+30426_<Rockslide>_30085_0_0_0_0_
+30427_<Rockslide>_30085_0_0_0_0_
+30428_<Rockslide>_30085_0_0_0_0_
+30429_<Rockslide>_30085_0_0_0_0_
+30430_<Rockslide>_30085_0_0_0_0_
+30431_<Rockslide>_30085_0_0_0_0_
+30432_<Rockslide>_30085_0_0_0_0_
+30433_<Rockslide>_30085_0_0_0_0_
+30434_<Rockslide>_30085_0_0_0_0_
+30450_<Rockslide Lever>_30450_0_0_0_0_
+30451_<Rockslide Lever>_30451_0_0_0_0_
+30452_<Rockslide Lever>_30452_0_0_0_0_
+30453_<Rockslide Lever>_30453_0_0_0_0_
+30454_<Rockslide Lever>_30454_0_0_0_0_
+30455_<Rockslide Lever>_30455_0_0_0_0_
+30456_<Rockslide Lever>_30456_0_0_0_0_
+30457_<Rockslide Lever>_30457_0_0_0_0_
+30458_<Rockslide Lever>_30458_0_0_0_0_
+30459_<Rockslide Lever>_30459_0_0_0_0_
+30460_<Rockslide Lever>_30460_0_0_0_0_
+30461_<Rockslide Lever>_30461_0_0_0_0_
+30462_<Rockslide Lever>_30462_0_0_0_0_
+30463_<Rockslide Lever>_30463_0_0_0_0_
+30464_<Rockslide Lever>_30464_0_0_0_0_
+30465_<Rockslide Lever>_30465_0_0_0_0_
+30466_<Rockslide Lever>_30466_0_0_0_0_
+30467_<Rockslide Lever>_30467_0_0_0_0_
+30468_<Rockslide Lever>_30468_0_0_0_0_
+30469_<Rockslide Lever>_30469_0_0_0_0_
+30470_<Rockslide Lever>_30470_0_0_0_0_
+30471_<Rockslide Lever>_30471_0_0_0_0_
+30472_<Rockslide Lever>_30472_0_0_0_0_
+30473_<Rockslide Lever>_30473_0_0_0_0_
+30474_<Rockslide Lever>_30474_0_0_0_0_
+30475_<Rockslide Lever>_30475_0_0_0_0_
+30476_<Rockslide Lever>_30476_0_0_0_0_
+30477_<Rockslide Lever>_30477_0_0_0_0_
+30478_<Rockslide Lever>_30478_0_0_0_0_
+30479_<Rockslide Lever>_30479_0_0_0_0_
+30480_<Rockslide Lever>_30480_0_0_0_0_
+30481_<Rockslide Lever>_30481_0_0_0_0_
+30482_<Rockslide Lever>_30482_0_0_0_0_
+30483_<Rockslide Lever>_30483_0_0_0_0_
+30484_<Rockslide Lever>_30484_0_0_0_0_
+30667_<7th Anniversary Cake>_30058_0_0_0_0_
+31005_[Dragon Tribe Fugitive] Moonsailor_2020_0_0_0_0_
+31006_[Ancient Anthropologist] Masi_22000_0_0_0_0_
+31101_<Object Coffin>_31101_0_0_0_0_
+31102_<Coffin of Benshar>_5809_0_0_0_0_
+31400_[Reconnaissance Officer] Teakta_21510_0_0_0_0_
+31401_[Reconnaissance Officer] Imo_11100_0_0_0_0_
+31402_[Jeweller] Juel_5853_0_0_0_0_
+31403_<Guard Tower>_5301_0_0_0_0_
+31404_<Guard Tower>_5301_0_0_0_0_
+31405_<Guard Tower>_5401_0_0_0_0_
+31406_<Guard Tower>_5401_0_0_0_0_
+31501_<Happy Snowman>_2704_0_0_0_0_
+31502_<Happy Snowman>_2704_0_0_0_0_
+31503_[Secretary to the King] Bell_5853_0_0_0_0_
+31504_[Secretary to the King] Reed_5853_0_0_0_0_
+31505_[Royal National Enchanter]_19005_0_0_0_0_
+31506_[Lunar Lady] Magpie_5875_0_0_0_0_
+31507_[Royal National Enchanter]_19005_0_0_0_0_
+31508_[Royal National Enchanter]_19005_0_0_0_0_
+31509_<Jorgeu>_22200_0_0_0_0_
+31510_[Chocolatier] Kakao_30700_200116_200117_200118_200119_
+31511_[Miner] Jaro_31100_0_0_0_0_
+31512_[Royal National Enchanter]_19005_0_0_0_0_
+31514_[Monster Strategist]_30900_0_0_0_0_
+31515_<Fled Slave>_22200_0_0_0_0_
+31516_<Hero who lost Both Eyes>_22200_0_0_0_0_
+31517_[Ashes of the Hero]_5849_0_0_0_0_
+31518_<Valley Surveillance Scout>_21000_0_0_0_0_
+31519_<Fled Slave>_26002_0_0_0_0_
+31520_<Hero who lost Both Eyes>_26002_0_0_0_0_
+31521_[Ashes of the Hero]_5849_0_0_0_0_
+31522_<Valley Surveillance Scout>_11000_0_0_0_0_
+31524_[Mysterious] Narki_31400_0_0_0_0_
+31525_[Makeup Artist] Kelly_30700_200116_200117_200118_200119_
+31526_[White Shadow Captain] Osiris_11100_0_0_0_0_
+31527_<Chaos Cube>_32008_0_0_0_0_
+31528_<Chaos Cube>_32008_0_0_0_0_
+31529_<Chaos Cube>_32008_0_0_0_0_
+31530_<Chaos Cube>_32008_0_0_0_0_
+31550_[Goblin Punitive Force] Raul_21610_0_0_0_0_
+31551_[Goblin Punitive Force] Wells_11610_0_0_0_0_
+31552_[Goblin Iron Pot]_14007_0_0_0_0_
+31553_[Goblin Food Supply]_14008_0_0_0_0_
+31554_[Goblin Well]_14009_0_0_0_0_
+31555_[Captain] Redin_12200_0_0_0_0_
+31556_[Captain] Pasha_22200_0_0_0_0_
+31557_[Sailor] Hein_12100_0_0_0_0_
+31558_[Sailor] Hayes_22100_0_0_0_0_
+31559_[Sailor] Kidd_12100_0_0_0_0_
+31560_[Sailor] Armada_26004_0_0_0_0_
+31561_[Hunter] Halon_12100_0_0_0_0_
+31562_[Hunter] Jarg_22100_0_0_0_0_
+31563_[Importer] Ellen_12100_0_0_0_0_
+31564_[Importer] Drill_22100_0_0_0_0_
+31565_[Item Appraiser] Disney_30500_0_0_0_0_
+31566_[Item Appraiser] Rakkuss_22000_0_0_0_0_
+31567_[Order of the Sorcery Leader] Pelore_11100_0_0_0_0_
+31568_[Order of the Sorcery Leader] Malraseu_11100_0_0_0_0_
+31569_[Order of the Sorcery] Reisa_19005_0_0_0_0_
+31570_[Order of the Sorcery] Cesar_30900_0_0_0_0_
+31571_[Senior Researcher] Aldos_25240_0_0_0_0_
+31572_[Senior Researcher] Gaz_30900_0_0_0_0_
+31573_[Punitive Force Staff] Berg_22000_0_0_0_0_
+31574_[Punitive Force Staff] Grey_30500_0_0_0_0_
+31600_<Treasure Chest>_30303_0_0_0_0_
+31601_<Treasure Chest>_30303_0_0_0_0_
+31602_<Treasure Chest>_30303_0_0_0_0_
+31603_<Treasure Chest>_30303_0_0_0_0_
+31604_<Treasure Chest>_30303_0_0_0_0_
+31610_<Treasure Chest>_30303_0_0_0_0_
+31611_<Treasure Chest>_30303_0_0_0_0_
+31612_<Treasure Chest>_30303_0_0_0_0_
+31613_<Treasure Chest>_30303_0_0_0_0_
+31614_<Treasure Chest>_30303_0_0_0_0_
+31615_<Treasure Chest>_30303_0_0_0_0_
+31616_<Treasure Chest>_30303_0_0_0_0_
+31617_<Treasure Chest>_30303_0_0_0_0_
+31618_<Treasure Chest>_30303_0_0_0_0_
+31619_<Treasure Chest>_30303_0_0_0_0_
+31620_<Treasure Chest>_30303_0_0_0_0_
+31621_<Treasure Chest>_30303_0_0_0_0_
+31622_<Treasure Chest>_30303_0_0_0_0_
+31623_<Treasure Chest>_30303_0_0_0_0_
+31624_<Treasure Chest>_30303_0_0_0_0_
+31625_<Treasure Chest>_30303_0_0_0_0_
+31626_<Treasure Chest>_30303_0_0_0_0_
+31627_<Treasure Chest>_30303_0_0_0_0_
+31628_<Treasure Chest>_30303_0_0_0_0_
+31629_<Treasure Chest>_30303_0_0_0_0_
+31630_<Treasure Chest>_30303_0_0_0_0_
+31631_<Treasure Chest>_30303_0_0_0_0_
+31632_<Treasure Chest>_30303_0_0_0_0_
+31633_<Treasure Chest>_30303_0_0_0_0_
+31634_<Treasure Chest>_30303_0_0_0_0_
+31635_<Treasure Chest>_30303_0_0_0_0_
+31636_<Treasure Chest>_30303_0_0_0_0_
+31637_<Treasure Chest>_30303_0_0_0_0_
+31638_<Treasure Chest>_30303_0_0_0_0_
+31639_<Treasure Chest>_30303_0_0_0_0_
+31640_<Treasure Chest>_30303_0_0_0_0_
+31641_<Treasure Chest>_30303_0_0_0_0_
+31642_<Treasure Chest>_30303_0_0_0_0_
+31643_<Treasure Chest>_30303_0_0_0_0_
+31644_<Treasure Chest>_30303_0_0_0_0_
+31645_<Treasure Chest>_30303_0_0_0_0_
+31646_<Treasure Chest>_30303_0_0_0_0_
+31647_<Treasure Chest>_30303_0_0_0_0_
+31648_<Treasure Chest>_30303_0_0_0_0_
+31649_<Treasure Chest>_30303_0_0_0_0_
+31650_<Saw Blade>_5815_0_0_0_0_
+31651_<Treasure Chest>_30303_0_0_0_0_
+31652_<Treasure Chest>_30303_0_0_0_0_
+31653_<Treasure Chest>_30303_0_0_0_0_
+31654_<Treasure Chest>_30303_0_0_0_0_
+31655_<Treasure Chest>_30303_0_0_0_0_
+31656_<Treasure Chest>_30303_0_0_0_0_
+31657_<Treasure Chest>_30303_0_0_0_0_
+31658_<Treasure Chest>_30303_0_0_0_0_
+31659_<Treasure Chest>_30303_0_0_0_0_
+31660_<Treasure Chest>_30303_0_0_0_0_
+31661_<Treasure Chest>_30303_0_0_0_0_
+31662_<Treasure Chest>_30303_0_0_0_0_
+31663_<Treasure Chest>_30303_0_0_0_0_
+31664_<Treasure Chest>_30303_0_0_0_0_
+31665_<Treasure Chest>_30303_0_0_0_0_
+31666_[Mercenary]_26002_0_0_0_0_
+31700_[Tactician] Josiah_21510_0_0_0_0_
+31701_[Tactician] Grace_11510_0_0_0_0_
+31702_[High Priest] Majal_25240_0_0_0_0_
+31703_[High Priest] Maia_31300_0_0_0_0_
+32101_<Family Gate>_32101_0_0_0_0_
+32102_<Family Gate I>_32102_0_0_0_0_
+32103_<Family Gate II>_32103_0_0_0_0_
+32104_<The Gate of Blue Key>_32104_0_0_0_0_
+32105_<The Gate of Blue Key>_32105_0_0_0_0_
+32106_<The Gate of Prepared One>_32106_0_0_0_0_
+32107_<The Gate of Blue Key>_32107_0_0_0_0_
+32108_<The Gate of Blue Key>_32108_0_0_0_0_
+32109_<The Gate of Red Key>_32109_0_0_0_0_
+32110_<The Gate of Red Key>_32110_0_0_0_0_
+32111_<The Gate of Blue Key>_32111_0_0_0_0_
+32112_<The Gate of Blue Key>_32112_0_0_0_0_
+32113_<The Gate of Blue Key>_32113_0_0_0_0_
+32114_<The Gate of Blue Key>_32114_0_0_0_0_
+32115_<The Gate of Red Key>_32115_0_0_0_0_
+32116_<The Gate of Prepared One>_32116_0_0_0_0_
+32117_<The Gate of Red Key>_32117_0_0_0_0_
+32118_<The Gate of Prepared One>_32118_0_0_0_0_
+32119_<The Gate of Blue Key>_32119_0_0_0_0_
+32120_<The Gate of Blue Key>_32120_0_0_0_0_
+32121_<The Gate of Blue Key>_32121_0_0_0_0_
+32122_<The Gate of Blue Key>_32122_0_0_0_0_
+32123_<The Gate of Blue Key>_32123_0_0_0_0_
+32124_<The Gate of Red Key>_32124_0_0_0_0_
+32125_<The Gate of Blue Key>_32125_0_0_0_0_
+32126_<The Gate of Blue Key>_32126_0_0_0_0_
+32127_<The Gate of Blue Key>_32127_0_0_0_0_
+32128_<The Gate of Blue Key>_32128_0_0_0_0_
+32129_<The Gate of Prepared One>_32129_0_0_0_0_
+32130_<The Gate of Black Key>_32130_0_0_0_0_
+32131_<The Gate of Black Key>_32131_0_0_0_0_
+32132_<The Gate of Black Key>_32132_0_0_0_0_
+32133_<The Gate of Black Key>_32133_0_0_0_0_
+32134_<The Gate of Black Key>_32134_0_0_0_0_
+32135_<The Gate of Black Key>_32135_0_0_0_0_
+32136_<The Gate of Black Key>_32136_0_0_0_0_
+32137_<The Gate of Black Key>_32137_0_0_0_0_
+32138_<The Gate of Black Key>_32138_0_0_0_0_
+32139_<The Gate of Red Key>_32139_0_0_0_0_
+32140_<The Gate of Blue Key>_32140_0_0_0_0_
+32141_<The Gate of Black Key>_32141_0_0_0_0_
+32142_[White Shadow] Lode_12201_0_0_0_0_
+32152_<Rolling Stone>_5810_0_0_0_0_
+32153_<Saw Blade>_5815_0_0_0_0_
+32180_<The Gate of Benshar>_32180_0_0_0_0_
+32181_<The Gate of Benshar>_32181_0_0_0_0_
+32182_<The Gate of Benshar>_32182_0_0_0_0_
+32199_<1:1 Gate I>_32202_0_0_0_0_
+32200_<1:1 Gate>_32200_0_0_0_0_
+32201_<Poison Gas>_32201_0_0_0_0_
+32202_<Poison Gas>_32202_0_0_0_0_
+32203_<Poison Gas>_32203_0_0_0_0_
+32204_<Poison Gas>_32204_0_0_0_0_
+32205_<Poison Gas>_32205_0_0_0_0_
+32206_<Poison Gas>_32206_0_0_0_0_
+32207_<Poison Gas>_32207_0_0_0_0_
+32208_<Poison Gas>_32208_0_0_0_0_
+32209_<Poison Gas>_32209_0_0_0_0_
+32210_<Poison Gas>_32210_0_0_0_0_
+32211_<Poison Gas>_32211_0_0_0_0_
+32212_<Poison Gas>_32212_0_0_0_0_
+32213_<Poison Gas>_32213_0_0_0_0_
+32214_<Poison Gas>_32214_0_0_0_0_
+32215_<Poison Gas>_32215_0_0_0_0_
+32216_<Poison Gas>_32216_0_0_0_0_
+32217_<Poison Gas>_32217_0_0_0_0_
+32218_<Poison Gas>_32218_0_0_0_0_
+32219_<Poison Gas>_32219_0_0_0_0_
+32220_<Poison Gas>_32220_0_0_0_0_
+32221_<Poison Gas>_32221_0_0_0_0_
+32222_<Poison Gas>_32222_0_0_0_0_
+32223_<Poison Gas>_32223_0_0_0_0_
+32224_<Poison Gas>_32224_0_0_0_0_
+32225_<Poison Gas>_32225_0_0_0_0_
+32226_<Poison Gas>_32226_0_0_0_0_
+32227_<Poison Gas>_32227_0_0_0_0_
+32228_<Poison Gas>_32228_0_0_0_0_
+32229_<Poison Gas>_32229_0_0_0_0_
+32230_<Poison Gas>_32230_0_0_0_0_
+32231_<Poison Gas>_32231_0_0_0_0_
+32232_<Poison Gas>_32232_0_0_0_0_
+32233_<Poison Gas>_32233_0_0_0_0_
+32234_<Poison Gas>_32234_0_0_0_0_
+32235_<Poison Gas>_32235_0_0_0_0_
+32236_<Poison Gas>_32236_0_0_0_0_
+32237_<Poison Gas>_32237_0_0_0_0_
+32238_<Poison Gas>_32238_0_0_0_0_
+32239_<Poison Gas>_32239_0_0_0_0_
+32240_<Poison Gas>_32240_0_0_0_0_
+32241_<Poison Gas>_32241_0_0_0_0_
+32242_<Poison Gas>_32242_0_0_0_0_
+32243_<Poison Gas>_32243_0_0_0_0_
+32244_<Poison Gas>_32244_0_0_0_0_
+32245_<Poison Gas>_32245_0_0_0_0_
+32246_<Poison Gas>_32246_0_0_0_0_
+32247_<Poison Gas>_32247_0_0_0_0_
+32248_<Poison Gas>_32248_0_0_0_0_
+32249_<Poison Gas>_32249_0_0_0_0_
+32250_<Poison Gas>_32250_0_0_0_0_
+32251_<Poison Gas>_32251_0_0_0_0_
+32252_<Poison Gas>_32252_0_0_0_0_
+32253_<Poison Gas>_32253_0_0_0_0_
+32254_<Poison Gas>_32254_0_0_0_0_
+32255_<Poison Gas>_32255_0_0_0_0_
+32256_<Poison Gas>_32256_0_0_0_0_
+32257_<Poison Gas>_32257_0_0_0_0_
+32258_<Poison Gas>_32258_0_0_0_0_
+32259_<Poison Gas>_32259_0_0_0_0_
+32260_<Poison Gas>_32260_0_0_0_0_
+32261_<Poison Gas>_32261_0_0_0_0_
+32262_<Poison Gas>_32262_0_0_0_0_
+32263_<Poison Gas>_32263_0_0_0_0_
+32264_<Poison Gas>_32264_0_0_0_0_
+32265_<Poison Gas>_32265_0_0_0_0_
+32266_<Poison Gas>_32266_0_0_0_0_
+32267_<Poison Gas>_32267_0_0_0_0_
+32268_<Poison Gas>_32268_0_0_0_0_
+32269_<Poison Gas>_32269_0_0_0_0_
+32270_<Poison Gas>_32270_0_0_0_0_
+32271_<Poison Gas>_32271_0_0_0_0_
+32272_<Poison Gas>_32272_0_0_0_0_
+32273_<Poison Gas>_32273_0_0_0_0_
+32274_<Poison Gas>_32274_0_0_0_0_
+32275_<Poison Gas>_32275_0_0_0_0_
+32276_<Poison Gas>_32276_0_0_0_0_
+32277_<Poison Gas>_32277_0_0_0_0_
+32278_<Poison Gas>_32278_0_0_0_0_
+32279_<Poison Gas>_32279_0_0_0_0_
+32280_[Portion Merchant] Sonyador_25240_0_0_0_0_
+32281_[Potion Merchant] Ninomaxi_31300_0_0_0_0_
+32285_[White Shadow] Rider_11100_0_0_0_0_
+32286_[White Shadow] Garsha_21510_0_0_0_0_
+32287_[White Shadow] Garcia_2050_0_0_0_0_
+32288_[White Shadow] Treasure_11100_0_0_0_0_
+32289_[White Shadow] Rider_11100_0_0_0_0_
+32301_<Family Interlock Gate>_32301_0_0_0_0_
+32302_<Family Interlock Gate I>_32302_0_0_0_0_
+32303_<Family Interlock Gate II>_32303_0_0_0_0_
+32401_<The Gate of Class>_32401_0_0_0_0_
+32402_<The Gate of Warrior>_32402_0_0_0_0_
+32403_<The Gate of Rogue>_32403_0_0_0_0_
+32404_<The Gate of Magician>_32404_0_0_0_0_
+32405_<The Gate of Priest>_32405_0_0_0_0_
+32500_[The Overlord] Krowaz_5813_0_0_0_0_
+32501_[The Overlord] Giga Hammer_5811_0_0_0_0_
+32502_[The Overlord] Cuff Binder_5816_0_0_0_0_
+32503_<Legendary Treasure Chest>_30302_0_0_0_0_
+32504_<Legendary Treasure Chest>_30302_0_0_0_0_
+32505_<Legendary Treasure Chest>_30302_0_0_0_0_
+32506_[The Overlord] Krowaz_5813_0_0_0_0_
+32507_[The Overlord] Giga Hammer_5811_0_0_0_0_
+32508_[The Overlord] Cuff Binder_5816_0_0_0_0_
+32509_[Custodian of Lost Items]_12200_0_0_0_0_
+32510_[El Morad Base Guard]_11610_0_0_0_0_
+32511_<El Morad Garrison Solider>_11000_0_0_0_0_
+32512_<El Morad Patroller>_11000_0_0_0_0_
+32520_[Karus Base Guard]_21610_0_0_0_0_
+32521_<Karus Garrison Solider>_21000_0_0_0_0_
+32522_<Karus Patroller>_21000_0_0_0_0_
+32523_<Gatekeeper>_11710_0_0_0_0_
+32524_<Gatekeeper>_21710_0_0_0_0_
+32525_<Garrison I Captain>_11810_0_0_0_0_
+32526_<Garrison II Captain>_11810_0_0_0_0_
+32527_<Garrison I Captain>_21810_0_0_0_0_
+32528_<Garrison II Captain>_21810_0_0_0_0_
+32529_<Cursed Snowman Lord>_2707_0_0_0_0_
+32530_[Beautiful Santa] Parfait_5829_0_0_0_0_
+32531_[Base Advance Guard] Krujed_21510_0_0_0_0_
+32532_[Base Advance Guard] Crable_11100_0_0_0_0_
+32533_[Sorcerer] Kasiello_30900_0_0_0_0_
+32534_[Sorcerer] Aragona_19005_0_0_0_0_
+32550_<El Morad Secret Archive>_5854_0_0_0_0_
+32551_<El Morad Secret Archive>_5854_0_0_0_0_
+32552_<El Morad Secret Archive>_5854_0_0_0_0_
+32553_<Karus Secret Archive>_5855_0_0_0_0_
+32554_<Karus Secret Archive>_5855_0_0_0_0_
+32555_<Karus Secret Archive>_5855_0_0_0_0_
+32556_[Corpse of Brave Warrior]_5849_0_0_0_0_
+32557_[Analyst] Caesar_21510_0_0_0_0_
+32558_[Analyst] Julius_11100_0_0_0_0_
+32559_[Event] Yoot_22200_0_0_0_0_
+32560_[Enlightened] Wise Man_5830_0_0_0_0_
+32561_[Chocolatier] Kakao_2040_0_0_0_0_
+32562_[Chocolatier] Valence_31000_0_0_0_0_
+32563_[Entrepot Trader] Siders_12100_0_0_0_0_
+32564_<Lost Diary>_5833_0_0_0_0_
+32565_<Guard Tower>_5834_0_0_0_0_
+32566_<Guard Tower>_5834_0_0_0_0_
+32567_<Guard Tower>_5835_0_0_0_0_
+32568_<Guard Tower>_5835_0_0_0_0_
+32569_<Secret Archive>_5855_0_0_0_0_
+32570_<El Morad Altar of Origin>_5856_0_0_0_0_
+32571_<Karus Altar of Origin>_5857_0_0_0_0_
+32572_[Potion Merchant] Amore_31300_0_0_0_0_
+32573_[Sundries] Gunns_22100_200158_200159_0_0_
+32574_[Rental] Helard_2050_200014_0_0_0_
+32575_[Rental] Helard_2050_200014_0_0_0_
+32576_<Ardream Monument>_14005_0_0_0_0_
+32577_<Ronark Base Monument>_14005_0_0_0_0_
+32578_<Ronarkland Monument>_14005_0_0_0_0_
+32579_<Ardream Karus Monument>_14003_0_0_0_0_
+32580_<Ardream El Morad Monument>_14004_0_0_0_0_
+32581_<Base Karus Monument>_14003_0_0_0_0_
+32582_<Base El Morad Monument>_14004_0_0_0_0_
+32583_<Ronarkland Karus Monument>_14003_0_0_0_0_
+32584_<Ronarkland El Morad Monument>_14004_0_0_0_0_
+32585_[White Shadow] Chaser_11100_0_0_0_0_
+32586_[White Shadow] Patroller Marin_11100_0_0_0_0_
+32587_[White Shadow] Patroller Marvin_11100_0_0_0_0_
+32588_[White Shadow] Patroller Marble_11100_0_0_0_0_
+32589_[White Shadow] Patroller Mark_11100_0_0_0_0_
+32590_[White Shadow] Partroller Martin_11100_0_0_0_0_
+32600_[Karus Spy]_21003_0_0_0_0_
+32601_[Karus Spy]_21003_0_0_0_0_
+32602_[Karus Spy]_21003_0_0_0_0_
+32603_[Karus Spy]_21003_0_0_0_0_
+32604_[El Morad Spy]_11003_0_0_0_0_
+32605_[El Morad Spy]_11003_0_0_0_0_
+32606_[El Morad Spy]_11003_0_0_0_0_
+32607_[El Morad Spy]_11003_0_0_0_0_
+32608_<Karus Secret Archive>_30301_0_0_0_0_
+32609_<El Morad Secret Archive>_30301_0_0_0_0_
+32610_<Ardream Information Archive>_30301_0_0_0_0_
+32611_<Ardream Information Archive>_30301_0_0_0_0_
+32612_<Ronark Base Information Archive>_30301_0_0_0_0_
+32613_<Ronark Base Information Archive>_30301_0_0_0_0_
+32614_<Ronarkland Information Archive>_30301_0_0_0_0_
+32615_<Ronarkland Information Archive>_30301_0_0_0_0_
+32700_[Supply Officer] Karlson_21610_12200_200019_200020_0_
+32701_<Karus Guard Tower>_30311_0_0_0_0_
+32750_[Supply Officer] Walter_11610_12200_200019_200020_0_
+32751_<El Morad Guard Tower>_30211_0_0_0_0_
+29122_<Carlos>_12100_0_0_0_0_
+29123_<Carlos>_22100_0_0_0_0_
+29124_<Carloe>_22000_0_0_0_0_
+29125_<Carloe>_12200_0_0_0_0_
+29126_<Guard>_11000_0_0_0_0_
+29127_<Guard>_21610_0_0_0_0_
+29128_<Carloe>_12200_0_0_0_0_
+29129_<Carloe>_22000_0_0_0_0_
+29130_<Carloe>_12200_0_0_0_0_
+29131_<Carloe>_12200_0_0_0_0_
+29132_<Carloe>_12200_0_0_0_0_
+29133_<Carloe>_22000_0_0_0_0_
+29134_<Carloe>_22000_0_0_0_0_
+29135_<Carloe>_22000_0_0_0_0_
+29136_<Victory Gate>_30100_0_0_0_0_
+29137_<Victory Gate>_30100_0_0_0_0_
+29138_[World Cup Manager] Keepa_31600_0_0_0_0_
+29139_Boss Mode Entrance [Karus]_11100_0_0_0_0_
+29140_Boss Mode Entrance [El Morad]_11100_0_0_0_0_
+29141_[Promotion] Vips_31000_0_0_0_0_
+29142_[Exchange] Anniversary_31106_0_0_0_0_
+29143_<Party Hat>_31112_0_0_0_0_
+29144_<Party Hat>_31112_0_0_0_0_
+29145_<Party Hat>_31112_0_0_0_0_
+29146_<Party Hat>_31112_0_0_0_0_
+29147_<Party Hat>_31112_0_0_0_0_
+29148_<Party Hat>_31112_0_0_0_0_
+29149_<Party Hat>_31112_0_0_0_0_
+29150_<Party Hat>_31112_0_0_0_0_
+29151_<Party Hat>_31112_0_0_0_0_
+29152_[PVP] Reward Noah_30900_200033_200034_0_0_
+29153_<Anniversary Celebration Cake>_31114_0_0_0_0_
+29154_[Eslant Wanderer] Leader_31900_200000_200001_0_0_
+29155_[Eslant Wanderer] Sundries_30900_200033_200034_0_0_
+29156_[Eslant Wanderer] Fortune Teller_19005_0_0_0_0_
+29157_[King of Fishing] Gong_12200_0_0_0_0_
+29159_[Eslant Wanderer] Ranger_11000_0_0_0_0_
+29160_[Eslant Wanderer] Mercenary _26002_0_0_0_0_
+29161_[Joint Guard] Snebeker_2040_1_1_1_1_
+29162_[Collector] Sonya_2040_2_2_2_2_
+29163_[Sid's Father]_22100_3_3_3_3_
+29164_[Sid's Uncle]_22200_4_4_4_4_
+29165_[Sid's Brother]_21610_5_5_5_5_
+29166_[Sid's Mother]_30700_6_6_6_6_
+29167_[Max's Father]_12100_7_7_7_7_
+29168_[Max's Uncle]_11610_8_8_8_8_
+29169_[Max's Brother]_2050_9_9_9_9_
+29170_[Max's Mother]_30700_10_10_10_10_
+29171_[Blue Dragon]_31122_0_0_0_0_
+29172_[White Tiger]_31138_0_0_0_0_
+29173_[Black Tortoise]_31129_0_0_0_0_
+29174_[Black Tortoise]_31148_0_0_0_0_
+29177_[Red Phoenix]_31130_0_0_0_0_
+29178_[Red Phoenix]_31149_0_0_0_0_
+29180_[Jack O Lantern]_31163_0_0_0_0_
+29181_[Ghost Chef]_31159_0_0_0_0_
+29182_[Teaching of Black Tortoise]_31127_0_0_0_0_
+29183_[Advice of Black Tortoise]_31128_0_0_0_0_
+29184_[Knowledge of Black Tortoise]_31130_0_0_0_0_
+29185_[Teaching of Black Tortoise]_31145_0_0_0_0_
+29186_[Advice of Black Tortoise]_31146_0_0_0_0_
+29187_[Knowledge of Black Tortoise]_31147_0_0_0_0_
+29188_<Linguist>_30500_0_0_0_0_
+29189_[Breaker] Narche_5901_0_0_0_0_
+29190_[Twilight Observer] Eyre_32016_0_0_0_0_
+29191_<Santa Claus>_31166_0_0_0_0_
+29192_<Rudolph>_31165_0_0_0_0_
+29193_[Twilight Observer] Dolkin_20521_0_0_0_0_
+29194_[Twilight Observer] Balmanfae_20520_0_0_0_0_
+29195_[Twilight Observer] Species_20522_0_0_0_0_
+29196_[Twilight Observer] Isaac_20523_0_0_0_0_
+29197_[Twilight Knight Guard] Martin_32016_0_0_0_0_
+29198_[Spell Controller]_32016_0_0_0_0_
+29199_[Twilight Observer] Sameya_32016_0_0_0_0_
+29200_[Test] Weapon_32016_0_0_0_0_
+29201_[Test] Armor_32016_0_0_0_0_
+29202_[Test] Weapon Upgrade_32016_0_0_0_0_
+29203_[Test] Armor Upgrade 1_32016_0_0_0_0_
+29204_[Test] ETC_32016_0_0_0_0_
+29205_[Test] Armor Upgrade 2_32016_0_0_0_0_
+29206_[Twilight Supplier] Repairman_31400_0_0_0_0_
+29207_[Twilight Supplier] Potion Merchant_32037_0_0_0_0_
+29208_[Evil Concentration]_20530_0_0_0_0_
+29209_<Cogwheel>_20531_0_0_0_0_
+29210_<Cogwheel I>_20531_0_0_0_0_
+29211_<Cogwheel II>_20531_0_0_0_0_
+29212_[Karus Deployment Troop]_31147_0_0_0_0_
+29213_[El Morad Deployment Troop]_31122_0_0_0_0_
+29214_[Single for 32 Years] Janne_31200_0_0_0_0_
+29215_<Dorothy>_31122_0_0_0_0_
+29216_ŒŒ«Œ?Ò…³ _20571_0_0_0_0_
+29217_#N/A_20572_0_0_0_0_
+29230_[Peddler] Lode_32037_0_0_0_0_
+29231_<Garrison Captain I>_30600_200002_200003_0_0_
+29232_<Garrison Captain II>_30600_200002_200003_0_0_
+29233_<Garrison Captain III>_30600_200002_200003_0_0_
+29234_<Repurchase Merchant>_32037_200002_200003_0_0_
+29235_[VIP Manager] Juliane_20571_200002_200003_0_0_
+29444_[Mercenary Manager] Bulfinch_31600_200029_200030_0_0_
+29445_<Bela>_2060_200098_200099_0_0_
+29446_<Rudolph>_31165_0_0_0_0_
+29447_<Boatman>_32036_0_0_0_0_
+29448_<Boatman>_32036_0_0_0_0_
+29449_<Boatman>_32036_0_0_0_0_
+29450_<Boatman>_32036_0_0_0_0_
+29451_<Boatman>_32036_0_0_0_0_
+29452_<Boatman>_32036_0_0_0_0_
+29453_<Boatman>_32036_0_0_0_0_
+29454_<Boatman>_32036_0_0_0_0_
+29455_<Boatman>_32036_0_0_0_0_
+29456_<Boatman>_32036_0_0_0_0_
+29457_<Boatman>_32036_0_0_0_0_
+29458_<Boatman>_32036_0_0_0_0_
+29459_<Boatman>_32036_0_0_0_0_
+29460_<Boatman>_32036_0_0_0_0_
+29461_<Boatman>_32036_0_0_0_0_
+29462_<Boatman>_32036_0_0_0_0_
+29463_<Suspicious Merchant>_32037_0_0_0_0_
+29464_<Monument>_14005_0_0_0_0_
+29465_<Monument>_14003_0_0_0_0_
+29466_<Monument>_14004_0_0_0_0_
+29467_<Monument>_14005_0_0_0_0_
+29468_<Monument>_14003_0_0_0_0_
+29469_<Monument>_14004_0_0_0_0_
+29470_<Monument>_14005_0_0_0_0_
+29471_<Monument>_14003_0_0_0_0_
+29472_<Monument>_14004_0_0_0_0_
+29491_<Karus Melee>_20500_0_0_0_0_
+29492_<Karus Range>_20502_0_0_0_0_
+29493_<El Morad Melee>_20503_0_0_0_0_
+29494_<El Morad Range>_20514_0_0_0_0_
+29495_<Karus Guardian>_20509_0_0_0_0_
+29496_<El Morad Guadian>_20501_0_0_0_0_
+29497_<Warrior Spirit with Grudge>_32051_0_0_0_0_
+29498_<Spy>_31103_0_0_0_0_
+29499_<Spy>_31104_0_0_0_0_
+29500_<Center Mounment>_14005_0_0_0_0_
+29501_<Karus Melee>_20500_0_0_0_0_
+29502_<Karus Range>_20502_0_0_0_0_
+29503_<El Morad Melee>_20503_0_0_0_0_
+29504_<El Morad Range>_20514_0_0_0_0_
+29505_[Potion Merchant] Amore_2050_0_0_0_0_
+29506_[Sundries] Gunns_2050_200158_200159_0_0_
+29507_[Weapon Merchant]_31400_0_0_0_0_
+29508_[Warrior Armor Merchant]_30600_0_0_0_0_
+29509_[Rogue Armor Merchant]_2050_0_0_0_0_
+29510_[Wizard Armor Merchant]_21510_0_0_0_0_
+29511_[Priest Armor Merchant]_2060_0_0_0_0_
+29512_[Accessory Merchant]_31200_0_0_0_0_
+29513_[Sundries]_12100_0_0_0_0_
+29514_[Scroll Merchant]_19005_0_0_0_0_
+29515_[Premium Merchant]_30700_0_0_0_0_
+29516_Arena Monument_14005_0_0_0_0_
+29517_<Karus Supply Merchant>_32053_0_0_0_0_
+29518_<El Morad Supply Merchant>_32053_0_0_0_0_
+25000_[Kurian] Potrang_28000_0_0_0_0_
+25001_[Warrior] Jed_31122_0_0_0_0_
+25002_[Researcher] Sharine_31300_0_0_0_0_
+25003_[Grand Elder] Morbor_28003_0_0_0_0_
+25004_<Mercury>_28004_0_0_0_0_
+25005_<Earth>_28005_0_0_0_0_
+25006_<Uranos>_28006_0_0_0_0_
+25007_<Suspicious Chest>_30300_0_0_0_0_
+25008_<Suspicious Chest>_30300_0_0_0_0_
+25009_<Suspicious Chest>_30300_0_0_0_0_
+25010_<Suspicious Chest>_30300_0_0_0_0_
+25011_<Contaminated Warrior>_5849_0_0_0_0_
+25012_<Slave of Marsil>_26005_0_0_0_0_
+25013_<Slave of Bathin>_26002_0_0_0_0_
+25014_<Slave of Garlong>_12200_0_0_0_0_
+25015_<Enslaved Portu>_25000_0_0_0_0_
+25016_<Captured Portu>_25000_0_0_0_0_
+25017_[Grand Elder] Atlas_28003_0_0_0_0_
+25018_<Saturn>_28004_0_0_0_0_
+25019_<Mars>_28005_0_0_0_0_
+25020_<Pluto>_28006_0_0_0_0_
+25021_<Amelie>_30700_0_0_0_0_
+25022_<Black Marketer>_2100_0_0_0_0_
+25023_<Experimental Worm>_700_0_0_0_0_
+25024_<East Black Magic Tower>_14005_0_0_0_0_
+25025_<West Black Magic Tower>_14005_0_0_0_0_
+25026_<South Black Magic Tower>_14005_0_0_0_0_
+25027_<North Black Magic Tower>_14005_0_0_0_0_
+25028_<Amelie's Corpse>_5849_0_0_0_0_
+25029_<Stack of Straws>_5849_0_0_0_0_
+25030_<Slave of Marsil>_26005_0_0_0_0_
+25031_<Slave of Marsil>_26005_0_0_0_0_
+25032_<Slave of Marsil>_26005_0_0_0_0_
+25033_<Slave of Bathin>_26002_0_0_0_0_
+25034_<Slave of Bathin>_26002_0_0_0_0_
+25035_<Slave of Bathin>_26002_0_0_0_0_
+25036_<Slave of Garlong>_12200_0_0_0_0_
+25037_<Slave of Garlong>_12200_0_0_0_0_
+25038_<Slave of Garlong>_12200_0_0_0_0_
+25039_<Enslaved Portu>_25000_0_0_0_0_
+25040_<Enslaved Portu>_25000_0_0_0_0_
+25041_<Enslaved Portu>_25000_0_0_0_0_
+25042_<Captured Portu>_25000_0_0_0_0_
+25043_<Captured Portu>_25000_0_0_0_0_
+25044_<Captured Portu>_25000_0_0_0_0_
+25045_<Contaminated Amelie>_30700_0_0_0_0_
+25046_<Amelie's Soil>_32041_0_0_0_0_
+25047_<Experimental Worm>_700_0_0_0_0_
+25048_<Experimental Worm>_700_0_0_0_0_
+25049_<Experimental Worm>_700_0_0_0_0_
+25050_<Experimental Worm>_700_0_0_0_0_
+25051_<Karus Refugee>_26004_0_0_0_0_
+25052_<Karus Refugee>_26005_0_0_0_0_
+25053_<Karus Refugee>_26007_0_0_0_0_
+25054_<Karus Refugee>_26004_0_0_0_0_
+25055_<Contaminated Karus Refugee>_26004_0_0_0_0_
+25056_<Contaminated Karus Refugee>_26005_0_0_0_0_
+25057_<Contaminated Karus Refugee>_26007_0_0_0_0_
+25058_<El Morad Refugee>_26001_0_0_0_0_
+25059_<El Morad Refugee>_26002_0_0_0_0_
+25060_<El Morad Refugee>_26003_0_0_0_0_
+25061_<El Morad Refugee>_26002_0_0_0_0_
+25062_<Contaminated El Morad Refugee>_26001_0_0_0_0_
+25063_<Contaminated El Morad Refugee>_26002_0_0_0_0_
+25064_<Contaminated El Morad Refugee>_26003_0_0_0_0_
+25065_<Leia>_5853_0_0_0_0_
+25066_<Fina>_11100_0_0_0_0_
+25067_<Sara>_31200_0_0_0_0_
+25068_<Altar of El Morad>_28011_0_0_0_0_
+25069_ _28009_0_0_0_0_
+25070_ _28012_0_0_0_0_
+25071_ _28010_0_0_0_0_
+25072_<Sadi>_30800_0_0_0_0_
+25073_<Margaret>_2060_0_0_0_0_
+25075_<Prison>_28013_0_0_0_0_
+25076_<Prison>_28013_0_0_0_0_
+25077_<Prison>_28013_0_0_0_0_
+25078_<Prison>_28013_0_0_0_0_
+25079_<Prison>_28013_0_0_0_0_
+25080_<Prison>_28013_0_0_0_0_
+25081_<Prison>_28013_0_0_0_0_
+25082_<Prison>_28013_0_0_0_0_
+25083_<Prison>_28013_0_0_0_0_
+25084_<Prison>_28013_0_0_0_0_
+25085_<Leia's Father>_14439_0_0_0_0_
+25086_<Leia's Father>_14439_0_0_0_0_
+25087_<Leia's Father>_14439_0_0_0_0_
+25088_<Leia's Father>_14439_0_0_0_0_
+25089_<Leia's Father>_14439_0_0_0_0_
+25090_<Leia's Father>_14439_0_0_0_0_
+25091_<Leia's Father>_14439_0_0_0_0_
+25092_<Leia's Father>_14439_0_0_0_0_
+25093_<Leia's Father>_14439_0_0_0_0_
+25094_<Leia's Father>_14439_0_0_0_0_
+29519_[SNS] Feith_28003_0_0_0_0_
+25095_<Prison>_28013_0_0_0_0_
+25096_<Prison>_28013_0_0_0_0_
+25097_<Prison>_28013_0_0_0_0_
+25098_<Prison>_28013_0_0_0_0_
+25099_<Prison>_28013_0_0_0_0_
+25100_<Prison>_28013_0_0_0_0_
+25101_<Prison>_28013_0_0_0_0_
+25102_<Prison>_28013_0_0_0_0_
+25103_<Prison>_28013_0_0_0_0_
+25104_<Prison>_28013_0_0_0_0_
+25105_<Prison>_28013_0_0_0_0_
+25106_<Prison>_28013_0_0_0_0_
+25107_<Prison>_28013_0_0_0_0_
+25108_<Prison>_28013_0_0_0_0_
+25109_<Prison>_28013_0_0_0_0_
+25110_<Prison>_28013_0_0_0_0_
+25111_<Prison>_28013_0_0_0_0_
+25112_<Prison>_28013_0_0_0_0_
+25113_<Prison>_28013_0_0_0_0_
+25114_<Prison>_28013_0_0_0_0_
+25115_<Prison>_28013_0_0_0_0_
+25116_<Prison>_28013_0_0_0_0_
+25117_<Prison>_28013_0_0_0_0_
+25118_<Prison>_28013_0_0_0_0_
+25119_<Prison>_28013_0_0_0_0_
+25120_<Prison>_28013_0_0_0_0_
+25121_<Prison>_28013_0_0_0_0_
+25122_<Prison>_28013_0_0_0_0_
+25123_<Prison>_28013_0_0_0_0_
+25124_<Prison>_28013_0_0_0_0_
+25125_<Prison>_28013_0_0_0_0_
+25126_<Prison>_28013_0_0_0_0_
+25127_<Prison>_28013_0_0_0_0_
+25128_<Prison>_28013_0_0_0_0_
+25129_<Prison>_28013_0_0_0_0_
+25130_<Prison>_28013_0_0_0_0_
+25131_<Prison>_28013_0_0_0_0_
+25132_<Prison>_28013_0_0_0_0_
+25133_<Prison>_28013_0_0_0_0_
+25134_<Prison>_28013_0_0_0_0_
+25135_<Contaminated Warrior>_5849_0_0_0_0_
+25136_<Contaminated Warrior>_5849_0_0_0_0_
+25137_<Contaminated Warrior>_5849_0_0_0_0_
+25138_<Contaminated Warrior>_5849_0_0_0_0_
+25139_<Contaminated Warrior>_5849_0_0_0_0_
+25140_<Contaminated Warrior>_5849_0_0_0_0_
+25141_<Contaminated Warrior>_5849_0_0_0_0_
+25142_<Contaminated Warrior>_5849_0_0_0_0_
+25143_<Leia>_5853_0_0_0_0_
+25144_<Fina>_11100_0_0_0_0_
+25145_<Sara>_31200_0_0_0_0_
+25146_<Leia>_5853_0_0_0_0_
+25147_<Fina>_11100_0_0_0_0_
+25148_<Sara>_31200_0_0_0_0_
+25149_[King of the Spirits] Lifte_5814_0_0_0_0_
+25150_[Portu Equipment Supply Officer]_32037_0_0_0_0_
+25151_<Suspicious Chest>_30300_0_0_0_0_
+25152_<Suspicious Chest>_30300_0_0_0_0_
+25153_<Suspicious Chest>_30300_0_0_0_0_
+25154_<Suspicious Chest>_30300_0_0_0_0_
+25155_<Suspicious Chest>_30300_0_0_0_0_
+25156_<Suspicious Chest>_30300_0_0_0_0_
+25157_<Suspicious Chest>_30300_0_0_0_0_
+25158_<Suspicious Chest>_30300_0_0_0_0_
+25159_<Suspicious Chest>_30300_0_0_0_0_
+25160_<Suspicious Chest>_30300_0_0_0_0_
+25161_<Suspicious Chest>_30300_0_0_0_0_
+25162_<Suspicious Chest>_30300_0_0_0_0_
+25163_<Leia>_5853_0_0_0_0_
+25164_<Fina>_11100_0_0_0_0_
+25165_<Sara>_31200_0_0_0_0_
+25166_<Sadi>_30800_0_0_0_0_
+25167_<Margaret>_2060_0_0_0_0_
+25168_<Leia>_5853_0_0_0_0_
+25169_<Fina>_11100_0_0_0_0_
+25170_<Sara>_31200_0_0_0_0_
+25171_<Leia>_5853_0_0_0_0_
+25172_<Fina>_11100_0_0_0_0_
+25173_<Sara>_31200_0_0_0_0_
+25174_[Honorable Officer] Pulchino_2050_0_0_0_0_
+32752_<Guard Tower>_5834_0_0_0_0_
+32753_<Guard Tower>_5834_0_0_0_0_
+32754_<Guard Tower>_5835_0_0_0_0_
+32755_<Guard Tower>_5835_0_0_0_0_
+11033_<Guard>_11000_0_0_0_0_
+21033_<Guard>_21000_0_0_0_0_
+25177_[Vendor] Iruta_32036_0_0_0_0_
+25178_<Spirit of Logos>_14002_0_0_0_0_
+25179_<Spirit of Logos>_14002_0_0_0_0_
+25180_<Spirit of Logos>_14002_0_0_0_0_
+25181_<Spirit of Logos>_14002_0_0_0_0_
+25182_<Spirit of Logos>_14002_0_0_0_0_
+25183_<Spirit of Logos>_14002_0_0_0_0_
+25184_<Spirit of Logos>_14002_0_0_0_0_
+25185_<Spirit of Logos>_14002_0_0_0_0_
+25186_<Spirit of Logos>_14002_0_0_0_0_
+25187_<Spirit of Logos>_14002_0_0_0_0_
+25188_<Spirit of Logos>_14002_0_0_0_0_
+25189_<Spirit of Logos>_14002_0_0_0_0_
+25190_<Spirit of Logos>_14002_0_0_0_0_
+25191_<Spirit of Logos>_14002_0_0_0_0_
+25192_<Spirit of Logos>_14002_0_0_0_0_
+25193_<Spirit of Logos>_14002_0_0_0_0_
+25194_<Spirit of Logos>_14002_0_0_0_0_
+25195_<Spirit of Logos>_14002_0_0_0_0_
+25196_<Spirit of Logos>_14002_0_0_0_0_
+25197_<Spirit of Logos>_14002_0_0_0_0_
+25198_<Spirit of Logos>_14002_0_0_0_0_
+25199_<Spirit of Logos>_14002_0_0_0_0_
+25200_<Spirit of Logos>_14002_0_0_0_0_
+25201_<Spirit of Logos>_14002_0_0_0_0_
+25202_<Spirit of Logos>_14002_0_0_0_0_
+25203_<Spirit of Logos>_14002_0_0_0_0_
+25204_<Spirit of Logos>_14002_0_0_0_0_
+25205_<Spirit of Logos>_14002_0_0_0_0_
+25206_<Spirit of Logos>_14002_0_0_0_0_
+25207_<Spirit of Logos>_14002_0_0_0_0_
+25208_<Spirit of Logos>_14002_0_0_0_0_
+25209_<Spirit of Logos>_14002_0_0_0_0_
+25210_<Spirit of Logos>_14002_0_0_0_0_
+25211_<Spirit of Logos>_14002_0_0_0_0_
+25212_<Spirit of Logos>_14002_0_0_0_0_
+25213_<Spirit of Logos>_14002_0_0_0_0_
+25214_<Spirit of Logos>_14002_0_0_0_0_
+25215_<Spirit of Logos>_14002_0_0_0_0_
+25216_<Spirit of Logos>_14002_0_0_0_0_
+25217_<Spirit of Logos>_14002_0_0_0_0_
+25218_<Spirit of Logos>_14002_0_0_0_0_
+25219_<Spirit of Logos>_14002_0_0_0_0_
+25220_<Spirit of Logos>_14002_0_0_0_0_
+25221_<Spirit of Logos>_14002_0_0_0_0_
+25222_<Spirit of Logos>_14002_0_0_0_0_
+25223_<Spirit of Logos>_14002_0_0_0_0_
+25224_<Spirit of Logos>_14002_0_0_0_0_
+25225_<Spirit of Logos>_14002_0_0_0_0_
+25226_<Spirit of Logos>_14002_0_0_0_0_
+25227_<Spirit of Logos>_14002_0_0_0_0_
+25228_<Spirit of Logos>_14002_0_0_0_0_
+25229_<Spirit of Logos>_14002_0_0_0_0_
+25230_<Spirit of Logos>_14002_0_0_0_0_
+25231_<Spirit of Logos>_14002_0_0_0_0_
+25232_<Spirit of Logos>_14002_0_0_0_0_
+25233_<Spirit of Logos>_14002_0_0_0_0_
+25234_<Spirit of Logos>_14002_0_0_0_0_
+25235_<Spirit of Logos>_14002_0_0_0_0_
+25236_<Spirit of Logos>_14002_0_0_0_0_
+25237_<Spirit of Logos>_14002_0_0_0_0_
+25238_<Spirit of Logos>_14002_0_0_0_0_
+25239_<Spirit of Logos>_14002_0_0_0_0_
+25240_[Nation Point Merchant] Merchini_22000_0_0_0_0_
+25241_[Nation Point Merchant] Leona_12000_0_0_0_0_
+29520_Stone of Strength_32009_0_0_0_0_
+29521_Stone of Magic _32009_0_0_0_0_
+5301_<Guard Tower>_5878_0_0_0_0_
+5311_<Guard Tower>_5878_0_0_0_0_
+5401_<Guard Tower>_5879_0_0_0_0_
+5411_<Guard Tower>_5879_0_0_0_0_
+25242_<Center Altar>_28014_0_0_0_0_
+25243_<Altar of Giga Hammer>_28015_0_0_0_0_
+25244_<Altar of Giga Hammer>_28015_0_0_0_0_
+25245_<Altar of Giga Hammer>_28015_0_0_0_0_
+25246_<Altar of Giga Hammer>_28015_0_0_0_0_
+25247_<Altar of Giga Hammer>_28015_0_0_0_0_
+25248_<Altar of Krowaz>_28015_0_0_0_0_
+25249_<Altar of Krowaz>_28015_0_0_0_0_
+25250_<Altar of Krowaz>_28015_0_0_0_0_
+25251_<Altar of Cuff Binder>_28015_0_0_0_0_
+25252_<Altar of Cuff Binder>_28015_0_0_0_0_
+25253_<Altar of Cuff Binder>_28015_0_0_0_0_
+25254_<Altar of Cuff Binder>_28015_0_0_0_0_
+25255_<Altar of Cuff Binder>_28015_0_0_0_0_
+25256_China New Badge npc_20571_200012_200013_0_0_
+31531_<Oracle Cube>_32008_0_0_0_0_
+25257_<Captured Girl>_25257_0_0_0_0_
+25258_<Captured Karus Warrior>_25258_0_0_0_0_
+25259_<Girl's Father>_25259_0_0_0_0_
+25260_<Girl's Mother>_25260_0_0_0_0_
+25261_<Scorpion King>_25261_0_0_0_0_
+25262_<Spellbound Frog>_25262_0_0_0_0_
+25263_<Princess of El Morad>_25263_0_0_0_0_
+25264_<Forgotten Royal Knight>_25264_0_0_0_0_
+25265_<Forgotten Princess>_25265_0_0_0_0_
+25266_[Draki] El Rasaga_25266_0_0_0_0_
+31532_<Border Defense Flag>_32008_0_0_0_0_
+25267_<Draki Rift>_32010_0_0_0_0_
+15268_<El Morad Seal Stone>_14003_0_0_0_0_
+25268_<Karus Seal Stone>_14004_0_0_0_0_
+25269_<Hellfire Dragon Chest>_25269_0_0_0_0_
+25270_<Altar of Hellfire Dragon>_25270_0_0_0_0_
+25271_<El Morad Dispatched Knight>_31122_0_0_0_0_
+25272_<El Morad Dispatched Knight>_31129_0_0_0_0_
+25273_<El Morad Dispatched Knight>_31138_0_0_0_0_
+25274_<El Morad Dispatched Knight>_31128_0_0_0_0_
+15271_<Karus Dispatched Knight>_31143_0_0_0_0_
+15272_<Karus Dispatched Knight>_31148_0_0_0_0_
+15273_<Karus Dispatched Knight>_31153_0_0_0_0_
+15274_<Karus Dispatched Knight>_31156_0_0_0_0_
+25275_[White Knight] Rose_25275_0_0_0_0_
+31533_ _32010_0_0_0_0_
+31534_ _32010_0_0_0_0_
+15276_[Reserve Knight] Hill_31148_0_0_0_0_
+25276_[Reserve Knight] Lily_31129_0_0_0_0_
+31535_<Lost Gift of Santa>_31535_0_0_0_0_
+31536_[Gate Manager] Door_25275_0_0_0_0_
+31537_[Sundries]Ghost_31537_200158_200159_0_0_
+15277_[Priest]Ann_21510_200140_200141_0_0_
+25277_[Priest]Sol_11510_200142_200143_0_0_
+31538_Arena Monument_14005_0_0_0_0_
+31718_[Lunar Order Priest] Blanc_20571_0_0_0_0_
+31720_[Security] Shield_31600_0_0_0_0_
+31719_[CSW Manager] Aaron_20521_0_0_0_0_
+31717_[Ascetic of Modesty] Beriel_19005_0_0_0_0_
+31711_[Ascetic of Moderation] Ragel_19005_0_0_0_0_
+31712_[Ascetic of Patience] Barael_19005_0_0_0_0_
+31713_[Ascetic of Diligence] Tron_19005_0_0_0_0_
+31714_[Ascetic of Purity] Remi_19005_0_0_0_0_
+31715_[Ascetic of Kindness] Lapiel_19005_0_0_0_0_
+31716_[Ascetic of Charity] Miel_19005_0_0_0_0_
+31540_[White Knight] White_25275_0_0_0_0_
+31541_[Apprentice Priest] Constantin_31539_0_0_0_0_
+31539_[Apprentice Priest] Johan_31539_0_0_0_0_
+31737_Priest of Full Moon_19005_0_0_0_0_
+31738_Outer Tower_9854_0_0_0_0_
+31739_Inner Tower_9854_0_0_0_0_
+31740_Nexus Tower_28014_0_0_0_0_
+8108_[Inn Hostess] Lined_12000_0_0_0_0_
+8109_[Inn Hostess] Lined_22000_0_0_0_0_
+8110_Bridge of Summoning_6700_0_0_0_0_
+9260_[Biologist] Ramark_30900_0_0_0_0_
+31513_[Monster Strategist]_30900_0_0_0_0_
+31741_[Trader] Julia_31200_0_0_0_0_
+31736_¾ôæçµÉ ²ü±í_9923_0_0_0_0_
+31742_[Mystic] Ibn_20521_0_0_0_0_
+31744_[¾ôæçµÉ ¶üØ÷½Á ¸¾ÔáéÉ]à´èíÌÑ_20521_0_0_0_0_
+31743_[Soul Healer] Dason_19005_0_0_0_0_
+31745_[¾ôæçµÉ ôÃ èíôâ ¸¾ÔáéÉ]ó¦ÄÔÔÌ_20521_0_0_0_0_
+31746_<Monument>_14105_200012_200013_0_0_
+31747_<Monument>_14105_200012_200013_0_0_
+31748_<Lever>_31748_0_0_0_0_
+31749_<Lever>_31749_0_0_0_0_
+31750_<Warp Stone>_32009_0_0_0_0_
+31751_<Warp Stone>_32009_0_0_0_0_
+2191_<Lever>_2191_0_0_0_0_
+2192_<Lever>_2192_0_0_0_0_
+31752_[Potion Supply Officer]_2060_0_0_0_0_
+31753_[Î¹¶ü]ÏÜ×Ò°¹×Ï_30500_0_0_0_0_
+31763_[Sundries] Zarta_12100_200031_200032_0_0_
+31754_<Outer Gate>_31754_0_0_0_0_
+31755_<Inner Gate>_31755_0_0_0_0_
+31756_<Inner Gate>_31756_0_0_0_0_
+31757_<Outer Gate>_31757_0_0_0_0_
+31758_<Inner Gate>_31758_0_0_0_0_
+31759_<Inner Gate>_31759_0_0_0_0_
+31760_<Buff NPC>_14002_0_0_0_0_
+31761_<Buff NPC>_14002_0_0_0_0_
+31762_<Buff NPC>_14002_0_0_0_0_
+31764_<Horse Trainer>_31539_0_0_0_0_
+31765_[Empires] Duke_20521_0_0_0_0_
+31766_[Empires] Duke_20521_0_0_0_0_
+15279_[Reserve Knight] Hill_31148_0_0_0_0_
+25279_[Reserve Knight] Lily_31129_0_0_0_0_
+15280_[Reserve Knight] Hill_31148_0_0_0_0_
+25280_[Reserve Knight] Lily_31129_0_0_0_0_
+29236_[Bounty Manager] Juliana_20571_0_0_0_0_
+18034_[Grand Merchant] Assistant_31539_0_0_0_0_
+31772_[Event Manager] Aset_9948_0_0_0_0_

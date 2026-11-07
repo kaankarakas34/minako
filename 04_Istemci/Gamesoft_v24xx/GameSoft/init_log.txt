@@ -1,0 +1,9 @@
+-------------------------------------------- GAMESOFT Initializing --------------------------------------------
+------ GPU: AMD Radeon HD8350
+------ CPU: Intel(R) Pentium(R) CPU G3240 @ 3.10GHz | 2 Core(s)
+------ Proccess: [TeamViewer.exe]
+------------- Window: [HOME-PC - TeamViewer - Ücretsiz lisans (ticari kullaným için deðil)]
+------------- Window: [TeamViewer]
+------ Proccess: [devenv.exe]
+------------- Window: [SecurityEngine - Microsoft Visual Studio]
+---------------------------------------------------------------------------------------------------------------

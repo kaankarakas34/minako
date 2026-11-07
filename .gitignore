@@ -1,0 +1,23 @@
+# Local secrets and generated data
+*.private.*
+.env
+.env.*
+*.log
+*.klg
+*.dmp
+**/Logs/
+**/Oturum_Gunlukleri/
+**/__pycache__/
+**/node_modules/
+**/.vs/
+**/lua-audit-venv/
+*.obj
+*.pch
+*.iobj
+*.ipdb
+*.ilk
+*.pyc
+
+# Legacy executable blocked by Windows security; active compatible client is included.
+/04_Istemci/Gamesoft_v24xx/KnightOnLine.exe
+/11_Istemci_Uyumluluk/Client_Binaries/Gamesoft-original.exe

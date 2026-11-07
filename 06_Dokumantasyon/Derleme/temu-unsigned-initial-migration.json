@@ -1,0 +1,331 @@
+[
+  {
+    "Table": "achieve_title",
+    "Column": "defence",
+    "Bits": 16,
+    "ConvertedRows": 2,
+    "WidenedType": "int"
+  },
+  {
+    "Table": "item",
+    "Column": "kind",
+    "Bits": 8,
+    "ConvertedRows": 203442,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "race",
+    "Bits": 8,
+    "ConvertedRows": 43665,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "class",
+    "Bits": 8,
+    "ConvertedRows": 936,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "reqtitle",
+    "Bits": 8,
+    "ConvertedRows": 8,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "reqstr",
+    "Bits": 8,
+    "ConvertedRows": 99214,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "reqsta",
+    "Bits": 8,
+    "ConvertedRows": 51,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "reqdex",
+    "Bits": 8,
+    "ConvertedRows": 68224,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "reqintel",
+    "Bits": 8,
+    "ConvertedRows": 100122,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "reqcha",
+    "Bits": 8,
+    "ConvertedRows": 21765,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "sellinggroup",
+    "Bits": 16,
+    "ConvertedRows": 41119,
+    "WidenedType": "int"
+  },
+  {
+    "Table": "item",
+    "Column": "hitrate",
+    "Bits": 16,
+    "ConvertedRows": 5,
+    "WidenedType": "int"
+  },
+  {
+    "Table": "item",
+    "Column": "firedamage",
+    "Bits": 8,
+    "ConvertedRows": 440,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "icedamage",
+    "Bits": 8,
+    "ConvertedRows": 158,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "lightningdamage",
+    "Bits": 8,
+    "ConvertedRows": 275,
+    "WidenedType": null
+  },
+  {
+    "Table": "item",
+    "Column": "poisondamage",
+    "Bits": 8,
+    "ConvertedRows": 171,
+    "WidenedType": null
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "bydirection",
+    "Bits": 8,
+    "ConvertedRows": 32,
+    "WidenedType": null
+  },
+  {
+    "Table": "knight_royale_beginner_item",
+    "Column": "ncount",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic",
+    "Column": "moral",
+    "Bits": 8,
+    "ConvertedRows": 4,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type3",
+    "Column": "directtype",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type3",
+    "Column": "duration",
+    "Bits": 8,
+    "ConvertedRows": 8,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "bufftype",
+    "Bits": 8,
+    "ConvertedRows": 98,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "attackspeed",
+    "Bits": 8,
+    "ConvertedRows": 2,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "speed",
+    "Bits": 8,
+    "ConvertedRows": 90,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "attack",
+    "Bits": 8,
+    "ConvertedRows": 56,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "magicattack",
+    "Bits": 8,
+    "ConvertedRows": 46,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "firer",
+    "Bits": 8,
+    "ConvertedRows": 3,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "coldr",
+    "Bits": 8,
+    "ConvertedRows": 3,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "lightningr",
+    "Bits": 8,
+    "ConvertedRows": 3,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "magicr",
+    "Bits": 8,
+    "ConvertedRows": 3,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "diseaser",
+    "Bits": 8,
+    "ConvertedRows": 3,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "poisonr",
+    "Bits": 8,
+    "ConvertedRows": 3,
+    "WidenedType": null
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "duration",
+    "Bits": 16,
+    "ConvertedRows": 2,
+    "WidenedType": "int"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "bydirection",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "acttype",
+    "Bits": 8,
+    "ConvertedRows": 6,
+    "WidenedType": null
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byacttype",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bytype",
+    "Bits": 8,
+    "ConvertedRows": 245,
+    "WidenedType": null
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byrank",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bytitle",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "bmessagetype",
+    "Bits": 8,
+    "ConvertedRows": 33,
+    "WidenedType": null
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "bzone",
+    "Bits": 8,
+    "ConvertedRows": 3,
+    "WidenedType": null
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "beventstatus",
+    "Bits": 8,
+    "ConvertedRows": 1155,
+    "WidenedType": null
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "squestmenu",
+    "Bits": 32,
+    "ConvertedRows": 2645,
+    "WidenedType": "bigint"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "snpcmain",
+    "Bits": 32,
+    "ConvertedRows": 1212,
+    "WidenedType": "bigint"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bytype",
+    "Bits": 8,
+    "ConvertedRows": 48,
+    "WidenedType": null
+  },
+  {
+    "Table": "k_monster",
+    "Column": "byattackrange",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bysearchrange",
+    "Bits": 8,
+    "ConvertedRows": 1,
+    "WidenedType": null
+  }
+]

@@ -1,0 +1,8 @@
+*.bak filter=lfs diff=lfs merge=lfs -text
+*.src filter=lfs diff=lfs merge=lfs -text
+*.wmv filter=lfs diff=lfs merge=lfs -text
+*.lib filter=lfs diff=lfs merge=lfs -text
+*.NaviMesh filter=lfs diff=lfs merge=lfs -text
+
+# Preserve exact bytes in the project snapshot.
+* -text

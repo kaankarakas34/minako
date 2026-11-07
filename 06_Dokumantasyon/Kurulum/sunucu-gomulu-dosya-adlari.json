@@ -1,0 +1,40 @@
+[
+  {
+    "binary": "02_Sunucu\\24xx\\AIServer.exe",
+    "embedded_filename_candidates": [
+      "./AIServer.ini",
+      "./GameServer.ini",
+      "KERNEL32.DLL",
+      "KERNEL32.dll",
+      "ODBC32.dll",
+      "WS2_32.dll"
+    ]
+  },
+  {
+    "binary": "02_Sunucu\\24xx\\GameServer.exe",
+    "embedded_filename_candidates": [
+      "./GameServer.ini",
+      "./Notice.txt",
+      "./Notice_up.txt",
+      "01_main.lua",
+      "KERNEL32.DLL",
+      "KERNEL32.dll",
+      "Notice.txt",
+      "Notice_up.txt",
+      "ODBC32.dll",
+      "WS2_32.dll",
+      "\\init.lua",
+      "\\loadall.dll"
+    ]
+  },
+  {
+    "binary": "02_Sunucu\\24xx\\LogInServer.exe",
+    "embedded_filename_candidates": [
+      "./LogIn.ini",
+      "KERNEL32.DLL",
+      "KERNEL32.dll",
+      "ODBC32.dll",
+      "WS2_32.dll"
+    ]
+  }
+]

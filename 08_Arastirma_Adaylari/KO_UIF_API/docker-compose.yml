@@ -1,0 +1,14 @@
+version: '3'
+services:
+  kouifapi:
+    build: .
+    volumes:
+      - /container/ko-uif-api:/app/resource
+    networks:
+      application:
+        ipv4_address: 10.0.0.10
+    restart: always
+networks:
+  application:
+    external:
+      name: application

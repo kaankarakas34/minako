@@ -1,0 +1,334 @@
+{
+  "Applied": false,
+  "OriginalSceneRows": 10,
+  "NewSceneRows": 0,
+  "FilesToRemove": [
+    {
+      "Path": "Intro/0.N3Camera",
+      "SHA256": "6fbad8460c80aaebd0cf3ba34d1e03458e354adeeb64a06487c9e28202083635"
+    },
+    {
+      "Path": "Intro/0.n3light",
+      "SHA256": "f0b93ed8035d0daff2cdde7655daea8c15c8b21eece01462ad95dc3d23a7993a"
+    },
+    {
+      "Path": "Intro/1.n3light",
+      "SHA256": "391556a0d8e6447e8775354e087a783c6767e5f714196e9dbeb5b57423e8ea88"
+    },
+    {
+      "Path": "Intro/2.n3light",
+      "SHA256": "e7bb8e1edde088005159309d11da1d644a7814857fbe7eea33c12e1ab27b6a7d"
+    },
+    {
+      "Path": "Intro/arms.dxt",
+      "SHA256": "49d9dfb48c8f14cd3e355bbbcd68dc2a28833480ed6c3adda39564801ea99dd1"
+    },
+    {
+      "Path": "Intro/arms.n3cpart",
+      "SHA256": "81b6cc5661ec3739516361088371a149f3e8be17d52280aec4136c2db0743d21"
+    },
+    {
+      "Path": "Intro/arms.n3cskins",
+      "SHA256": "71754e7c1a436b7af64fbf462d81b0b1f077b9ed8f212f6fefd6e5ad5931c444"
+    },
+    {
+      "Path": "Intro/Axe.n3cplug",
+      "SHA256": "aaf1ed2e2ad597396aa037487f33360ef673ecf9351e72fdc31a556a7ed03d86"
+    },
+    {
+      "Path": "Intro/Axe.n3pmesh",
+      "SHA256": "be070fee2d28adbc472def78f968f94d3e430fdb14b87789fc1345e4fd614df1"
+    },
+    {
+      "Path": "Intro/bighorn.dxt",
+      "SHA256": "4b46f78a995a1a0e83a525a6e284227c3317a5da62b340efdac2b322d8e198fe"
+    },
+    {
+      "Path": "Intro/bighorn.n3cpart",
+      "SHA256": "900c0a244cb59c4db904ef42b7fd879fbb22eb7a277a3f7e4f40b691fe328049"
+    },
+    {
+      "Path": "Intro/bighorn.n3cskins",
+      "SHA256": "549bf3af0e75d59c4cfe6079f0ebeaaf5b5bf37eec43719b327fdef58de94b76"
+    },
+    {
+      "Path": "Intro/body00.dxt",
+      "SHA256": "419e457255674c8126d4db38ba88594d5b441b34e482776183fc91206fbb381c"
+    },
+    {
+      "Path": "Intro/body00.n3cpart",
+      "SHA256": "f6bc36a08a9ad5e904d845d7cd027a51abe79a660016d03971d3a5d4d9522431"
+    },
+    {
+      "Path": "Intro/body00.n3cskins",
+      "SHA256": "a70cf4b9df597794f754feb25c4fb591722fe487c7db5ac35ed429589e8ccdf9"
+    },
+    {
+      "Path": "Intro/body01.dxt",
+      "SHA256": "377ca0fd8df63978551fb2c69eccf8a93292f3bb7b36ef86fa026d47c01347e8"
+    },
+    {
+      "Path": "Intro/body01.n3cpart",
+      "SHA256": "b7074dd5c3565300d20c9584898b8fce085b5d7276349e716caa6bc529e47e21"
+    },
+    {
+      "Path": "Intro/body01.n3cskins",
+      "SHA256": "5207b18bef8c21ff5f6d9ebee8dda3a42a6e6f1bc4e007d6889bf84853b20a0a"
+    },
+    {
+      "Path": "Intro/body02.dxt",
+      "SHA256": "6b7870a9bbca213cfdd2c346900f727f74d132e40b5cf213a9c333735ad77518"
+    },
+    {
+      "Path": "Intro/body02.n3cpart",
+      "SHA256": "c86ebab2f97bf556351253530a468acefb56c73752f1218f2f891271fd090ebe"
+    },
+    {
+      "Path": "Intro/body02.n3cskins",
+      "SHA256": "b7d912b1a0f654d0217c76a9cd8938b897c6fa50e3cc39a58f376bdb8939a406"
+    },
+    {
+      "Path": "Intro/deco00.dxt",
+      "SHA256": "a1c93cf79ae979ab3a1989f56617a7a5da765de675e6a205bdea06850f5e635f"
+    },
+    {
+      "Path": "Intro/deco00.n3cpart",
+      "SHA256": "60ac31715decb81d94b4c07eea4ede11b43a13cda27bfb869fb496362abac497"
+    },
+    {
+      "Path": "Intro/deco00.n3cskins",
+      "SHA256": "9688f39d5c64a3fbdf11ffbae2f0a5ef1371e62f4ac50a4a7487144eda072d28"
+    },
+    {
+      "Path": "Intro/deco01.dxt",
+      "SHA256": "15fe6996d63dc330245d7f0caab3c50aafd1abdcc3450d076285d32e828f16bf"
+    },
+    {
+      "Path": "Intro/deco01.n3cpart",
+      "SHA256": "296b6787d8af4b687d238be4c7afb852bfad79f8f13db4883a6f5ccea32e03b6"
+    },
+    {
+      "Path": "Intro/deco01.n3cskins",
+      "SHA256": "e61008f3707c9a28fa5573fd1efbb6990d396f82428db0009a7a4051dddd584f"
+    },
+    {
+      "Path": "Intro/deco02.dxt",
+      "SHA256": "b0be93097f2111f7c6df22764294130641dca9e4886cbaf34658b717a3d890ee"
+    },
+    {
+      "Path": "Intro/deco02.n3cpart",
+      "SHA256": "d5922a6395f23a58c028746e7964bfbbe3bd757822b074fab4a958c47be373e5"
+    },
+    {
+      "Path": "Intro/deco02.n3cskins",
+      "SHA256": "b40fe2be692cf906fd7de0a965e2aaa3a5d63741d31539b00e2c4e2982abb44d"
+    },
+    {
+      "Path": "Intro/downteeth.n3cpart",
+      "SHA256": "f60e7607d45e3228924a478c8ff1e185b97637097a0724f86bdc3f23179ca60e"
+    },
+    {
+      "Path": "Intro/downteeth.n3cskins",
+      "SHA256": "1cfdb13942f0bb9d0aaedd52081bcd0c82b90d10feac996f90a0f77a06f38b38"
+    },
+    {
+      "Path": "Intro/face.n3cpart",
+      "SHA256": "ff2224816d33c4f4e37764528a213e5d1d31adbf0ee1b82fac6de8996897db45"
+    },
+    {
+      "Path": "Intro/face.n3cskins",
+      "SHA256": "a8f3db625b0703a7acec42881d182d06037027fe76b8b09e5140014d79e7de74"
+    },
+    {
+      "Path": "Intro/hair00.dxt",
+      "SHA256": "449731ba8e033481406f890df5304cf2b9cbe384407ec356fc55d511da0411b0"
+    },
+    {
+      "Path": "Intro/hair00.n3cpart",
+      "SHA256": "e19f628719866c5e09653bff9e4528f235ddcd8e676e585ad89aba473288f715"
+    },
+    {
+      "Path": "Intro/hair00.n3cskins",
+      "SHA256": "5ebe49011c9664e1dbd762d892df53dd4f09dea77897c19fc54afc9186f7c083"
+    },
+    {
+      "Path": "Intro/hair01.n3cpart",
+      "SHA256": "d25fb4b8da2911839fe889bdfa768343ae085e3c927956e90db26ae273e5fd26"
+    },
+    {
+      "Path": "Intro/hair01.n3cskins",
+      "SHA256": "0fa4cd93aaf7ea2bc864d50308ae7d39c3e22a1c9f4e50e9da25f1d8d0b9d767"
+    },
+    {
+      "Path": "Intro/horn00.n3cpart",
+      "SHA256": "2bdc19b99c177546ad5bf4bb2f581995d7cc0752e82eef5d72e34d7c787caaff"
+    },
+    {
+      "Path": "Intro/horn00.n3cskins",
+      "SHA256": "17c37fea82e9fa014ba8e7b091a4a6b91c73660c051c124a417cc95e2d01eccf"
+    },
+    {
+      "Path": "Intro/inmouth.n3cpart",
+      "SHA256": "b98a89bac7acaa46e723f06b0098e57da3c50fd681758b67c86b422c2d572cf4"
+    },
+    {
+      "Path": "Intro/inmouth.n3cskins",
+      "SHA256": "3cdb3fb20df390406b2e3b1963c58eb83e9d71a1ab40a814c2d3357b79298245"
+    },
+    {
+      "Path": "Intro/intro.dxt",
+      "SHA256": "2b7993a9afcf2aa1e7c0a751d209115af21db21edddf49b7127fd3fdbae02250"
+    },
+    {
+      "Path": "Intro/intro.n3anim",
+      "SHA256": "a3efaae0034ca091dd62513e6ab6c3838f28b72cf7214f4bd2d3de1901ddab01"
+    },
+    {
+      "Path": "Intro/intro.n3camera",
+      "SHA256": "63ae544a4e4521ed6d54de3a948e7cd0e5dfe1171cfe29720ab7d66f56cbc48a"
+    },
+    {
+      "Path": "Intro/intro.n3chr",
+      "SHA256": "c1980425b7176d6e3b13b8014aa05d300258be8ae402c0cdcb09fb8ab9e79e19"
+    },
+    {
+      "Path": "Intro/intro.n3joint",
+      "SHA256": "9bf9dbf048a39b63c616a4e8d90bd3058a1e306804f02e23bcf7e8b8d49f3ed7"
+    },
+    {
+      "Path": "Intro/intro_axe.dxt",
+      "SHA256": "7eed68e5820667a15999f92c59e00a40c5e286c29b448a2fa39155e746c081e1"
+    },
+    {
+      "Path": "Intro/leye.n3cpart",
+      "SHA256": "5f3ea672d37ee9fa76321fe8aa067cfe0e21eefb537b96befa84c73f28dfc140"
+    },
+    {
+      "Path": "Intro/leye.n3cskins",
+      "SHA256": "fa4e1229e751dc32b6029b14b90fdc14bfa24c146b9ca21d12c00865b8a5341a"
+    },
+    {
+      "Path": "Intro/moon.DXT",
+      "SHA256": "65c364ec1ee6ec53f4e3c2ea9aedbfba720edbc75fd4a3f0ab3ca236f71ec0d8"
+    },
+    {
+      "Path": "Intro/mouth.n3cpart",
+      "SHA256": "29249bc58cee240a8800b435d8587fe3cd046bf361034c9810816fe2abf6c599"
+    },
+    {
+      "Path": "Intro/mouth.n3cskins",
+      "SHA256": "dfd8eb9a0dc692a7f9696498ce5ae861788c0f554c5be52b0fde17ef678ab7b4"
+    },
+    {
+      "Path": "Intro/reye.dxt",
+      "SHA256": "898759d6eca0aaa4f9e5a976e657426ace42a56de5a3a9a521c69ec1f82f7db9"
+    },
+    {
+      "Path": "Intro/reye.n3cpart",
+      "SHA256": "c8d7cbcea4166af2c9375b2c8498d63d0ab6cc06bbe5c84c9436fe85f7382132"
+    },
+    {
+      "Path": "Intro/reye.n3cskins",
+      "SHA256": "f8f080d8ad05ed91ca32f4a518361c8897a5de1ab58ff0a2a88cad321dae08ff"
+    },
+    {
+      "Path": "Intro/smallhorn.n3cpart",
+      "SHA256": "bf137e4df3b1de7870301e155c97f81a0b05635fa49c68cc44c52fda59ef05eb"
+    },
+    {
+      "Path": "Intro/smallhorn.n3cskins",
+      "SHA256": "858559f87bb23ddc7d131a304469eddc50fe8bc6ddeb10b55a49fec228dfc839"
+    },
+    {
+      "Path": "Intro/upteeth.n3cpart",
+      "SHA256": "03cec7c1c99093c4b5349e247d82477ea42b20a67b89605faec04c12ce56edb8"
+    },
+    {
+      "Path": "Intro/upteeth.n3cskins",
+      "SHA256": "989eb6f90a828dce246b7a35a768ef3043ed7d060f21c2cbeb4eda8017a8bc29"
+    },
+    {
+      "Path": "KnightMovie/Intro.wmv",
+      "SHA256": "54167d960222560222c5ea8ad65fb894dd6fcabf146dd312dbea2a2b1e83cba7"
+    },
+    {
+      "Path": "KnightMovie/kinghtT.wmv",
+      "SHA256": "8969a40c416af95cfeeb67ff4f4c5ecdf4cd707d2040464772b12894850d1f6b"
+    },
+    {
+      "Path": "KnightMovie/knight_Battle_Indun.wmv",
+      "SHA256": "c5df400f8e8e025e2fe80e3afc48f07ca9294806d1fc3b14c3f8338d6e990eed"
+    },
+    {
+      "Path": "KnightMovie/knight_Battle_Indun_H.wmv",
+      "SHA256": "485303e91e04380b91c34b82fa0ee39d8f83b7647908822e0da86bd3de406d95"
+    },
+    {
+      "Path": "Scene/bms_ung_1th.n3scene",
+      "SHA256": "f8f207c8e809b77e8357c18f80b3adf525119b478061d9865e7fb68cdaaffff7"
+    },
+    {
+      "Path": "Scene/bms_ung_1th.n3scenex",
+      "SHA256": "1c831f947919a4d59c670a5c59e93fb150df17f1e944d1f92521f142cbaeaefd"
+    },
+    {
+      "Path": "Scene/korhappy_a01.n3scene",
+      "SHA256": "f2d692ce1132f409f67f925e8ababa9278e17ba1157ead24aa7829ba2a53fde5"
+    },
+    {
+      "Path": "Scene/korhappy_a01.n3scenex",
+      "SHA256": "d9ee5389582162d66074412614a8879978f5d00d9eacf2553c89828896cdc680"
+    },
+    {
+      "Path": "Scene/m_pulreton_3th_end01.n3scene",
+      "SHA256": "798bfaf6e8dfcbaf05a904b4a0b053f426ceae2359f1d609f0835e8925be8847"
+    },
+    {
+      "Path": "Scene/m_pulreton_3th_end01.n3scenex",
+      "SHA256": "9c6e17a3069d31ab4ee62432adfbcc0fab1866535f584e63fd950a7736aabd14"
+    },
+    {
+      "Path": "Scene/meme_1st_1p_a01.n3scene",
+      "SHA256": "98c83d6425dbbe6fc422b1dae867f76756891c41dcee801a7c607771bc526265"
+    },
+    {
+      "Path": "Scene/meme_1st_1p_a01.n3scenex",
+      "SHA256": "24ebe8425b717d99e7a4ba9b46cc816dbcc049d2691e80cb8ef3f593c53d3d98"
+    },
+    {
+      "Path": "Scene/meme_1st_1p_a02.n3scene",
+      "SHA256": "6a7603d9a95a32a23e05aff69479214f4a06cb734e1b31074342d6abc004a663"
+    },
+    {
+      "Path": "Scene/meme_1st_1p_a02.n3scenex",
+      "SHA256": "f6427d30e5efa32a602c560c77d98d9c93bdb00dcff2e889337f456ab507920f"
+    },
+    {
+      "Path": "Scene/meme_1st_1p_a567.n3scene",
+      "SHA256": "ca49a89dfe7ded2a4b595f95325074e522a5ea9f44691dcc054b2c02952b61ef"
+    },
+    {
+      "Path": "Scene/meme_1st_1p_a567.n3scenex",
+      "SHA256": "40ddb91dac2ef976e21a7b7355cc5af77ad240cab7c6ebb0f5655159e7fe22b9"
+    },
+    {
+      "Path": "Scene/pury2st.n3scene",
+      "SHA256": "6da9fee80fd35114e7a4161719c9084fde257937d250b92680256cb96d04fb4d"
+    },
+    {
+      "Path": "Scene/pury2st.n3scenex",
+      "SHA256": "ac77bc73828f822b669576068bf7c8410b17ab29874c27fb08ad634ead58bec5"
+    },
+    {
+      "Path": "Scene/st_s_pulreton_3th_2010a01.n3scene",
+      "SHA256": "c2bc2fb27ece54bd54dcec54b38d874d0f697d77223d6b9430e81ea495101b96"
+    },
+    {
+      "Path": "Scene/st_s_pulreton_3th_2010a01.n3scenex",
+      "SHA256": "fbe1bd1345388b7d5fc2eede2ada3cb72bc994ecdf6015a26f91791b01134978"
+    }
+  ],
+  "ClientExeModified": false,
+  "GraphicalStartupVerified": false,
+  "CharacterEntryVerified": false
+}

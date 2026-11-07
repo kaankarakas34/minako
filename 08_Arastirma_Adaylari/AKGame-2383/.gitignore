@@ -1,0 +1,16 @@
+.vs/
+*.user
+*.suo
+*.VC.db
+*.obj
+*.pch
+*.ipdb
+*.iobj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.klg
+*.dmp
+Logs/
+login_ui_debug/

@@ -1,0 +1,8 @@
+*.private.json
+Gamesoft_Yerel/
+Client_Binaries/
+Yerel_Launcher/bin/
+Yerel_Launcher/obj/
+*.log
+Tablo_Incelemesi/
+*.private.dmp

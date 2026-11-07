@@ -1,0 +1,227 @@
+[
+  {
+    "Class": 1,
+    "Slot": 1,
+    "Item": 201013000,
+    "Name": "Novice Warrior's Helmet",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 24
+  },
+  {
+    "Class": 1,
+    "Slot": 4,
+    "Item": 201011000,
+    "Name": "Novice Warrior's Pauldron",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 36
+  },
+  {
+    "Class": 1,
+    "Slot": 6,
+    "Item": 121470000,
+    "Name": "Novice Sword 1",
+    "RequiredLevel": 0,
+    "Damage": 23,
+    "Armor": 0
+  },
+  {
+    "Class": 1,
+    "Slot": 10,
+    "Item": 201012000,
+    "Name": "Novice Warrior's Pants",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 32
+  },
+  {
+    "Class": 1,
+    "Slot": 12,
+    "Item": 201014000,
+    "Name": "Novice Warrior's Gauntlets",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 16
+  },
+  {
+    "Class": 1,
+    "Slot": 13,
+    "Item": 201015000,
+    "Name": "Novice Warrior's Boots",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 16
+  },
+  {
+    "Class": 2,
+    "Slot": 1,
+    "Item": 241013000,
+    "Name": "Novice Rogue's Helmet",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 20
+  },
+  {
+    "Class": 2,
+    "Slot": 4,
+    "Item": 241011000,
+    "Name": "Novice Rogue's Pauldron",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 30
+  },
+  {
+    "Class": 2,
+    "Slot": 6,
+    "Item": 111410000,
+    "Name": "Novice Knife 1",
+    "RequiredLevel": 0,
+    "Damage": 19,
+    "Armor": 0
+  },
+  {
+    "Class": 2,
+    "Slot": 10,
+    "Item": 241012000,
+    "Name": "Novice Rogue's Pants",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 27
+  },
+  {
+    "Class": 2,
+    "Slot": 12,
+    "Item": 241014000,
+    "Name": "Novice Rogue's Gauntlets",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 13
+  },
+  {
+    "Class": 2,
+    "Slot": 13,
+    "Item": 241015000,
+    "Name": "Novice Rogue's Boots",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 13
+  },
+  {
+    "Class": 3,
+    "Slot": 1,
+    "Item": 261013000,
+    "Name": "Novice Magician's Helmet",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 19
+  },
+  {
+    "Class": 3,
+    "Slot": 4,
+    "Item": 261011000,
+    "Name": "Novice Magician's Robe",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 28
+  },
+  {
+    "Class": 3,
+    "Slot": 6,
+    "Item": 181470000,
+    "Name": "Novice Staff 1",
+    "RequiredLevel": 0,
+    "Damage": 22,
+    "Armor": 0
+  },
+  {
+    "Class": 3,
+    "Slot": 10,
+    "Item": 261012000,
+    "Name": "Novice Magician's Pants",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 25
+  },
+  {
+    "Class": 3,
+    "Slot": 12,
+    "Item": 261014000,
+    "Name": "Novice Magician's Gauntlets",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 12
+  },
+  {
+    "Class": 3,
+    "Slot": 13,
+    "Item": 261015000,
+    "Name": "Novice Magician's Boots",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 12
+  },
+  {
+    "Class": 4,
+    "Slot": 1,
+    "Item": 281013000,
+    "Name": "Novice Priest's Helmet",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 21
+  },
+  {
+    "Class": 4,
+    "Slot": 4,
+    "Item": 281011000,
+    "Name": "Novice Priest's Pauldron",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 32
+  },
+  {
+    "Class": 4,
+    "Slot": 6,
+    "Item": 191410000,
+    "Name": "Novice Mace 1",
+    "RequiredLevel": 0,
+    "Damage": 28,
+    "Armor": 0
+  },
+  {
+    "Class": 4,
+    "Slot": 10,
+    "Item": 281012000,
+    "Name": "Novice Priest's Pants",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 28
+  },
+  {
+    "Class": 4,
+    "Slot": 12,
+    "Item": 281014000,
+    "Name": "Novice Priest's Gauntlets",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 14
+  },
+  {
+    "Class": 4,
+    "Slot": 13,
+    "Item": 281015000,
+    "Name": "Novice Priest's Boots",
+    "RequiredLevel": 0,
+    "Damage": 0,
+    "Armor": 14
+  },
+  {
+    "Class": 13,
+    "Slot": 6,
+    "Item": 120010000,
+    "Name": "Short Sword",
+    "RequiredLevel": 0,
+    "Damage": 4,
+    "Armor": 0
+  }
+]

@@ -1,0 +1,5287 @@
+[
+  {
+    "Table": "achieve_com",
+    "Column": "sindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\AchieveCom.h"
+  },
+  {
+    "Table": "achieve_com",
+    "Column": "type",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\AchieveCom.h"
+  },
+  {
+    "Table": "achieve_com",
+    "Column": "req1",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveCom.h"
+  },
+  {
+    "Table": "achieve_com",
+    "Column": "req2",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveCom.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "str",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "hp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "dex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "int",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "mp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "attack",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "defence",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sloyaltybonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sexpbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sshortswordac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sjamadarac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sswordac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sblowac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "saxeac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sspearac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sarrowac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sfirebonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sicebonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "slightbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "sfireresist",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "siceresist",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "slightresist",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "smagicresist",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "scurseresist",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_title",
+    "Column": "spoisonresist",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\AchieveTitle.h"
+  },
+  {
+    "Table": "achieve_war",
+    "Column": "sindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\AchieveWar.h"
+  },
+  {
+    "Table": "achieve_war",
+    "Column": "type",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\AchieveWar.h"
+  },
+  {
+    "Table": "achieve_war",
+    "Column": "scount",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\AchieveWar.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "nindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "snationid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "szoneid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "sposx",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "sposz",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "sradius",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "banish_of_winner",
+    "Column": "sdeadtime",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\BanishOfWinnerNpc.h"
+  },
+  {
+    "Table": "battle",
+    "Column": "bynation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\BattleSet.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "sindex",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "szoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "isopen",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "srank",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "schaosid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "sspawnx",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "sspawnz",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "sspawntime",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "sdirection",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_spawn",
+    "Column": "sradiusrange",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneRespawn.h"
+  },
+  {
+    "Table": "chaos_stone_summon_list",
+    "Column": "nindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ChaosStoneSummonList.h"
+  },
+  {
+    "Table": "chaos_stone_summon_list",
+    "Column": "zoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneSummonList.h"
+  },
+  {
+    "Table": "chaos_stone_summon_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ChaosStoneSummonList.h"
+  },
+  {
+    "Table": "chaos_stone_summon_list",
+    "Column": "monsterspawnfamily",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ChaosStoneSummonList.h"
+  },
+  {
+    "Table": "user_character_seal_items",
+    "Column": "nitemserial",
+    "Bits": 64,
+    "Fetch": "UInt64",
+    "Source": "shared\\database\\CharacterSealSet.h"
+  },
+  {
+    "Table": "coefficient",
+    "Column": "sclass",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\CoefficientSet.h"
+  },
+  {
+    "Table": "dkm_monster_dead_gift",
+    "Column": "inum",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\DarkKnightMaterialMonsterDeathSet.h"
+  },
+  {
+    "Table": "dkm_monster_dead_gift",
+    "Column": "ngiveitemnum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\DarkKnightMaterialMonsterDeathSet.h"
+  },
+  {
+    "Table": "dkm_monster_dead_gift",
+    "Column": "ngiveitemcount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\DarkKnightMaterialMonsterDeathSet.h"
+  },
+  {
+    "Table": "dkm_monster_dead_gift",
+    "Column": "ngivespercent",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\DarkKnightMaterialMonsterDeathSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "id",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "diffuculty",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "monsterid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "ismonster",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "posx",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "posz",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "sdirection",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_monster_list",
+    "Column": "sradiusrange",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\DungeonDefenceMonsterListSet.h"
+  },
+  {
+    "Table": "df_stage_list",
+    "Column": "id",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\DungeonDefenceStageListSet.h"
+  },
+  {
+    "Table": "df_stage_list",
+    "Column": "difficulty",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\DungeonDefenceStageListSet.h"
+  },
+  {
+    "Table": "df_stage_list",
+    "Column": "sstageid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\DungeonDefenceStageListSet.h"
+  },
+  {
+    "Table": "event_beef_play_timer",
+    "Column": "eventlocalid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventBeefSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_beef_play_timer",
+    "Column": "eventzoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\EventBeefSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_beef_play_timer",
+    "Column": "monumenttime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventBeefSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_beef_play_timer",
+    "Column": "losersigntime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventBeefSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_beef_play_timer",
+    "Column": "farmingtime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventBeefSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_csw_play_timer",
+    "Column": "eventlocalid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventCswSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_csw_play_timer",
+    "Column": "eventzoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\EventCswSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_room_play_timer",
+    "Column": "eventlocalid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventRoomSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_room_play_timer",
+    "Column": "eventzoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\EventRoomSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_room_play_timer",
+    "Column": "eventsigntime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoomSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_room_play_timer",
+    "Column": "eventplaytime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoomSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_room_play_timer",
+    "Column": "eventattackopentime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoomSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_room_play_timer",
+    "Column": "eventattackclosetime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoomSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_room_play_timer",
+    "Column": "eventfinishtime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoomSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventlocalid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventzoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventsigntime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventmanuelclosetime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventgassteptimer1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventgassteptimer2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventgassteptimer3",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventgassteptimer4",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_royale_play_timer",
+    "Column": "eventgassteptimer5",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventRoyaleSchedulePlayTimerSet.h"
+  },
+  {
+    "Table": "event_times",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\EventTimes.h"
+  },
+  {
+    "Table": "event_times",
+    "Column": "btime1",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventTimes.h"
+  },
+  {
+    "Table": "event_times",
+    "Column": "btime2",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventTimes.h"
+  },
+  {
+    "Table": "event_times",
+    "Column": "btime3",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventTimes.h"
+  },
+  {
+    "Table": "event_times",
+    "Column": "blvmin",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventTimes.h"
+  },
+  {
+    "Table": "event_times",
+    "Column": "blvmax",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventTimes.h"
+  },
+  {
+    "Table": "event_times",
+    "Column": "alldays",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\EventTimes.h"
+  },
+  {
+    "Table": "event_trigger",
+    "Column": "nindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventTriggerSet.h"
+  },
+  {
+    "Table": "event_trigger",
+    "Column": "bnpctype",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\EventTriggerSet.h"
+  },
+  {
+    "Table": "event_trigger",
+    "Column": "snpcid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventTriggerSet.h"
+  },
+  {
+    "Table": "event_trigger",
+    "Column": "ntriggernum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\EventTriggerSet.h"
+  },
+  {
+    "Table": "item_smash",
+    "Column": "nindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemExchangeCrashSet.h"
+  },
+  {
+    "Table": "item_smash",
+    "Column": "nitemid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemExchangeCrashSet.h"
+  },
+  {
+    "Table": "item_smash",
+    "Column": "ncount",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemExchangeCrashSet.h"
+  },
+  {
+    "Table": "item_smash",
+    "Column": "nrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemExchangeCrashSet.h"
+  },
+  {
+    "Table": "item_expiration",
+    "Column": "num",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemExpirationSet.h"
+  },
+  {
+    "Table": "item_expiration",
+    "Column": "expirationtime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemExpirationSet.h"
+  },
+  {
+    "Table": "item_mining_list",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemMiningDropList.h"
+  },
+  {
+    "Table": "item_mining_list",
+    "Column": "num",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemMiningDropList.h"
+  },
+  {
+    "Table": "item_mining_list",
+    "Column": "sratenormal",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemMiningDropList.h"
+  },
+  {
+    "Table": "item_mining_list",
+    "Column": "srategolden",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemMiningDropList.h"
+  },
+  {
+    "Table": "item_op",
+    "Column": "nitemid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemOpSet.h"
+  },
+  {
+    "Table": "item_op",
+    "Column": "btriggertype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemOpSet.h"
+  },
+  {
+    "Table": "item_op",
+    "Column": "nskillid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemOpSet.h"
+  },
+  {
+    "Table": "item_op",
+    "Column": "btriggerrate",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemOpSet.h"
+  },
+  {
+    "Table": "premium_gift_item",
+    "Column": "bpremiumtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\PremiumBonusItemSet.h"
+  },
+  {
+    "Table": "premium_gift_item",
+    "Column": "ibonusitemnum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PremiumBonusItemSet.h"
+  },
+  {
+    "Table": "premium_gift_item",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumBonusItemSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "num",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "itemiconid1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "itemiconid2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "kind",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "slot",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "race",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "class",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "damage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "delay",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "range",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "weight",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "duration",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "buyprice",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "sellprice",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "countable",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "effect1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "effect2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqlevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqlevelmax",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqrank",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqtitle",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqstr",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqsta",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqdex",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqintel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "reqcha",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "sellinggroup",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "itemtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "hitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "evasionrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "daggerac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "jamadarac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "swordac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "maceac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "axeac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "spearac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "bowac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "firedamage",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "icedamage",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "lightningdamage",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "poisondamage",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "hpdrain",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "mpdamage",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "mpdrain",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "mirrordamage",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "droprate",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "item",
+    "Column": "npbuyprice",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ItemTableSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "btype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "spid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "zoneid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "family",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "scount",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "x",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "y",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "z",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "bydirection",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "monster_juraid_mountain_respawn_list",
+    "Column": "bradius",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\JuraidMountionListInformationSet.h"
+  },
+  {
+    "Table": "kill_random_item",
+    "Column": "number",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\Kill_Random_Gift.h"
+  },
+  {
+    "Table": "kill_random_item",
+    "Column": "itemid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\Kill_Random_Gift.h"
+  },
+  {
+    "Table": "kill_random_item",
+    "Column": "percent",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\Kill_Random_Gift.h"
+  },
+  {
+    "Table": "kill_random_item",
+    "Column": "days",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\Kill_Random_Gift.h"
+  },
+  {
+    "Table": "kill_random_item",
+    "Column": "coin",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\Kill_Random_Gift.h"
+  },
+  {
+    "Table": "kill_random_item",
+    "Column": "count",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\Kill_Random_Gift.h"
+  },
+  {
+    "Table": "king_candidacy_notice_board",
+    "Column": "bynation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingCandidacyNoticeBoardSet.h"
+  },
+  {
+    "Table": "king_election_list",
+    "Column": "bynation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingElectionListSet.h"
+  },
+  {
+    "Table": "king_election_list",
+    "Column": "bytype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingElectionListSet.h"
+  },
+  {
+    "Table": "king_election_list",
+    "Column": "nknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KingElectionListSet.h"
+  },
+  {
+    "Table": "king_election_list",
+    "Column": "nmoney",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KingElectionListSet.h"
+  },
+  {
+    "Table": "king_nomination_list",
+    "Column": "nation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingNominationListSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "bynation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "bytype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "syear",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "bymonth",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byday",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byhour",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byminute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byimtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "simyear",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byimmonth",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byimday",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byimhour",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byimminute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "bynoahevent",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "bynoahevent_day",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "bynoahevent_hour",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "bynoahevent_minute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "snoahevent_duration",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byexpevent",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byexpevent_day",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byexpevent_hour",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byexpevent_minute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "sexpevent_duration",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "ntribute",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "byterritorytariff",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "nterritorytax",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "nnationaltreasury",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "king_system",
+    "Column": "skingclanid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KingSystemSet.h"
+  },
+  {
+    "Table": "knight_royale_beginner_item",
+    "Column": "id",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightRoyaleBeginnerItem.h"
+  },
+  {
+    "Table": "knight_royale_beginner_item",
+    "Column": "itempos",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightRoyaleBeginnerItem.h"
+  },
+  {
+    "Table": "knight_royale_beginner_item",
+    "Column": "nitemid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KnightRoyaleBeginnerItem.h"
+  },
+  {
+    "Table": "knight_royale_beginner_item",
+    "Column": "ncount",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightRoyaleBeginnerItem.h"
+  },
+  {
+    "Table": "knight_royale_beginner_item",
+    "Column": "ndurability",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleBeginnerItem.h"
+  },
+  {
+    "Table": "knight_royale_beginner_item",
+    "Column": "nflag",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightRoyaleBeginnerItem.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "slevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "srequiredexperience",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "stotalhit",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "stotalac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "imaxhp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "imaxmp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "sfirer",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "scoldr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "slightningr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "smagicr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "sdiseaser",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knight_royale_stats",
+    "Column": "spoisonr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightRoyaleStatSet.h"
+  },
+  {
+    "Table": "knights_alliance",
+    "Column": "smainallianceknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsAllianceSet.h"
+  },
+  {
+    "Table": "knights_alliance",
+    "Column": "ssuballianceknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsAllianceSet.h"
+  },
+  {
+    "Table": "knights_alliance",
+    "Column": "smercenaryclan_1",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsAllianceSet.h"
+  },
+  {
+    "Table": "knights_alliance",
+    "Column": "smercenaryclan_2",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsAllianceSet.h"
+  },
+  {
+    "Table": "knights_cape",
+    "Column": "scapeindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsCapeSet.h"
+  },
+  {
+    "Table": "knights_cape",
+    "Column": "nbuyprice",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KnightsCapeSet.h"
+  },
+  {
+    "Table": "knights_cape",
+    "Column": "bygrade",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCapeSet.h"
+  },
+  {
+    "Table": "knights_cape",
+    "Column": "nbuyloyalty",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KnightsCapeSet.h"
+  },
+  {
+    "Table": "knights_cape",
+    "Column": "byranking",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCapeSet.h"
+  },
+  {
+    "Table": "knights_cape",
+    "Column": "btype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCapeSet.h"
+  },
+  {
+    "Table": "knights_cape",
+    "Column": "bticket",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCapeSet.h"
+  },
+  {
+    "Table": "knights_castellan",
+    "Column": "idnum",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsCastellanCapeList.h"
+  },
+  {
+    "Table": "knights_castellan",
+    "Column": "scape",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsCastellanCapeList.h"
+  },
+  {
+    "Table": "knights_castellan",
+    "Column": "bcaper",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCastellanCapeList.h"
+  },
+  {
+    "Table": "knights_castellan",
+    "Column": "bcapeg",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCastellanCapeList.h"
+  },
+  {
+    "Table": "knights_castellan",
+    "Column": "bcapeb",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCastellanCapeList.h"
+  },
+  {
+    "Table": "knights_castellan",
+    "Column": "isactive",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsCastellanCapeList.h"
+  },
+  {
+    "Table": "knights_castellan",
+    "Column": "remainingtime",
+    "Bits": 64,
+    "Fetch": "UInt64",
+    "Source": "shared\\database\\KnightsCastellanCapeList.h"
+  },
+  {
+    "Table": "knights_rating",
+    "Column": "nrank",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KnightsRankSet.h"
+  },
+  {
+    "Table": "knights_rating",
+    "Column": "shindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsRankSet.h"
+  },
+  {
+    "Table": "knights_rating",
+    "Column": "npoints",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\KnightsRankSet.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "scastleindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "smasterknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "bysiegetype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "bywarday",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "bywartime",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "bywarminute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_1",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_2",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_3",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_4",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_5",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_6",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_7",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_8",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_9",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "schallengelist_10",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "bywarrequestday",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "bywarrequesttime",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "bywarrequestminute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "byguerrillawarday",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "byguerrillawartime",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "byguerrillawarminute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "smoradontariff",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "sdellostariff",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_1",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_2",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_3",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_4",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_5",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_6",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_7",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_8",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_9",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knights_siege_warfare",
+    "Column": "srequestlist_10",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KnightsSiegeWarFare.h"
+  },
+  {
+    "Table": "knight_royale_start_position",
+    "Column": "nindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\KNStartPositionRandomSet.h"
+  },
+  {
+    "Table": "knight_royale_start_position",
+    "Column": "gasstep",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\KNStartPositionRandomSet.h"
+  },
+  {
+    "Table": "level_up",
+    "Column": "id",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\LevelUpTableSet.h"
+  },
+  {
+    "Table": "level_up",
+    "Column": "level",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\LevelUpTableSet.h"
+  },
+  {
+    "Table": "level_up",
+    "Column": "rebithlevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\LevelUpTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "magicnum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "beforeaction",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "targetaction",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "selfeffect",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "flyingeffect",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "targeteffect",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "moral",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "skilllevel",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "skill",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "msp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "hp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "ssp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "itemgroup",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "useitem",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "casttime",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "recasttime",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "successrate",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "type1",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "type2",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "range",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "etc",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic",
+    "Column": "usestanding",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicTableSet.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "type",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "hitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "hit",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "adddamage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "range",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "combotype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "combocount",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "combodamage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type1",
+    "Column": "delay",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType1Set.h"
+  },
+  {
+    "Table": "magic_type2",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType2Set.h"
+  },
+  {
+    "Table": "magic_type2",
+    "Column": "hittype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType2Set.h"
+  },
+  {
+    "Table": "magic_type2",
+    "Column": "hitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType2Set.h"
+  },
+  {
+    "Table": "magic_type2",
+    "Column": "adddamage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType2Set.h"
+  },
+  {
+    "Table": "magic_type2",
+    "Column": "addrange",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType2Set.h"
+  },
+  {
+    "Table": "magic_type2",
+    "Column": "needarrow",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType2Set.h"
+  },
+  {
+    "Table": "magic_type3",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType3Set.h"
+  },
+  {
+    "Table": "magic_type3",
+    "Column": "directtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType3Set.h"
+  },
+  {
+    "Table": "magic_type3",
+    "Column": "duration",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType3Set.h"
+  },
+  {
+    "Table": "magic_type3",
+    "Column": "attribute",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType3Set.h"
+  },
+  {
+    "Table": "magic_type3",
+    "Column": "radius",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType3Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "bufftype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "radius",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "duration",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "attackspeed",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "speed",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "acpct",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "attack",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "magicattack",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "maxhp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "maxhppct",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "maxmp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "maxmppct",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "firer",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "coldr",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "lightningr",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "magicr",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "diseaser",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "poisonr",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "exppct",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "specialamount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "hitrate",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type4",
+    "Column": "avoidrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType4Set.h"
+  },
+  {
+    "Table": "magic_type5",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType5Set.h"
+  },
+  {
+    "Table": "magic_type5",
+    "Column": "type",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType5Set.h"
+  },
+  {
+    "Table": "magic_type5",
+    "Column": "exprecover",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType5Set.h"
+  },
+  {
+    "Table": "magic_type5",
+    "Column": "needstone",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType5Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "size",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "transformid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "duration",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "maxhp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "maxmp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "speed",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "attackspeed",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalhit",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalhitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalevasionrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalfirer",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalcoldr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totallightningr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalmagicr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totaldiseaser",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "totalpoisonr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "class",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "userskilluse",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "needitem",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "skillsuccessrate",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "monsterfriendly",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type6",
+    "Column": "nation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType6Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "nindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "byvalidgroup",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "bynatoinchange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "shmonsternum",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "bytargetchange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "bystatechange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "byradius",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "shhitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "shduration",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "shdamage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "byvisoin",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type7",
+    "Column": "nneeditem",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType7Set.h"
+  },
+  {
+    "Table": "magic_type8",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType8Set.h"
+  },
+  {
+    "Table": "magic_type8",
+    "Column": "target",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType8Set.h"
+  },
+  {
+    "Table": "magic_type8",
+    "Column": "radius",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType8Set.h"
+  },
+  {
+    "Table": "magic_type8",
+    "Column": "warptype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType8Set.h"
+  },
+  {
+    "Table": "magic_type8",
+    "Column": "exprecover",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType8Set.h"
+  },
+  {
+    "Table": "magic_type8",
+    "Column": "kickdistance",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType8Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "inum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "validgroup",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "nationchange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "monsternum",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "targetchange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "statechange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "radius",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "hitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "duration",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "adddamage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "vision",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "magic_type9",
+    "Column": "needitem",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MagicType9Set.h"
+  },
+  {
+    "Table": "make_item_larecode",
+    "Column": "bylevelgrade",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MakeLareItemTableSet.h"
+  },
+  {
+    "Table": "make_item_larecode",
+    "Column": "slareitem",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MakeLareItemTableSet.h"
+  },
+  {
+    "Table": "make_item_larecode",
+    "Column": "smagicitem",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MakeLareItemTableSet.h"
+  },
+  {
+    "Table": "make_item_larecode",
+    "Column": "sgereralitem",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MakeLareItemTableSet.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "nindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "snpcid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "giveeffect",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "oretype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "noriginitemnum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "ngiveitemnum",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "ngiveitemcount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_exchange",
+    "Column": "succesrate",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningExchange.h"
+  },
+  {
+    "Table": "mining_fishing_item",
+    "Column": "nindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningFishingTableSet.h"
+  },
+  {
+    "Table": "mining_fishing_item",
+    "Column": "ntabletype",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningFishingTableSet.h"
+  },
+  {
+    "Table": "mining_fishing_item",
+    "Column": "nwarstatus",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningFishingTableSet.h"
+  },
+  {
+    "Table": "mining_fishing_item",
+    "Column": "useitemtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MiningFishingTableSet.h"
+  },
+  {
+    "Table": "mining_fishing_item",
+    "Column": "ngiveitemid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningFishingTableSet.h"
+  },
+  {
+    "Table": "mining_fishing_item",
+    "Column": "ngiveitemcount",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningFishingTableSet.h"
+  },
+  {
+    "Table": "mining_fishing_item",
+    "Column": "successrate",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MiningFishingTableSet.h"
+  },
+  {
+    "Table": "monster_challenge",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterChallenge.h"
+  },
+  {
+    "Table": "monster_challenge",
+    "Column": "bstarttime1",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallenge.h"
+  },
+  {
+    "Table": "monster_challenge",
+    "Column": "bstarttime2",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallenge.h"
+  },
+  {
+    "Table": "monster_challenge",
+    "Column": "bstarttime3",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallenge.h"
+  },
+  {
+    "Table": "monster_challenge",
+    "Column": "blevelmin",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallenge.h"
+  },
+  {
+    "Table": "monster_challenge",
+    "Column": "blevelmax",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallenge.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "blevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "bstage",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "bstagelevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "stime",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "sposx",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "sposz",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_challenge_summon_list",
+    "Column": "brange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterChallengeSummonList.h"
+  },
+  {
+    "Table": "monster_resource",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterResourceSet.h"
+  },
+  {
+    "Table": "monster_resource",
+    "Column": "snoticezone",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterResourceSet.h"
+  },
+  {
+    "Table": "monster_resource",
+    "Column": "snoticetype",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterResourceSet.h"
+  },
+  {
+    "Table": "monster_respawn_list",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnListSet.h"
+  },
+  {
+    "Table": "monster_respawn_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnListSet.h"
+  },
+  {
+    "Table": "monster_respawn_list",
+    "Column": "stype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterRespawnListSet.h"
+  },
+  {
+    "Table": "monster_respawn_list",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnListSet.h"
+  },
+  {
+    "Table": "monster_respawn_list",
+    "Column": "isdeadtime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MonsterRespawnListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "groupnumber",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "isnpc",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "szoneid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "sradius",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_stable_list",
+    "Column": "isdeadtime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MonsterRespawnStableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_variable_list",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnVeriableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_variable_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnVeriableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_variable_list",
+    "Column": "stype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterRespawnVeriableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_variable_list",
+    "Column": "szoneid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterRespawnVeriableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_variable_list",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnVeriableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_variable_list",
+    "Column": "sradius",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterRespawnVeriableListSet.h"
+  },
+  {
+    "Table": "monster_respawn_variable_list",
+    "Column": "isdeadtime",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\MonsterRespawnVeriableListSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "btype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "spid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "zoneid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "isboss",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "family",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "bydirection",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "scount",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "x",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "y",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_stone_respawn_list",
+    "Column": "z",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterStoneListInformationSet.h"
+  },
+  {
+    "Table": "monster_summon_list",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterSummonListSet.h"
+  },
+  {
+    "Table": "monster_summon_list",
+    "Column": "slevel",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterSummonListSet.h"
+  },
+  {
+    "Table": "monster_summon_list",
+    "Column": "sprobability",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterSummonListSet.h"
+  },
+  {
+    "Table": "monster_summon_list",
+    "Column": "btype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterSummonListSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "sindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "btype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "trapnumber",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "x",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "y",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "z",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "bydirection",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "monster_under_the_castle",
+    "Column": "bradius",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\MonsterUnderTheCastleSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "zoneid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "npcid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "acttype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "regentype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "dungeonfamily",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "specialtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "trapnumber",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "numnpc",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "regtime",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "bydirection",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "dotcnt",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npcpos",
+    "Column": "room",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcPosSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "spid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "ssize",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "iweapon1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "iweapon2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bygroup",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byacttype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bytype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byfamily",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byrank",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bytitle",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "isellinggroup",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "slevel",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "iexp",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "iloyalty",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "ihppoint",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "smppoint",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "satk",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "shitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sevaderate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sdamage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sattackdelay",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byspeed1",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byspeed2",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sstandtime",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sitem",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "imagic1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "imagic2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "imagic3",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sfirer",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "scoldr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "slightningr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "smagicr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sdiseaser",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "spoisonr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "sbulk",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "byattackrange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bysearchrange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bytracingrange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "imoney",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bydirectattack",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_npc",
+    "Column": "bymagicattack",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_objectpos",
+    "Column": "zoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ObjectPosSet.h"
+  },
+  {
+    "Table": "k_objectpos",
+    "Column": "bylife",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ObjectPosSet.h"
+  },
+  {
+    "Table": "pet_stats_info",
+    "Column": "petlevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\PetStatsInfo.h"
+  },
+  {
+    "Table": "pet_stats_info",
+    "Column": "petmaxhp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PetStatsInfo.h"
+  },
+  {
+    "Table": "pet_stats_info",
+    "Column": "petmaxsp",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PetStatsInfo.h"
+  },
+  {
+    "Table": "pet_stats_info",
+    "Column": "petattack",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PetStatsInfo.h"
+  },
+  {
+    "Table": "pet_stats_info",
+    "Column": "petdefence",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PetStatsInfo.h"
+  },
+  {
+    "Table": "pet_stats_info",
+    "Column": "petres",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\PetStatsInfo.h"
+  },
+  {
+    "Table": "pet_stats_info",
+    "Column": "petexp",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PetStatsInfo.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "sindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "nreqitem0",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "nreqitem1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "nreqitem2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "nreplaceitem",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "sreplacespid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "sreplacesize",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "pet_image_change",
+    "Column": "spercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PetTransformSet.h"
+  },
+  {
+    "Table": "ppcard",
+    "Column": "firstbox",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ppcardtable.h"
+  },
+  {
+    "Table": "ppcard",
+    "Column": "used",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ppcardtable.h"
+  },
+  {
+    "Table": "ppcard",
+    "Column": "cashpoint",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ppcardtable.h"
+  },
+  {
+    "Table": "premium_item_exp",
+    "Column": "nindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumItemExpSet.h"
+  },
+  {
+    "Table": "premium_item_exp",
+    "Column": "type",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\PremiumItemExpSet.h"
+  },
+  {
+    "Table": "premium_item_exp",
+    "Column": "minlevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\PremiumItemExpSet.h"
+  },
+  {
+    "Table": "premium_item_exp",
+    "Column": "maxlevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\PremiumItemExpSet.h"
+  },
+  {
+    "Table": "premium_item_exp",
+    "Column": "spercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumItemExpSet.h"
+  },
+  {
+    "Table": "premium_item",
+    "Column": "type",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\PremiumItemSet.h"
+  },
+  {
+    "Table": "premium_item",
+    "Column": "exprestorepercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumItemSet.h"
+  },
+  {
+    "Table": "premium_item",
+    "Column": "noahpercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumItemSet.h"
+  },
+  {
+    "Table": "premium_item",
+    "Column": "droppercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumItemSet.h"
+  },
+  {
+    "Table": "premium_item",
+    "Column": "bonusloyalty",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\PremiumItemSet.h"
+  },
+  {
+    "Table": "premium_item",
+    "Column": "repairdiscountpercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumItemSet.h"
+  },
+  {
+    "Table": "premium_item",
+    "Column": "itemsellpercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\PremiumItemSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "nindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "bmessagetype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "blevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "nexp",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "bclass",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "bnation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "bquesttype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "bzone",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "snpcid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "seventdataindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "beventstatus",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "neventtriggerindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "neventcompleteindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "nexchangeindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "neventtalkindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "squestmenu",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "snpcmain",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "quest_helper",
+    "Column": "squestsolo",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\QuestHelperSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "nrentalindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "nitemindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "sdurability",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "nserialnumber",
+    "Bits": 64,
+    "Fetch": "UInt64",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "byregtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "byitemtype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "byclass",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "srentaltime",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "rental_item",
+    "Column": "nrentalmoney",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\RentalItemSet.h"
+  },
+  {
+    "Table": "return_is_letter_item",
+    "Column": "id",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ReturnLetterGiftItemSet.h"
+  },
+  {
+    "Table": "return_is_letter_item",
+    "Column": "nitemid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ReturnLetterGiftItemSet.h"
+  },
+  {
+    "Table": "return_is_letter_item",
+    "Column": "scount",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ReturnLetterGiftItemSet.h"
+  },
+  {
+    "Table": "server_resource",
+    "Column": "nresourceid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ServerResourceSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "setindex",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "acbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "hpbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "mpbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "strengthbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "staminabonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "dexteritybonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "intelbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "charismabonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "flameresistance",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "glacierresistance",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "lightningresistance",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "poisonresistance",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "magicresistance",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "curseresistance",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "xpbonuspercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "coinbonuspercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "apbonuspercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "apbonusclasstype",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "apbonusclasspercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "acbonusclasstype",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "acbonusclasspercent",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "maxweightbonus",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "set_item",
+    "Column": "npbonus",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\SetItemTableSet.h"
+  },
+  {
+    "Table": "sheriff_reports",
+    "Column": "yes",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\SheriffReportListSet.h"
+  },
+  {
+    "Table": "sheriff_reports",
+    "Column": "no",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\SheriffReportListSet.h"
+  },
+  {
+    "Table": "start_position_random",
+    "Column": "zoneid",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\StartPositionRandomSet.h"
+  },
+  {
+    "Table": "start_position_random",
+    "Column": "posx",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionRandomSet.h"
+  },
+  {
+    "Table": "start_position_random",
+    "Column": "posz",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionRandomSet.h"
+  },
+  {
+    "Table": "start_position_random",
+    "Column": "radius",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\StartPositionRandomSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "zoneid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "skarusx",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "skarusz",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "selmoradx",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "selmoradz",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "brangex",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "brangez",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "skarusgatex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "skarusgatez",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "selmogatex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "start_position",
+    "Column": "selmogatez",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\StartPositionSet.h"
+  },
+  {
+    "Table": "user_items",
+    "Column": "nitemid",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\UserItemSet.h"
+  },
+  {
+    "Table": "user_items",
+    "Column": "nitemserial",
+    "Bits": 64,
+    "Fetch": "UInt64",
+    "Source": "shared\\database\\UserItemSet.h"
+  },
+  {
+    "Table": "user_knights_rank",
+    "Column": "shindex",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\UserKnightsRankSet.h"
+  },
+  {
+    "Table": "user_knights_rank",
+    "Column": "selmoknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\UserKnightsRankSet.h"
+  },
+  {
+    "Table": "user_knights_rank",
+    "Column": "nelmoloyalty",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\UserKnightsRankSet.h"
+  },
+  {
+    "Table": "user_knights_rank",
+    "Column": "skarusknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\UserKnightsRankSet.h"
+  },
+  {
+    "Table": "user_knights_rank",
+    "Column": "nkarusloyalty",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\UserKnightsRankSet.h"
+  },
+  {
+    "Table": "user_knights_rank",
+    "Column": "nmoney",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\UserKnightsRankSet.h"
+  },
+  {
+    "Table": "user_personal_rank",
+    "Column": "nrank",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\UserPersonalRankSet.h"
+  },
+  {
+    "Table": "user_personal_rank",
+    "Column": "selmoknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\UserPersonalRankSet.h"
+  },
+  {
+    "Table": "user_personal_rank",
+    "Column": "nelmoloyaltymonthly",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\UserPersonalRankSet.h"
+  },
+  {
+    "Table": "user_personal_rank",
+    "Column": "skarusknights",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\UserPersonalRankSet.h"
+  },
+  {
+    "Table": "user_personal_rank",
+    "Column": "nkarusloyaltymonthly",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\UserPersonalRankSet.h"
+  },
+  {
+    "Table": "user_personal_rank",
+    "Column": "nsalary",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\UserPersonalRankSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "serverno",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "zoneno",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "status",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "zonetype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "minlevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "maxlevel",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "tradeothernation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "talkothernation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "attackothernation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "attacksamenation",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "friendlynpc",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "warzone",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "clanupdates",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "teleport",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "gate",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "escape",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "callingfriend",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "teleportfriend",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "blink",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "petspawn",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "explost",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "giveloyalty",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "guardsummon",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "blinkzone",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "initx",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "initz",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "zone_info",
+    "Column": "inity",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\ZoneInfoSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "ssid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "spid",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "ssize",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "iweapon1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "iweapon2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bygroup",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "byacttype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bytype",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "byfamily",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "byrank",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bytitle",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "isellinggroup",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "slevel",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "iexp",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "iloyalty",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "ihppoint",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "smppoint",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "satk",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sac",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "shitrate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sevaderate",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sdamage",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sattackdelay",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "byspeed1",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "byspeed2",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sstandtime",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sitem",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "imagic1",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "imagic2",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "imagic3",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sfirer",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "scoldr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "slightningr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "smagicr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sdiseaser",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "spoisonr",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "sbulk",
+    "Bits": 16,
+    "Fetch": "UInt16",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "byattackrange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bysearchrange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bytracingrange",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "imoney",
+    "Bits": 32,
+    "Fetch": "UInt32",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bydirectattack",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  },
+  {
+    "Table": "k_monster",
+    "Column": "bymagicattack",
+    "Bits": 8,
+    "Fetch": "Byte",
+    "Source": "shared\\database\\NpcTableSet.h"
+  }
+]

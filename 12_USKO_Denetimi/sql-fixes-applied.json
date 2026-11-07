@@ -1,0 +1,20 @@
+{
+  "Database": "KNIGHT_TEMU_2239",
+  "Installed": [
+    "GetAccountID",
+    "UPDATE_USER_KNIGHTS_RANK",
+    "UPDATE_USER_PERSONAL_RANK",
+    "UPDATE_KNIGHTS_RATING",
+    "CASTLE_SIEGE_WAR_CONTROL"
+  ],
+  "SpawnRespawnRowsChangedThisRun": 0,
+  "VerifiedRespawnRowsInScope": 12,
+  "RespawnSeconds": 28800,
+  "SpawnPositionsChanged": 0,
+  "SpawnDensityChanged": 0,
+  "UnknownBaseUpgradeRatesChanged": 0,
+  "MonsterDropRatesChanged": 0,
+  "MonsterExpChanged": 0,
+  "Level77And79AlignedToSuppliedClient": true,
+  "BackupsInDatabase": true
+}

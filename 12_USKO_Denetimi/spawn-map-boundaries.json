@@ -1,0 +1,36 @@
+{
+  "MapFilesChecked": 57,
+  "MissingMapFiles": [],
+  "OutOfBoundsActiveSpawns": [
+    {
+      "zoneid": 21,
+      "npcid": 1694,
+      "acttype": 1,
+      "regentype": 0,
+      "dungeonfamily": 0,
+      "specialtype": 0,
+      "trapnumber": 0,
+      "limitminx": 1784,
+      "leftx": 521,
+      "limitmaxx": 551,
+      "rightx": 549,
+      "limitminz": 528,
+      "topz": 1790,
+      "limitmaxz": 1759,
+      "bottomz": 1761,
+      "numnpc": 5,
+      "regtime": 30,
+      "bydirection": 0,
+      "dotcnt": 0,
+      "path": "NULL",
+      "room": 0,
+      "PrototypeName": "Uruk Tron",
+      "PrototypeKind": "Monster",
+      "strZoneName": "Moradon",
+      "strZoneSmdName": "moradon.smd"
+    }
+  ],
+  "ReversedRectangleEndsSupportedByNativeLoader": true,
+  "CoordinateChangesApplied": 0,
+  "OfficialUSKOSpawnPositionsVerified": false
+}

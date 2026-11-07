@@ -1,0 +1,11 @@
+﻿{
+    "Success":  true,
+    "View":  "Registry32",
+    "Key":  "HKLM\\Software\\KnightOnlineUS\\ServerSelect",
+    "Value":  "ShowIntroMovie",
+    "Type":  "Binary",
+    "Data":  "01000000",
+    "OtherSettingsChanged":  false,
+    "Utc":  "2026-11-07T10:02:00.3159022Z",
+    "PreviouslyPresent":  false
+}

@@ -1,0 +1,62 @@
+{
+  "checkedDate": "2026-11-04",
+  "repositories": [
+    {
+      "repository": "CihanAksoy/KOServer",
+      "commit": "c88bee43268d3e1cbb83f6c4bae2e0ad04f8237b",
+      "luaPaths": 124,
+      "exactMissingNameMatches": 0,
+      "url": "https://github.com/CihanAksoy/KOServer"
+    },
+    {
+      "repository": "Ernosto/KOServer",
+      "commit": "dee04ab0085b8831184d0b9c03519652c1611be2",
+      "luaPaths": 124,
+      "exactMissingNameMatches": 0,
+      "url": "https://github.com/Ernosto/KOServer"
+    },
+    {
+      "repository": "RBACS/KnightOnline-Projectv1886",
+      "commit": "b4976cb97423b784bbc2637cafaeb03b169b949b",
+      "luaPaths": 126,
+      "exactMissingNameMatches": 0,
+      "url": "https://github.com/RBACS/KnightOnline-Projectv1886"
+    },
+    {
+      "repository": "nathank33/KOServer",
+      "commit": "95e7942926653dd306947cb147a10ea75c383064",
+      "luaPaths": 742,
+      "exactMissingNameMatches": 0,
+      "url": "https://github.com/nathank33/KOServer"
+    },
+    {
+      "repository": "yfz912/Knight-Online-Project",
+      "commit": "7cc05906c12fd68d7168b14c7060d9afd6ebf47e",
+      "luaPaths": 273,
+      "exactMissingNameMatches": 0,
+      "url": "https://github.com/yfz912/Knight-Online-Project"
+    }
+  ],
+  "sqlContract": {
+    "source": "https://github.com/nathank33/KOServer/blob/95e7942926653dd306947cb147a10ea75c383064/Source/GameServer/DBAgent.cpp#L140",
+    "versionSource": "https://github.com/nathank33/KOServer/blob/95e7942926653dd306947cb147a10ea75c383064/Source/shared/version.h",
+    "sourceVersion": 2083,
+    "procedure": "UPDATE_ALL_CHAR_ID",
+    "parameters": [
+      "account ID",
+      "character ID 1",
+      "character ID 2",
+      "character ID 3",
+      "character ID 4"
+    ],
+    "matchingLocalColumns": [
+      "strAccountID",
+      "strCharID1",
+      "strCharID2",
+      "strCharID3",
+      "strCharID4"
+    ],
+    "localSqlColumnType": "char(21)",
+    "status": "Call contract confirmed; published CREATE PROCEDURE definition not located; no SQL applied."
+  }
+}

@@ -1,0 +1,10 @@
+﻿[
+    {
+        "Name":  "ODBC Driver 18 for SQL Server",
+        "Platform":  "32-bit"
+    },
+    {
+        "Name":  "ODBC Driver 18 for SQL Server",
+        "Platform":  "64-bit"
+    }
+]

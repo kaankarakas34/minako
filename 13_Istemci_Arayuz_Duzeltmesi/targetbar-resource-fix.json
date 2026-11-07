@@ -1,0 +1,21 @@
+{
+  "ClientWireVersion": 2083,
+  "Column": 282,
+  "Changed": [
+    {
+      "Nation": 1,
+      "Old": "ui\\re_target_framebar.uif",
+      "New": "ui\\co_target_framebar.uif"
+    },
+    {
+      "Nation": 2,
+      "Old": "ui\\re_target_framebar.uif",
+      "New": "ui\\co_target_framebar.uif"
+    }
+  ],
+  "OtherTableCellsUnchanged": true,
+  "TableRoundTripPassed": true,
+  "NewLayoutFile": "UI/co_target_framebar.uif",
+  "ClientExeChanged": false,
+  "SHA256": "ad10160afe13df5a2f0143b78b06f1c9541d48fd519e5154d83c7f098c35856f"
+}

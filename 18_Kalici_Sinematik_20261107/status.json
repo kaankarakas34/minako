@@ -1,0 +1,31 @@
+{
+  "UpdatedUtc": "2026-11-07T10:03:49.607579+00:00",
+  "RemovedCinematicFilesStillAbsent": 81,
+  "MovieSceneRows": 0,
+  "LauncherReappliesEmptySceneTable": true,
+  "IntroCompletionFlagVerified": true,
+  "ClientExeModified": false,
+  "GameCharacterModified": false,
+  "GraphicalCharacterEntryConfirmed": true,
+  "AwaitingUserCleanLaunchTest": false,
+  "Files": [
+    {
+      "Path": "11_Istemci_Uyumluluk/Yerel_Launcher/bin/Launcher.exe",
+      "SHA256": "e3a54f8d49b1056ed68e6c6d151fae88fbe0bab0e4ef2d830a335c566f8f9ac7"
+    },
+    {
+      "Path": "11_Istemci_Uyumluluk/Yerel_Launcher/bin/movie_scene.disabled.tbl",
+      "SHA256": "03996bb53a545afb88341c2b4c01aaa1cb6913fd891971713a36aa5afb950968"
+    },
+    {
+      "Path": "11_Istemci_Uyumluluk/Gamesoft_Yerel/Data/movie_scene.tbl",
+      "SHA256": "03996bb53a545afb88341c2b4c01aaa1cb6913fd891971713a36aa5afb950968"
+    },
+    {
+      "Path": "11_Istemci_Uyumluluk/Gamesoft_Yerel/KnightOnLine.exe",
+      "SHA256": "683befabae1f217296befda2a824b26bd2fff77bff67aa72a66c219c040f12fe"
+    }
+  ],
+  "ConfirmationSource": "User confirmed a clean shortcut launch entered the game directly without the story cinematic.",
+  "ConfirmedUtc": "2026-11-07T10:05:40.667704+00:00"
+}

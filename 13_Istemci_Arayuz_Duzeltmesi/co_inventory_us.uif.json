@@ -1,0 +1,4020 @@
+{
+  "type": "base",
+  "width": 527,
+  "height": 563,
+  "tail": [
+    0,
+    0
+  ],
+  "children": [
+    {
+      "type": "area",
+      "id": "area_tooltip",
+      "x": 213,
+      "y": 85,
+      "width": 122,
+      "height": 205,
+      "tail": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_helmetview",
+      "x": 453,
+      "y": 32,
+      "width": 19,
+      "height": 17,
+      "style": 131072,
+      "tail": [
+        0,
+        0
+      ],
+      "click_x": 453,
+      "click_y": 32,
+      "click_width": 19,
+      "click_height": 17,
+      "children": [
+        {
+          "type": "image",
+          "x": 453,
+          "y": 32,
+          "width": 19,
+          "height": 17,
+          "reserved": 3,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\seed_op.dxt",
+          "crop": {
+            "left": 0.798828125,
+            "top": 0.119140625,
+            "right": 0.8359375,
+            "bottom": 0.15625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 453,
+          "y": 32,
+          "width": 19,
+          "height": 17,
+          "reserved": 2,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\seed_op.dxt",
+          "crop": {
+            "left": 0.798828125,
+            "top": 0.015625,
+            "right": 0.8359375,
+            "bottom": 0.052734375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 453,
+          "y": 32,
+          "width": 19,
+          "height": 17,
+          "reserved": 1,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\seed_op.dxt",
+          "crop": {
+            "left": 0.798828125,
+            "top": 0.068359375,
+            "right": 0.8359375,
+            "bottom": 0.10546875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 453,
+          "y": 32,
+          "width": 19,
+          "height": 17,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\seed_op.dxt",
+          "crop": {
+            "left": 0.798828125,
+            "top": 0.119140625,
+            "right": 0.8359375,
+            "bottom": 0.15625
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "base",
+      "id": "base_bag",
+      "x": 163,
+      "y": 235,
+      "width": 237,
+      "height": 120,
+      "tail": [
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "string",
+          "id": "string_Bag",
+          "x": 174,
+          "y": 255,
+          "width": 216,
+          "height": 56,
+          "style": 75497472,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "Tahoma",
+          "fontSize": 11,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "text": "Equip bag. Once equipped, the bag item can not be removed. Would you like to continue?"
+        },
+        {
+          "type": "button",
+          "id": "btn_bag_ok",
+          "x": 202,
+          "y": 323,
+          "width": 68,
+          "height": 22,
+          "style": 65536,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 202,
+          "click_y": 323,
+          "click_width": 68,
+          "click_height": 22,
+          "children": [
+            {
+              "type": "image",
+              "x": 202,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 208,
+                  "y": 326,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 202,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.23828125,
+                "right": 0.177734375,
+                "bottom": 0.28125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 209,
+                  "y": 327,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    188,
+                    162,
+                    99,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 202,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.28125,
+                "right": 0.177734375,
+                "bottom": 0.32421875
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 208,
+                  "y": 326,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    245,
+                    240,
+                    231,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 202,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 208,
+                  "y": 326,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_bag_cancel",
+          "x": 299,
+          "y": 323,
+          "width": 68,
+          "height": 22,
+          "style": 65536,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 299,
+          "click_y": 323,
+          "click_width": 68,
+          "click_height": 22,
+          "children": [
+            {
+              "type": "image",
+              "x": 299,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 305,
+                  "y": 326,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 299,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.28125,
+                "right": 0.177734375,
+                "bottom": 0.32421875
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 305,
+                  "y": 326,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    245,
+                    240,
+                    231,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 299,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.23828125,
+                "right": 0.177734375,
+                "bottom": 0.28125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 306,
+                  "y": 327,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    188,
+                    162,
+                    99,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 299,
+              "y": 323,
+              "width": 68,
+              "height": 22,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 305,
+                  "y": 326,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "id": "img_bag_bottom",
+          "x": 166,
+          "y": 345,
+          "width": 234,
+          "height": 10,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.01171875,
+            "top": 0.59765625,
+            "right": 0.46875,
+            "bottom": 0.6171875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_bag_middle",
+          "x": 166,
+          "y": 250,
+          "width": 234,
+          "height": 95,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.01171875,
+            "top": 0.5703125,
+            "right": 0.46875,
+            "bottom": 0.591796875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_bag_top",
+          "x": 166,
+          "y": 237,
+          "width": 234,
+          "height": 13,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.01171875,
+            "top": 0.541015625,
+            "right": 0.46875,
+            "bottom": 0.56640625
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "base",
+      "id": "base_cos",
+      "width": 185,
+      "height": 558,
+      "tail": [
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "image",
+          "x": 107,
+          "y": 88,
+          "width": 55,
+          "height": 54,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory02.dxt",
+          "crop": {
+            "left": 0.515625,
+            "top": 0.5703125,
+            "right": 0.623046875,
+            "bottom": 0.67578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "area",
+          "id": "3",
+          "x": 113,
+          "y": 94,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "image",
+          "x": 58,
+          "y": 88,
+          "width": 55,
+          "height": 54,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory02.dxt",
+          "crop": {
+            "left": 0.515625,
+            "top": 0.5703125,
+            "right": 0.623046875,
+            "bottom": 0.67578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "string",
+          "id": "37",
+          "x": 26,
+          "y": 517,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "38",
+          "x": 74,
+          "y": 517,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "39",
+          "x": 122,
+          "y": 517,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "36",
+          "x": 122,
+          "y": 471,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "35",
+          "x": 74,
+          "y": 471,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "34",
+          "x": 28,
+          "y": 471,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "31",
+          "x": 28,
+          "y": 423,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "32",
+          "x": 74,
+          "y": 423,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "33",
+          "x": 122,
+          "y": 423,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "30",
+          "x": 122,
+          "y": 377,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "29",
+          "x": 74,
+          "y": 377,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "string",
+          "id": "28",
+          "x": 27,
+          "y": 377,
+          "width": 37,
+          "height": 17,
+          "style": 68157440,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "1<82",
+          "fontSize": 9,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "type": "image",
+          "id": "img_hide",
+          "x": 19,
+          "y": 348,
+          "width": 143,
+          "height": 190,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.318359375,
+            "top": 0.083984375,
+            "right": 0.4921875,
+            "bottom": 0.19140625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "area",
+          "id": "2",
+          "x": 116,
+          "y": 352,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "10",
+          "x": 69,
+          "y": 492,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "11",
+          "x": 116,
+          "y": 492,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "8",
+          "x": 116,
+          "y": 445,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "7",
+          "x": 69,
+          "y": 445,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "6",
+          "x": 22,
+          "y": 445,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "3",
+          "x": 22,
+          "y": 398,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "4",
+          "x": 69,
+          "y": 398,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "5",
+          "x": 116,
+          "y": 398,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "1",
+          "x": 69,
+          "y": 352,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "0",
+          "x": 23,
+          "y": 352,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "9",
+          "x": 22,
+          "y": 492,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 18
+        },
+        {
+          "type": "area",
+          "id": "6",
+          "x": 113,
+          "y": 257,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "5",
+          "x": 25,
+          "y": 257,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "4",
+          "x": 66,
+          "y": 142,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "0",
+          "x": 66,
+          "y": 94,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "2",
+          "x": 18,
+          "y": 95,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "area",
+          "id": "1",
+          "x": 67,
+          "y": 44,
+          "width": 43,
+          "height": 43,
+          "tail": [
+            0,
+            0
+          ],
+          "areaType": 17
+        },
+        {
+          "type": "button",
+          "id": "btn_bag1",
+          "x": 19,
+          "y": 323,
+          "width": 48,
+          "height": 25,
+          "style": 131072,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 19,
+          "click_y": 326,
+          "click_width": 47,
+          "click_height": 21,
+          "children": [
+            {
+              "type": "image",
+              "x": 19,
+              "y": 326,
+              "width": 47,
+              "height": 21,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.75,
+                "top": 0.365234375,
+                "right": 0.859375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 20,
+                  "y": 326,
+                  "width": 45,
+                  "height": 21,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    255,
+                    255,
+                    255,
+                    255
+                  ],
+                  "text": "Bag1"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 19,
+              "y": 323,
+              "width": 48,
+              "height": 25,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.865234375,
+                "top": 0.357421875,
+                "right": 0.974609375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 19,
+                  "y": 323,
+                  "width": 48,
+                  "height": 25,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    28,
+                    21,
+                    13,
+                    255
+                  ],
+                  "text": "Bag1"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 19,
+              "y": 326,
+              "width": 47,
+              "height": 21,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.75,
+                "top": 0.365234375,
+                "right": 0.859375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 20,
+                  "y": 327,
+                  "width": 45,
+                  "height": 20,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    255,
+                    255,
+                    255,
+                    255
+                  ],
+                  "text": "Bag1"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 19,
+              "y": 326,
+              "width": 47,
+              "height": 21,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.75,
+                "top": 0.365234375,
+                "right": 0.859375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 20,
+                  "y": 326,
+                  "width": 45,
+                  "height": 21,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    255,
+                    255,
+                    255,
+                    255
+                  ],
+                  "text": "Bag1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_bag2",
+          "x": 67,
+          "y": 323,
+          "width": 48,
+          "height": 25,
+          "style": 131072,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 67,
+          "click_y": 326,
+          "click_width": 47,
+          "click_height": 21,
+          "children": [
+            {
+              "type": "image",
+              "x": 67,
+              "y": 326,
+              "width": 47,
+              "height": 21,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.75,
+                "top": 0.365234375,
+                "right": 0.859375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 68,
+                  "y": 326,
+                  "width": 45,
+                  "height": 21,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    255,
+                    255,
+                    255,
+                    255
+                  ],
+                  "text": "Bag2"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 67,
+              "y": 326,
+              "width": 47,
+              "height": 21,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.75,
+                "top": 0.365234375,
+                "right": 0.859375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 68,
+                  "y": 327,
+                  "width": 45,
+                  "height": 20,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    255,
+                    255,
+                    255,
+                    255
+                  ],
+                  "text": "Bag2"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 67,
+              "y": 323,
+              "width": 48,
+              "height": 25,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.865234375,
+                "top": 0.357421875,
+                "right": 0.974609375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 67,
+                  "y": 323,
+                  "width": 48,
+                  "height": 25,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    28,
+                    21,
+                    13,
+                    255
+                  ],
+                  "text": "Bag2"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 67,
+              "y": 326,
+              "width": 47,
+              "height": 21,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\main_ui_01.dxt",
+              "crop": {
+                "left": 0.75,
+                "top": 0.365234375,
+                "right": 0.859375,
+                "bottom": 0.40625
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 68,
+                  "y": 326,
+                  "width": 45,
+                  "height": 21,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "Tahoma",
+                  "fontSize": 11,
+                  "fontFlags": 1,
+                  "color": [
+                    255,
+                    255,
+                    255,
+                    255
+                  ],
+                  "text": "Bag2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "x": 59,
+          "y": 137,
+          "width": 55,
+          "height": 54,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory02.dxt",
+          "crop": {
+            "left": 0.515625,
+            "top": 0.5703125,
+            "right": 0.623046875,
+            "bottom": 0.67578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 19,
+          "y": 347,
+          "width": 144,
+          "height": 191,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.369140625,
+            "top": 0.623046875,
+            "right": 0.650390625,
+            "bottom": 0.99609375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 107,
+          "y": 251,
+          "width": 55,
+          "height": 54,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_pat_ui.dxt",
+          "crop": {
+            "left": 0.8671875,
+            "top": 0.21484375,
+            "right": 0.98046875,
+            "bottom": 0.322265625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 19,
+          "y": 251,
+          "width": 55,
+          "height": 54,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_pat_ui.dxt",
+          "crop": {
+            "left": 0.8671875,
+            "top": 0.21484375,
+            "right": 0.98046875,
+            "bottom": 0.322265625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 12,
+          "y": 89,
+          "width": 55,
+          "height": 54,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory02.dxt",
+          "crop": {
+            "left": 0.515625,
+            "top": 0.5703125,
+            "right": 0.623046875,
+            "bottom": 0.67578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 1,
+          "y": 546,
+          "width": 183,
+          "height": 11,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.4296875,
+            "top": 0.380859375,
+            "right": 0.99609375,
+            "bottom": 0.400390625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "button",
+          "id": "btn_close_cos",
+          "x": 163,
+          "y": 118,
+          "width": 13,
+          "height": 56,
+          "style": 65536,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 163,
+          "click_y": 118,
+          "click_width": 13,
+          "click_height": 56,
+          "children": [
+            {
+              "type": "image",
+              "x": 163,
+              "y": 118,
+              "width": 13,
+              "height": 56,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_cos.dxt",
+              "crop": {
+                "left": 0.439453125,
+                "top": 0.25390625,
+                "right": 0.46484375,
+                "bottom": 0.36328125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 163,
+              "y": 118,
+              "width": 13,
+              "height": 56,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_cos.dxt",
+              "crop": {
+                "left": 0.5078125,
+                "top": 0.25390625,
+                "right": 0.533203125,
+                "bottom": 0.36328125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 163,
+              "y": 118,
+              "width": 13,
+              "height": 56,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_cos.dxt",
+              "crop": {
+                "left": 0.5703125,
+                "top": 0.25390625,
+                "right": 0.595703125,
+                "bottom": 0.36328125
+              },
+              "animFrame": 30
+            },
+            {
+              "type": "image",
+              "x": 163,
+              "y": 118,
+              "width": 13,
+              "height": 56,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_cos.dxt",
+              "crop": {
+                "left": 0.439453125,
+                "top": 0.25390625,
+                "right": 0.46484375,
+                "bottom": 0.36328125
+              },
+              "animFrame": 30
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "x": 60,
+          "y": 39,
+          "width": 55,
+          "height": 54,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory02.dxt",
+          "crop": {
+            "left": 0.515625,
+            "top": 0.5703125,
+            "right": 0.623046875,
+            "bottom": 0.67578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 36,
+          "y": 39,
+          "width": 99,
+          "height": 202,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.6796875,
+            "top": 0.009765625,
+            "right": 0.98828125,
+            "bottom": 0.578125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 1,
+          "y": 103,
+          "width": 180,
+          "height": 443,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.14453125,
+            "top": 0.072265625,
+            "right": 0.35546875,
+            "bottom": 0.1953125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "y": 2,
+          "width": 183,
+          "height": 102,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.015625,
+            "top": 0.015625,
+            "right": 0.642578125,
+            "bottom": 0.21875
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_open_cos",
+      "x": 186,
+      "y": 118,
+      "width": 13,
+      "height": 56,
+      "style": 65536,
+      "tail": [
+        0,
+        0
+      ],
+      "click_x": 186,
+      "click_y": 118,
+      "click_width": 13,
+      "click_height": 56,
+      "children": [
+        {
+          "type": "image",
+          "x": 186,
+          "y": 118,
+          "width": 13,
+          "height": 56,
+          "reserved": 3,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.41015625,
+            "top": 0.25390625,
+            "right": 0.435546875,
+            "bottom": 0.36328125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 186,
+          "y": 118,
+          "width": 13,
+          "height": 56,
+          "reserved": 2,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.478515625,
+            "top": 0.25390625,
+            "right": 0.50390625,
+            "bottom": 0.36328125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 186,
+          "y": 118,
+          "width": 13,
+          "height": 56,
+          "reserved": 1,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.541015625,
+            "top": 0.25390625,
+            "right": 0.56640625,
+            "bottom": 0.36328125
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 186,
+          "y": 118,
+          "width": 13,
+          "height": 56,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_cos.dxt",
+          "crop": {
+            "left": 0.41015625,
+            "top": 0.25390625,
+            "right": 0.435546875,
+            "bottom": 0.36328125
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_gold",
+      "x": 356,
+      "y": 313,
+      "width": 25,
+      "height": 29,
+      "style": 65536,
+      "tail": [
+        0,
+        0
+      ],
+      "click_x": 356,
+      "click_y": 313,
+      "click_width": 25,
+      "click_height": 29,
+      "children": [
+        {
+          "type": "image",
+          "x": 356,
+          "y": 313,
+          "width": 25,
+          "height": 29,
+          "reserved": 3,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.0625,
+            "top": 0.02734375,
+            "right": 0.111328125,
+            "bottom": 0.083984375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 356,
+          "y": 313,
+          "width": 25,
+          "height": 29,
+          "reserved": 2,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.0625,
+            "top": 0.02734375,
+            "right": 0.111328125,
+            "bottom": 0.083984375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 356,
+          "y": 313,
+          "width": 25,
+          "height": 29,
+          "reserved": 1,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.0625,
+            "top": 0.02734375,
+            "right": 0.111328125,
+            "bottom": 0.083984375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 356,
+          "y": 313,
+          "width": 25,
+          "height": 29,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.0625,
+            "top": 0.02734375,
+            "right": 0.111328125,
+            "bottom": 0.083984375
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "string",
+      "id": "27",
+      "x": 477,
+      "y": 516,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "26",
+      "x": 429,
+      "y": 516,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "25",
+      "x": 382,
+      "y": 516,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "24",
+      "x": 335,
+      "y": 516,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "23",
+      "x": 288,
+      "y": 516,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "22",
+      "x": 242,
+      "y": 516,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "21",
+      "x": 195,
+      "y": 516,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "20",
+      "x": 477,
+      "y": 469,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "19",
+      "x": 429,
+      "y": 469,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "18",
+      "x": 382,
+      "y": 469,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "17",
+      "x": 335,
+      "y": 469,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "16",
+      "x": 288,
+      "y": 469,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "15",
+      "x": 242,
+      "y": 469,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "14",
+      "x": 195,
+      "y": 469,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "13",
+      "x": 477,
+      "y": 422,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "12",
+      "x": 429,
+      "y": 422,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "11",
+      "x": 382,
+      "y": 422,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "10",
+      "x": 335,
+      "y": 422,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "9",
+      "x": 288,
+      "y": 422,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "8",
+      "x": 242,
+      "y": 422,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "7",
+      "x": 196,
+      "y": 422,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "6",
+      "x": 477,
+      "y": 375,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "5",
+      "x": 429,
+      "y": 376,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "4",
+      "x": 382,
+      "y": 376,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "3",
+      "x": 335,
+      "y": 376,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "2",
+      "x": 288,
+      "y": 376,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "1",
+      "x": 242,
+      "y": 376,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "string",
+      "id": "0",
+      "x": 195,
+      "y": 376,
+      "width": 38,
+      "height": 18,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 9,
+      "fontFlags": 1,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "area",
+      "id": "27",
+      "x": 473,
+      "y": 492,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "26",
+      "x": 426,
+      "y": 492,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "25",
+      "x": 379,
+      "y": 492,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "24",
+      "x": 332,
+      "y": 492,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "23",
+      "x": 285,
+      "y": 492,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "22",
+      "x": 238,
+      "y": 492,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "21",
+      "x": 191,
+      "y": 492,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "19",
+      "x": 426,
+      "y": 445,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "20",
+      "x": 473,
+      "y": 445,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "18",
+      "x": 379,
+      "y": 445,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "17",
+      "x": 332,
+      "y": 445,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "16",
+      "x": 285,
+      "y": 445,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "15",
+      "x": 238,
+      "y": 445,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "14",
+      "x": 191,
+      "y": 445,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "13",
+      "x": 473,
+      "y": 398,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "12",
+      "x": 426,
+      "y": 398,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "14",
+      "x": 468,
+      "y": 251,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "11",
+      "x": 379,
+      "y": 398,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "area_samma",
+      "x": 467,
+      "y": 251,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "children": [
+        {
+          "type": "button",
+          "id": "btn_Destroy_ok",
+          "x": 273,
+          "y": 304,
+          "width": 68,
+          "height": 22,
+          "style": 65536,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 273,
+          "click_y": 304,
+          "click_width": 68,
+          "click_height": 22,
+          "children": [
+            {
+              "type": "image",
+              "x": 273,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 279,
+                  "y": 307,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 273,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.28125,
+                "right": 0.177734375,
+                "bottom": 0.32421875
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 279,
+                  "y": 307,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    245,
+                    240,
+                    231,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 273,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.23828125,
+                "right": 0.177734375,
+                "bottom": 0.28125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 280,
+                  "y": 308,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    188,
+                    162,
+                    99,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 273,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 279,
+                  "y": 307,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "O K"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "id": "btn_Destroy_cancel",
+          "x": 370,
+          "y": 304,
+          "width": 68,
+          "height": 22,
+          "style": 65536,
+          "tail": [
+            0,
+            0
+          ],
+          "click_x": 370,
+          "click_y": 304,
+          "click_width": 68,
+          "click_height": 22,
+          "children": [
+            {
+              "type": "image",
+              "x": 370,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 376,
+                  "y": 307,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 370,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "reserved": 1,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.23828125,
+                "right": 0.177734375,
+                "bottom": 0.28125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 377,
+                  "y": 308,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    188,
+                    162,
+                    99,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 370,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "reserved": 2,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.28125,
+                "right": 0.177734375,
+                "bottom": 0.32421875
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 376,
+                  "y": 307,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    245,
+                    240,
+                    231,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "x": 370,
+              "y": 304,
+              "width": 68,
+              "height": 22,
+              "reserved": 3,
+              "tail": [
+                0,
+                0
+              ],
+              "texture": "ui\\co_inventory.dxt",
+              "crop": {
+                "left": 0.044921875,
+                "top": 0.1953125,
+                "right": 0.177734375,
+                "bottom": 0.23828125
+              },
+              "animFrame": 30,
+              "children": [
+                {
+                  "type": "string",
+                  "x": 376,
+                  "y": 307,
+                  "width": 57,
+                  "height": 15,
+                  "style": 76546048,
+                  "tail": [
+                    0,
+                    0
+                  ],
+                  "font": "1<82",
+                  "fontSize": 10,
+                  "fontFlags": 1,
+                  "color": [
+                    226,
+                    210,
+                    169,
+                    255
+                  ],
+                  "text": "Cancel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "id": "string_Destroy",
+          "x": 241,
+          "y": 267,
+          "width": 226,
+          "height": 22,
+          "style": 76546048,
+          "tail": [
+            0,
+            0
+          ],
+          "font": "Tahoma",
+          "fontSize": 11,
+          "fontFlags": 1,
+          "color": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "text": "Will you destroy this item?"
+        },
+        {
+          "type": "image",
+          "id": "img_Destroy_top",
+          "x": 237,
+          "y": 240,
+          "width": 234,
+          "height": 13,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.01171875,
+            "top": 0.541015625,
+            "right": 0.46875,
+            "bottom": 0.56640625
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_Destroy_middle",
+          "x": 237,
+          "y": 253,
+          "width": 234,
+          "height": 73,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.01171875,
+            "top": 0.5703125,
+            "right": 0.46875,
+            "bottom": 0.591796875
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "id": "img_Destroy_bottom",
+          "x": 237,
+          "y": 326,
+          "width": 234,
+          "height": 10,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\co_inventory.dxt",
+          "crop": {
+            "left": 0.01171875,
+            "top": 0.59765625,
+            "right": 0.46875,
+            "bottom": 0.6171875
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "area",
+      "id": "10",
+      "x": 332,
+      "y": 399,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "9",
+      "x": 285,
+      "y": 398,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "8",
+      "x": 238,
+      "y": 398,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "7",
+      "x": 191,
+      "y": 398,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "6",
+      "x": 473,
+      "y": 351,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "5",
+      "x": 426,
+      "y": 351,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "4",
+      "x": 379,
+      "y": 351,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "3",
+      "x": 332,
+      "y": 351,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "2",
+      "x": 285,
+      "y": 351,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "1",
+      "x": 238,
+      "y": 351,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "area",
+      "id": "0",
+      "x": 191,
+      "y": 351,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 2
+    },
+    {
+      "type": "string",
+      "id": "text_gold",
+      "x": 398,
+      "y": 321,
+      "width": 113,
+      "height": 16,
+      "style": 72351744,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 10,
+      "fontFlags": 1,
+      "color": [
+        239,
+        198,
+        1,
+        255
+      ],
+      "text": "0"
+    },
+    {
+      "type": "area",
+      "id": "13",
+      "x": 415,
+      "y": 251,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "12",
+      "x": 363,
+      "y": 251,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "11",
+      "x": 467,
+      "y": 199,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "10",
+      "x": 415,
+      "y": 199,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "9",
+      "x": 363,
+      "y": 199,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "8",
+      "x": 467,
+      "y": 148,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "7",
+      "x": 415,
+      "y": 148,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "5",
+      "x": 467,
+      "y": 96,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "4",
+      "x": 415,
+      "y": 96,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "6",
+      "x": 363,
+      "y": 148,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "3",
+      "x": 363,
+      "y": 96,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "2",
+      "x": 467,
+      "y": 45,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "0",
+      "x": 363,
+      "y": 45,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "1",
+      "x": 415,
+      "y": 45,
+      "width": 43,
+      "height": 43,
+      "tail": [
+        0,
+        0
+      ],
+      "areaType": 1
+    },
+    {
+      "type": "area",
+      "id": "area_char",
+      "x": 189,
+      "y": 36,
+      "width": 155,
+      "height": 270,
+      "tail": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": "button",
+      "id": "btn_close",
+      "x": 505,
+      "y": 7,
+      "width": 15,
+      "height": 16,
+      "style": 65536,
+      "tail": [
+        0,
+        0
+      ],
+      "click_x": 505,
+      "click_y": 7,
+      "click_width": 15,
+      "click_height": 16,
+      "children": [
+        {
+          "type": "image",
+          "x": 505,
+          "y": 7,
+          "width": 15,
+          "height": 16,
+          "reserved": 3,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\main_ui_01.dxt",
+          "crop": {
+            "left": 0.896484375,
+            "top": 0.62109375,
+            "right": 0.92578125,
+            "bottom": 0.65234375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 505,
+          "y": 7,
+          "width": 15,
+          "height": 16,
+          "reserved": 2,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\main_ui_01.dxt",
+          "crop": {
+            "left": 0.96484375,
+            "top": 0.62109375,
+            "right": 0.994140625,
+            "bottom": 0.65234375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 505,
+          "y": 7,
+          "width": 15,
+          "height": 16,
+          "reserved": 1,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\main_ui_01.dxt",
+          "crop": {
+            "left": 0.931640625,
+            "top": 0.62109375,
+            "right": 0.9609375,
+            "bottom": 0.65234375
+          },
+          "animFrame": 30
+        },
+        {
+          "type": "image",
+          "x": 505,
+          "y": 7,
+          "width": 15,
+          "height": 16,
+          "tail": [
+            0,
+            0
+          ],
+          "texture": "ui\\main_ui_01.dxt",
+          "crop": {
+            "left": 0.896484375,
+            "top": 0.62109375,
+            "right": 0.92578125,
+            "bottom": 0.65234375
+          },
+          "animFrame": 30
+        }
+      ]
+    },
+    {
+      "type": "string",
+      "id": "text_weight",
+      "x": 188,
+      "y": 320,
+      "width": 159,
+      "height": 20,
+      "style": 70254592,
+      "tail": [
+        0,
+        0
+      ],
+      "font": "1<82",
+      "fontSize": 10,
+      "fontFlags": 1,
+      "color": [
+        162,
+        162,
+        162,
+        255
+      ],
+      "text": "9+0T : 210.0/510.0"
+    },
+    {
+      "type": "area",
+      "id": "area_wepone",
+      "x": 349,
+      "y": 33,
+      "width": 174,
+      "height": 273,
+      "tail": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": "image",
+      "id": "elmo_ecli666",
+      "x": 264,
+      "y": 182,
+      "width": 15,
+      "height": 15,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\co_inventory.dxt",
+      "crop": {
+        "left": 0.556640625,
+        "top": 0.484375,
+        "right": 0.578125,
+        "bottom": 0.5078125
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 181,
+      "y": 537,
+      "width": 345,
+      "height": 24,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\co_inventory.dxt",
+      "crop": {
+        "left": 0.322265625,
+        "top": 0.23828125,
+        "right": 0.99609375,
+        "bottom": 0.28515625
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 188,
+      "y": 347,
+      "width": 332,
+      "height": 192,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\co_inventory.dxt",
+      "crop": {
+        "left": 0.001953125,
+        "top": 0.623046875,
+        "right": 0.650390625,
+        "bottom": 0.998046875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 392,
+      "y": 319,
+      "width": 125,
+      "height": 20,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\co_inventory.dxt",
+      "crop": {
+        "left": 0.17578125,
+        "top": 0.37890625,
+        "right": 0.419921875,
+        "bottom": 0.41796875
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 349,
+      "y": 33,
+      "width": 174,
+      "height": 273,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\co_inventory.dxt",
+      "crop": {
+        "left": 0.65625,
+        "top": 0.462890625,
+        "right": 0.99609375,
+        "bottom": 0.99609375
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 181,
+      "y": 2,
+      "width": 345,
+      "height": 105,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\co_inventory.dxt",
+      "crop": {
+        "left": 0.322265625,
+        "top": 0.00390625,
+        "right": 0.99609375,
+        "bottom": 0.208984375
+      },
+      "animFrame": 30
+    },
+    {
+      "type": "image",
+      "x": 181,
+      "y": 107,
+      "width": 345,
+      "height": 430,
+      "tail": [
+        0,
+        0
+      ],
+      "texture": "ui\\co_inventory.dxt",
+      "crop": {
+        "left": 0.322265625,
+        "top": 0.2109375,
+        "right": 0.99609375,
+        "bottom": 0.236328125
+      },
+      "animFrame": 30
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ClientWireVersion": 2083,
+  "Column": 160,
+  "Changed": [
+    {
+      "Nation": 1,
+      "Old": "ui\\re_Seed_Helper.uif",
+      "New": "ui\\co_seed_helper_us.uif"
+    },
+    {
+      "Nation": 2,
+      "Old": "ui\\re_Seed_Helper.uif",
+      "New": "ui\\co_seed_helper_us.uif"
+    }
+  ],
+  "OtherTableCellsUnchanged": true,
+  "TableRoundTripPassed": true,
+  "NewLayoutFile": "UI/co_seed_helper_us.uif",
+  "ClientExeChanged": false,
+  "SHA256": "0a831e54f48139b79db3e33a23321825c5fc5d81270880bcca17e3b150ea1669"
+}

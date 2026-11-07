@@ -1,0 +1,32 @@
+[
+  {
+    "File": "16084_knight.lua",
+    "Domain": "Original",
+    "Changes": [],
+    "SHA256": "668dc8f7dda33f8f6832357f82358c2643ca66f96f298f16eace855fc13b2337"
+  },
+  {
+    "File": "16099_Asan.lua",
+    "Domain": "Original",
+    "Changes": [],
+    "SHA256": "16fa9c4db4445bc3aadd6c5132456dae3812e304dedf7c643995aba441016ebf"
+  },
+  {
+    "File": "31102_Casket02.lua",
+    "Domain": "Original",
+    "Changes": [],
+    "SHA256": "7442206373f97bef63b6d4f2a101170606033be3a54b967b2b94285712012087"
+  },
+  {
+    "File": "31517_KDeadHero.lua",
+    "Domain": "AKGame",
+    "Changes": [],
+    "SHA256": "823f9099055fe9ddfc50574c674adc88323d95c305ff07ce0a2a08f22cecac94"
+  },
+  {
+    "File": "31521_EDeadHero.lua",
+    "Domain": "AKGame",
+    "Changes": [],
+    "SHA256": "cec3688f98a657a7ebef65a2b83459e71beb79eda48554cba774f544e15d9fcb"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "LoginReady": true,
+  "GameReady": true,
+  "RelayReady": true,
+  "AllLocalServicesReady": true,
+  "ClientExecutablePresent": true,
+  "ClientIssue": null,
+  "Published": false,
+  "GraphicalLoginVerified": false,
+  "Utc": "2026-11-06T18:36:30.3396972Z"
+}

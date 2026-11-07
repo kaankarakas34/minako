@@ -1,0 +1,663 @@
+-- Adapted for bundled GameServer SHA256 19e92a27...; source Rust
+-- Completion guards use this SQL snapshot and the native 2083 API.
+local __KO_Stop = {}
+local __KO_Save = SaveEvent
+local __KO_Run = RunExchange
+local __KO_Select = RunSelectExchange
+local __KO_Done = {}
+local __KO_Committed = {}
+local __KO_Requirements = {
+  [6105]={{900005000,1312}},
+  [6106]={{900005000,1313}},
+  [6107]={{900653000,1}},
+  [6109]={{900654000,1},{900655000,1}},
+  [6110]={{900005000,1316}},
+  [6111]={{900005000,1317}},
+  [6112]={{900005000,1318}},
+  [6113]={{900005000,1319}},
+  [6114]={},
+}
+local __KO_Completion = {
+  [3583]={1312,6105},
+  [3589]={1313,6106},
+  [3595]={1314,6107},
+  [3601]={1315,6109},
+  [3607]={1316,6110},
+  [3613]={1317,6111},
+  [3619]={1318,6112},
+  [3625]={1319,6113},
+  [3631]={1320,6114},
+}
+local __KO_Quests = {
+  [6105]={1312},
+  [6106]={1313},
+  [6107]={1314},
+  [6109]={1315},
+  [6110]={1316},
+  [6111]={1317},
+  [6112]={1318},
+  [6113]={1319},
+  [6114]={1320},
+}
+local function __KO_Ready(uid, exchange)
+  if not CheckExchange(uid, exchange) then return false end
+  local required = __KO_Requirements[exchange]
+  if required == nil then return false end
+  for _, pair in ipairs(required) do
+    if HowmuchItem(uid, pair[1]) < pair[2] then return false end
+  end
+  return true
+end
+local function __KO_AlreadyComplete(uid, exchange)
+  local quests = __KO_Quests[exchange]
+  if quests == nil then return false end
+  local completed = false
+  for _, quest in ipairs(quests) do
+    if CheckExistEvent(uid, quest, 1) or CheckExistEvent(uid, quest, 3) or CheckExistEvent(uid, quest, 4) then return false end
+    if CheckExistEvent(uid, quest, 2) and not __KO_Committed[quest] then completed = true end
+  end
+  return completed
+end
+local function RunExchange(uid, exchange)
+  if __KO_AlreadyComplete(uid, exchange) and not __KO_Done[exchange] then error(__KO_Stop) end
+  if __KO_Done[exchange] and __KO_Quests[exchange] ~= nil then return true end
+  if not __KO_Ready(uid, exchange) then error(__KO_Stop) end
+  local ok = __KO_Run(uid, exchange)
+  if not ok then error(__KO_Stop) end
+  __KO_Done[exchange] = true
+  return true
+end
+local function RunSelectExchange(uid, exchange)
+  if __KO_AlreadyComplete(uid, exchange) and not __KO_Done[exchange] then error(__KO_Stop) end
+  if __KO_Done[exchange] and __KO_Quests[exchange] ~= nil then return true end
+  if not __KO_Ready(uid, exchange) then error(__KO_Stop) end
+  local ok = __KO_Select(uid, exchange)
+  if not ok then error(__KO_Stop) end
+  __KO_Done[exchange] = true
+  return true
+end
+local function SaveEvent(uid, helper)
+  local completing = __KO_Completion[helper]
+  if completing ~= nil then
+    if CheckExistEvent(uid, completing[1], 2) then error(__KO_Stop) end
+    if completing[2] > 0 and not __KO_Done[completing[2]] and not __KO_Ready(uid, completing[2]) then error(__KO_Stop) end
+  end
+  __KO_Save(uid, helper)
+  if completing ~= nil then __KO_Committed[completing[1]] = true end
+end
+local __KO_OK, __KO_Error = pcall(function()
+local function GetQuestStatus(uid, quest)
+  for state=0,4 do
+    if CheckExistEvent(uid, quest, state) then return state end
+  end
+  if CheckExistEvent(uid, quest, 255) then return 255 end
+  return 0
+end
+local NPC = 25163;
+
+if (EVENT == 100) then
+	QuestNum = SearchQuest(UID, NPC);
+	if (QuestNum == 0) then
+		SelectMsg(UID, 2, -1, 43829, NPC, 10, -1);
+	elseif (QuestNum > 1 and  QuestNum < 100) then
+		NpcMsg(UID, 43829, NPC)
+	else
+		EVENT = QuestNum
+	end
+end
+
+if(EVENT == 1112) then 
+	SelectMsg(UID, 4, 1312, 43829, NPC, 22, 1113, 23, -1);
+end
+
+if(EVENT == 1113) then
+	QuestStatus = GetQuestStatus(UID, 1312)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3582);
+	end
+end
+
+if(EVENT == 1117) then
+	QuestStatus = GetQuestStatus(UID, 1312)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1312, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1312, 43829, NPC, 10, 1116);
+		else
+			SaveEvent(UID, 3584);
+		end
+	end
+end
+
+if (EVENT == 1115) then
+	QuestStatus = GetQuestStatus(UID, 1312)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1312, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1312, 43829, NPC, 10, 1116);
+		else
+			SelectMsg(UID, 4, 1312, 43829, NPC, 10, 1118, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1116) then
+	ShowMap(UID, 1337);
+end
+
+if(EVENT == 1118) then
+	QuestStatus = GetQuestStatus(UID, 1312)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1312, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1312, 43829, NPC, 10, 1116);
+		else
+			RunExchange(UID,6105);
+			SaveEvent(UID, 3583);
+		end
+	end
+end
+
+if(EVENT == 1122) then 
+	SelectMsg(UID, 4, 1313, 43826, NPC, 10, 1123, 23, -1);
+end
+
+if(EVENT == 1123) then
+	QuestStatus = GetQuestStatus(UID, 1313)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3588);
+	end
+end
+
+if(EVENT == 1127) then
+	QuestStatus = GetQuestStatus(UID, 1313)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1313, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1313, 43826, NPC, 10, 1126);
+		else
+			SaveEvent(UID, 3590);
+		end
+	end
+end
+	
+if (EVENT == 1125) then
+	QuestStatus = GetQuestStatus(UID, 1313)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1313, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1313, 43826, NPC, 10, 1126);
+		else
+			SelectMsg(UID, 4, 1313, 43826, NPC, 10, 1128, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1126) then
+	ShowMap(UID, 113);
+end
+
+if(EVENT == 1128) then
+	QuestStatus = GetQuestStatus(UID, 1313)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1313, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1313, 43826, NPC, 10, 1126);
+		else
+			RunExchange(UID,6106);
+			SaveEvent(UID, 3589);
+		end
+	end
+end
+
+if (EVENT == 1132) then
+	SelectMsg(UID, 4, 1314, 43833, NPC, 10, 1133, 23, -1);
+end
+
+if(EVENT == 1133) then
+	QuestStatus = GetQuestStatus(UID, 1314)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3594);
+	end
+end
+
+if(EVENT == 1137) then
+	QuestStatus = GetQuestStatus(UID, 1314)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	KINGAIF = HowmuchItem(UID, 900653000)
+		if( KINGAIF < 1) then
+			SelectMsg(UID, 2, 1314, 43833, NPC, 18, 1136);
+		else
+			SaveEvent(UID, 3596);
+		end
+	end
+end
+	
+if(EVENT == 1135) then
+	QuestStatus = GetQuestStatus(UID, 1314)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	KINGAIF = HowmuchItem(UID, 900653000)
+		if( KINGAIF < 1) then
+			SelectMsg(UID, 2, 1314, 43833, NPC, 18, 1136);
+		else
+			SelectMsg(UID, 4, 1314, 43833, NPC, 10, 1138, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1136) then
+	ShowMap(UID, 1337);
+end
+
+if(EVENT == 1138) then
+	QuestStatus = GetQuestStatus(UID, 1314)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	KINGAIF = HowmuchItem(UID, 900653000)
+		if( KINGAIF < 1) then
+			SelectMsg(UID, 2, 1314, 43833, NPC, 18, 1136);
+		else
+			RunExchange(UID,6107);
+			SaveEvent(UID, 3595);
+		end
+	end
+end
+
+if (EVENT == 1152) then
+	SelectMsg(UID, 4, 1315, 43835, NPC, 10, 1153, 23, -1);
+end
+
+if(EVENT == 1153) then
+	QuestStatus = GetQuestStatus(UID, 1315)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3600);
+	end
+end
+
+if(EVENT == 1157) then
+	QuestStatus = GetQuestStatus(UID, 1315)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	BRACE = HowmuchItem(UID, 900654000)
+	EARRIN = HowmuchItem(UID, 900655000)
+		if (BRACE < 1) then
+			SelectMsg(UID, 2, 1315, 43833, NPC, 18, 1156);
+		elseif (EARRIN < 1) then
+			SelectMsg(UID, 2, 1315, 43833, NPC, 18, 1156);
+		else
+			SaveEvent(UID, 3602);
+		end
+	end
+end
+
+if(EVENT == 1155) then
+	QuestStatus = GetQuestStatus(UID, 1315)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	BRACE = HowmuchItem(UID, 900654000)
+	EARRIN = HowmuchItem(UID, 900655000)
+		if (BRACE < 1) then
+			SelectMsg(UID, 2, 1315, 43833, NPC, 18, 1156);
+		elseif (EARRIN < 1) then
+			SelectMsg(UID, 2, 1315, 43833, NPC, 18, 1156);
+		else
+			SelectMsg(UID, 4, 1315, 43833, NPC, 10, 1158, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1156) then
+	ShowMap(UID, 1336);
+end		
+
+if(EVENT == 1158) then
+	QuestStatus = GetQuestStatus(UID, 1315)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	BRACE = HowmuchItem(UID, 900654000)
+	EARRIN = HowmuchItem(UID, 900655000)
+		if (BRACE < 1) then
+			SelectMsg(UID, 2, 1315, 43833, NPC, 18, 1156);
+		elseif (EARRIN < 1) then
+			SelectMsg(UID, 2, 1315, 43833, NPC, 18, 1156);
+		else
+			RunExchange(UID,6109);
+			SaveEvent(UID, 3601);
+		end
+	end
+end
+
+if (EVENT == 1162) then
+	SelectMsg(UID, 4, 1316, 43839, NPC, 10, 1163, 23, -1);
+end
+
+if(EVENT == 1163) then
+	QuestStatus = GetQuestStatus(UID, 1316)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3606);
+	end
+end
+
+if(EVENT == 1167) then
+	QuestStatus = GetQuestStatus(UID, 1316)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1316, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1316, 43839, NPC, 10, 1166);
+		else
+			SaveEvent(UID, 3608);
+		end
+	end
+end
+
+if (EVENT == 1165) then
+	QuestStatus = GetQuestStatus(UID, 1316)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1316, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1316, 43839, NPC, 10, 1166);
+		else
+			SelectMsg(UID, 4, 1316, 43839, NPC, 10, 1168, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1166) then
+	ShowMap(UID, 1336);
+end
+
+if(EVENT == 1168) then
+	QuestStatus = GetQuestStatus(UID, 1316)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1316, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1316, 43839, NPC, 10, 1166);
+		else
+			RunExchange(UID,6110);
+			SaveEvent(UID, 3607);
+		end
+	end
+end
+
+if (EVENT == 1172) then
+	SelectMsg(UID, 4, 1317, 43842, NPC, 10, 1173, 23, -1);
+end
+
+if(EVENT == 1173) then
+	QuestStatus = GetQuestStatus(UID, 1317)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3612);
+	end
+end
+
+if(EVENT == 1177) then
+	QuestStatus = GetQuestStatus(UID, 1317)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1317, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1317, 43842, NPC, 10, 1176);
+		else
+			SaveEvent(UID, 3614);
+		end
+	end
+end
+
+if (EVENT == 1175) then
+	QuestStatus = GetQuestStatus(UID, 1317)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1317, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1317, 43842, NPC, 10, 1176);
+		else
+			SelectMsg(UID, 4, 1317, 43842, NPC, 10, 1178, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1176) then
+ShowMap(UID, 1319);
+end
+
+if(EVENT == 1178) then
+	QuestStatus = GetQuestStatus(UID, 1317)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1317, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1317, 43842, NPC, 10, 1176);
+		else
+			RunExchange(UID,6111);
+			SaveEvent(UID, 3613);
+		end
+	end
+end
+
+if (EVENT == 1182) then
+	SelectMsg(UID, 4, 1318, 43845, NPC, 10, 1183, 23, -1);
+end
+
+if(EVENT == 1183) then
+	QuestStatus = GetQuestStatus(UID, 1318)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3618);
+	end
+end
+
+if(EVENT == 1187) then
+	QuestStatus = GetQuestStatus(UID, 1318)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1318, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1318, 43845, NPC, 10, 1186);
+		else
+			SaveEvent(UID, 3620);
+		end
+	end
+end
+
+if (EVENT == 1185) then
+	QuestStatus = GetQuestStatus(UID, 1318)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1318, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1318, 43845, NPC, 10, 1186);
+		else
+			SelectMsg(UID, 4, 1318, 43845, NPC, 10, 1188, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1186) then
+ShowMap(UID, 1338);
+end
+
+if(EVENT == 1188) then
+	QuestStatus = GetQuestStatus(UID, 1318)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1318, 1);
+		if (MonsterCount < 1) then
+			SelectMsg(UID, 2, 1318, 43845, NPC, 10, 1186);
+		else
+			RunExchange(UID,6112);
+			SaveEvent(UID, 3619);
+		end
+	end
+end
+
+if (EVENT == 1192) then
+	SelectMsg(UID, 4, 1319, 43848, NPC, 10, 1193, 23, -1);
+end
+
+if(EVENT == 1193) then
+	QuestStatus = GetQuestStatus(UID, 1319)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+			SaveEvent(UID, 3624);
+	end
+end
+
+if(EVENT == 1197) then
+	QuestStatus = GetQuestStatus(UID, 1319)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1319, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1319, 43848, NPC, 10, 1196);
+		else
+			SaveEvent(UID, 3626);
+		end
+	end
+end
+
+if (EVENT == 1195) then
+	QuestStatus = GetQuestStatus(UID, 1319)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1319, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1319, 43848, NPC, 10, 1196);
+		else
+			SelectMsg(UID, 4, 1319, 43848, NPC, 10, 1198, 27, -1);
+		end
+	end
+end
+
+if(EVENT == 1196) then
+ShowMap(UID, 547);
+end
+
+if(EVENT == 1198) then
+	QuestStatus = GetQuestStatus(UID, 1319)	
+		if(QuestStatus == 2) then
+			SelectMsg(UID, 2, -1, 44614, NPC, 10, -1);
+		else
+	MonsterCount = CountMonsterQuestSub(UID, 1319, 1);
+		if (MonsterCount < 20) then
+			SelectMsg(UID, 2, 1319, 43848, NPC, 10, 1196);
+		else
+			RunExchange(UID,6113);
+			SaveEvent(UID, 3625);
+		end
+	end
+end
+
+if (EVENT == 1202) then
+	SelectMsg(UID, 4, 1320, 43851, NPC, 10, 1203, 23, -1);
+end
+
+if(EVENT == 1203) then
+	SaveEvent(UID, 3630);
+	SaveEvent(UID, 3632);
+end
+
+if(EVENT == 1205) then
+    RunExchange(UID,6114);
+	SaveEvent(UID, 3631);
+end
+
+-- ═══════════════════════════════════════════════════════════════════
+-- AUTO-GENERATED EVENT HANDLERS (ko-quest-gen)
+-- ═══════════════════════════════════════════════════════════════════
+
+-- [AUTO-GEN] quest=1312 status=255 n_index=3580
+if (EVENT == 1110) then
+	SaveEvent(UID, 3581);
+end
+
+-- [AUTO-GEN] quest=1313 status=255 n_index=3586
+if (EVENT == 1120) then
+	SaveEvent(UID, 3587);
+end
+
+-- [AUTO-GEN] quest=1314 status=255 n_index=3592
+if (EVENT == 1130) then
+	SaveEvent(UID, 3593);
+end
+
+-- [AUTO-GEN] quest=1315 status=255 n_index=3598
+if (EVENT == 1150) then
+	SaveEvent(UID, 3599);
+end
+
+-- [AUTO-GEN] quest=1316 status=255 n_index=3604
+if (EVENT == 1160) then
+	SaveEvent(UID, 3605);
+end
+
+-- [AUTO-GEN] quest=1317 status=255 n_index=3610
+if (EVENT == 1170) then
+	SaveEvent(UID, 3611);
+end
+
+-- [AUTO-GEN] quest=1318 status=255 n_index=3616
+if (EVENT == 1180) then
+	SaveEvent(UID, 3617);
+end
+
+-- [AUTO-GEN] quest=1319 status=255 n_index=3622
+if (EVENT == 1190) then
+	SaveEvent(UID, 3623);
+end
+
+-- [AUTO-GEN] quest=1320 status=255 n_index=3628
+if (EVENT == 1200) then
+	SaveEvent(UID, 3629);
+end
+
+
+end)
+if not __KO_OK and __KO_Error ~= __KO_Stop then error(__KO_Error) end

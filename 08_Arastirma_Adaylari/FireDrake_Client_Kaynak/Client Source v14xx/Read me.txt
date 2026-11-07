@@ -1,0 +1,14 @@
+https://t.me/roshteinmail
+
+// Bellek takibi için
+auto debug = CN3DebugSystem::GetInstance();
+debug->TrackAllocation(boyut, "TextureMemory");
+
+// Performans izleme için
+debug->BeginFrame();
+
+debug->EndFrame();
+
+// Uyarı kaydetmek için
+debug->LogAlert(CN3DebugSystem::Alert::Level::Warning, "Kaynak yükleme hatası");
+

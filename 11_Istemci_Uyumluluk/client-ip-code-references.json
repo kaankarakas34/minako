@@ -1,0 +1,300 @@
+{
+  "Pid": 28996,
+  "ModuleBase": "0x721b0000",
+  "TargetAddress": "0x723f6538",
+  "ReadOnly": true,
+  "Sections": [
+    {
+      "Name": ".text",
+      "Size": 2312329,
+      "RVA": 4096,
+      "Flags": 1610612768
+    },
+    {
+      "Name": ".rdata",
+      "Size": 446578,
+      "RVA": 2318336,
+      "Flags": 1073741888
+    },
+    {
+      "Name": ".data",
+      "Size": 1065664,
+      "RVA": 2768896,
+      "Flags": 3221225536
+    },
+    {
+      "Name": ".idata",
+      "Size": 8776,
+      "RVA": 3837952,
+      "Flags": 3221225536
+    },
+    {
+      "Name": ".vmp0",
+      "Size": 3878364,
+      "RVA": 3850240,
+      "Flags": 1610612832
+    },
+    {
+      "Name": ".vmp1",
+      "Size": 6795952,
+      "RVA": 7729152,
+      "Flags": 1610612832
+    },
+    {
+      "Name": ".reloc",
+      "Size": 1444,
+      "RVA": 14528512,
+      "Flags": 1073741888
+    },
+    {
+      "Name": ".rsrc",
+      "Size": 233,
+      "RVA": 14532608,
+      "Flags": 1073741888
+    }
+  ],
+  "References": [
+    {
+      "Address": "0x7228b1c1",
+      "Section": {
+        "Name": ".text",
+        "Size": 2312329,
+        "RVA": 4096,
+        "Flags": 1610612768
+      },
+      "Instructions": [
+        {
+          "Address": "0x7228b1c0",
+          "Instruction": "push 0x723f6538"
+        },
+        {
+          "Address": "0x7228b1c5",
+          "Instruction": "push dword ptr [ebp - 0x18]"
+        },
+        {
+          "Address": "0x7228b1c8",
+          "Instruction": "lea ecx, [ebp - 0x2c]"
+        },
+        {
+          "Address": "0x7228b1cb",
+          "Instruction": "push 0"
+        },
+        {
+          "Address": "0x7228b1cd",
+          "Instruction": "mov dword ptr [ebp - 4], 0"
+        },
+        {
+          "Address": "0x7228b1d4",
+          "Instruction": "call 0x721b9043"
+        },
+        {
+          "Address": "0x7228b1d9",
+          "Instruction": "test eax, eax"
+        },
+        {
+          "Address": "0x7228b1db",
+          "Instruction": "je 0x7228b1e4"
+        },
+        {
+          "Address": "0x7228b1dd",
+          "Instruction": "mov esi, 0x274d"
+        },
+        {
+          "Address": "0x7228b1e2",
+          "Instruction": "jmp 0x7228b1f3"
+        },
+        {
+          "Address": "0x7228b1e4",
+          "Instruction": "push dword ptr [ebp + 0x10]"
+        },
+        {
+          "Address": "0x7228b1e7",
+          "Instruction": "push esi"
+        },
+        {
+          "Address": "0x7228b1e8",
+          "Instruction": "push dword ptr [ebp + 8]"
+        },
+        {
+          "Address": "0x7228b1eb",
+          "Instruction": "call dword ptr [0x72554fd4]"
+        },
+        {
+          "Address": "0x7228b1f1",
+          "Instruction": "mov esi, eax"
+        },
+        {
+          "Address": "0x7228b1f3",
+          "Instruction": "cmp dword ptr [ebp - 0x14], 0x10"
+        },
+        {
+          "Address": "0x7228b1f7",
+          "Instruction": "mov dword ptr [ebp - 4], 0xffffffff"
+        },
+        {
+          "Address": "0x7228b1fe",
+          "Instruction": "jb 0x7228b20b"
+        },
+        {
+          "Address": "0x7228b200",
+          "Instruction": "push dword ptr [ebp - 0x28]"
+        },
+        {
+          "Address": "0x7228b203",
+          "Instruction": "call 0x723398a0"
+        },
+        {
+          "Address": "0x7228b208",
+          "Instruction": "add esp, 4"
+        },
+        {
+          "Address": "0x7228b20b",
+          "Instruction": "mov eax, dword ptr [ebp - 0x2c]"
+        },
+        {
+          "Address": "0x7228b20e",
+          "Instruction": "mov dword ptr [ebp - 0x14], 0xf"
+        },
+        {
+          "Address": "0x7228b215",
+          "Instruction": "mov dword ptr [ebp - 0x18], 0"
+        },
+        {
+          "Address": "0x7228b21c",
+          "Instruction": "mov byte ptr [ebp - 0x28], 0"
+        },
+        {
+          "Address": "0x7228b220",
+          "Instruction": "test eax, eax"
+        },
+        {
+          "Address": "0x7228b222",
+          "Instruction": "je 0x7228b26b"
+        }
+      ]
+    },
+    {
+      "Address": "0x7229426f",
+      "Section": {
+        "Name": ".text",
+        "Size": 2312329,
+        "RVA": 4096,
+        "Flags": 1610612768
+      },
+      "Instructions": [
+        {
+          "Address": "0x7229426e",
+          "Instruction": "push 0x723f6538"
+        },
+        {
+          "Address": "0x72294273",
+          "Instruction": "push dword ptr [ebp - 0x18]"
+        },
+        {
+          "Address": "0x72294276",
+          "Instruction": "lea ecx, [ebp - 0x2c]"
+        },
+        {
+          "Address": "0x72294279",
+          "Instruction": "push 0"
+        },
+        {
+          "Address": "0x7229427b",
+          "Instruction": "mov dword ptr [ebp - 4], 0"
+        },
+        {
+          "Address": "0x72294282",
+          "Instruction": "call 0x721b9043"
+        },
+        {
+          "Address": "0x72294287",
+          "Instruction": "test eax, eax"
+        },
+        {
+          "Address": "0x72294289",
+          "Instruction": "je 0x72294292"
+        },
+        {
+          "Address": "0x7229428b",
+          "Instruction": "mov esi, 0x274d"
+        },
+        {
+          "Address": "0x72294290",
+          "Instruction": "jmp 0x722942a7"
+        },
+        {
+          "Address": "0x72294292",
+          "Instruction": "push dword ptr [ebp - 0x30]"
+        },
+        {
+          "Address": "0x72294295",
+          "Instruction": "push ebx"
+        },
+        {
+          "Address": "0x72294296",
+          "Instruction": "push esi"
+        },
+        {
+          "Address": "0x72294297",
+          "Instruction": "push esi"
+        },
+        {
+          "Address": "0x72294298",
+          "Instruction": "push dword ptr [ebp + 0x10]"
+        },
+        {
+          "Address": "0x7229429b",
+          "Instruction": "push edi"
+        },
+        {
+          "Address": "0x7229429c",
+          "Instruction": "push dword ptr [ebp + 8]"
+        },
+        {
+          "Address": "0x7229429f",
+          "Instruction": "call dword ptr [0x72554fdc]"
+        },
+        {
+          "Address": "0x722942a5",
+          "Instruction": "mov esi, eax"
+        },
+        {
+          "Address": "0x722942a7",
+          "Instruction": "cmp dword ptr [ebp - 0x14], 0x10"
+        },
+        {
+          "Address": "0x722942ab",
+          "Instruction": "mov dword ptr [ebp - 4], 0xffffffff"
+        },
+        {
+          "Address": "0x722942b2",
+          "Instruction": "jb 0x722942bf"
+        },
+        {
+          "Address": "0x722942b4",
+          "Instruction": "push dword ptr [ebp - 0x28]"
+        },
+        {
+          "Address": "0x722942b7",
+          "Instruction": "call 0x723398a0"
+        },
+        {
+          "Address": "0x722942bc",
+          "Instruction": "add esp, 4"
+        },
+        {
+          "Address": "0x722942bf",
+          "Instruction": "mov eax, dword ptr [ebp - 0x2c]"
+        },
+        {
+          "Address": "0x722942c2",
+          "Instruction": "mov dword ptr [ebp - 0x14], 0xf"
+        },
+        {
+          "Address": "0x722942c9",
+          "Instruction": "mov dword ptr [ebp - 0x18], 0"
+        }
+      ]
+    }
+  ]
+}

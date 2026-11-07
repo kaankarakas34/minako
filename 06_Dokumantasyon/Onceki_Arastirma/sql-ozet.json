@@ -1,0 +1,17 @@
+[
+  {
+    "Kind": "ProcedureReference",
+    "UniqueNames": 150,
+    "References": 152
+  },
+  {
+    "Kind": "RecordsetTable",
+    "UniqueNames": 101,
+    "References": 108
+  },
+  {
+    "Kind": "SqlTableCandidate",
+    "UniqueNames": 24,
+    "References": 47
+  }
+]

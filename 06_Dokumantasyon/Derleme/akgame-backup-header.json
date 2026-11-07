@@ -1,0 +1,9 @@
+{
+  "DatabaseName": "KO_DATABASE_SERVER_001",
+  "BackupStartDate": "2025-05-28T19:54:50",
+  "BackupFinishDate": "2025-05-28T19:54:50",
+  "SoftwareVersionMajor": 16,
+  "SoftwareVersionMinor": 0,
+  "CompatibilityLevel": 100,
+  "Collation": "SQL_Latin1_General_CP1_CI_AS"
+}

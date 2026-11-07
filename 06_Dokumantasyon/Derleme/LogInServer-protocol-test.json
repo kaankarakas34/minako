@@ -1,0 +1,11 @@
+{
+  "Server": "LogInServer",
+  "Port": 15100,
+  "FramingValidated": true,
+  "NativeVersion": 2239,
+  "VersionReplyBytes": 3,
+  "CredentialsSent": false,
+  "GraphicalClientTested": false,
+  "ServerListValidated": true,
+  "AdvertisedServers": 1
+}

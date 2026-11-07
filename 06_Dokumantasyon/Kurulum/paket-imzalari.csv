@@ -1,0 +1,7 @@
+"File","Bytes","SHA256","SignatureStatus","Signer"
+"msodbcsql18-x64.msi","10092544","21EF69E4B942F18ACED55FA7C3A8D7263004E113A96690BAC7509645E1B1A310","Valid","CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+"SQL2022-SSEI-Expr.exe","3751760","E2B8E8AAD30D8B1A1922C6C0976C806F0A2E08D04B2DE100A9D70B9F94750BB1","Valid","CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+"sqlcmd-amd64.msi","7860224","50C441F39C7087679BC23A957FD1AE1C67A0B47DFE7B93EF611921F41FD5697C","Valid","CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+"SQLEXPR_x64_ENU.exe","279293816","2E61C8BBDE6021F9026C54AD9DB4BBB1227E68761D4C00A6A50A2C70FE7AFE05","Valid","CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+"SQLServer2022-KB5104824-x64.exe","490559304","675E3CEDD6C7A3D0FFBE713E46E54A86A92AF7B96CA4A6BEB987AE99C79B96F5","Valid","CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+"SQLServer2022-KB5126934-x64.exe","491045896","8F1A7F0AC5F47FF98F5825687C8CCD897563AA835915F2271F908273E962E7E2","Valid","CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"

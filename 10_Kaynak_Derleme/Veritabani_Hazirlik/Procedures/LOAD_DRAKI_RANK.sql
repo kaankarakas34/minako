@@ -1,0 +1,6 @@
+CREATE PROCEDURE [dbo].[LOAD_DRAKI_RANK]
+AS
+
+BEGIN
+	SELECT top(5)sIndex,Class,RankID, strUserID, bStage, FinishTime FROM DRAKI_TOWER_RIFT_RANK
+END
